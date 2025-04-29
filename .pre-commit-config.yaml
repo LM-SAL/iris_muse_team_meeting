@@ -1,0 +1,33 @@
+exclude: ".*(.svg|.png|.jpeg|.jpg)$"
+repos:
+  - repo: https://github.com/PyCQA/docformatter
+    rev: HEAD
+    hooks:
+      - id: docformatter
+        args: ["--in-place", "--pre-summary-newline", "--make-summary-multi"]
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: "v0.11.4"
+    hooks:
+      - id: ruff
+        args: ["--fix", "--unsafe-fixes"]
+      - id: ruff-format
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v5.0.0
+    hooks:
+      - id: check-ast
+      - id: check-case-conflict
+      - id: trailing-whitespace
+      - id: check-yaml
+      - id: debug-statements
+      - id: check-added-large-files
+        args: ["--enforce-all", "--maxkb=4096"]
+      - id: end-of-file-fixer
+      - id: mixed-line-ending
+  - repo: https://github.com/codespell-project/codespell
+    rev: v2.4.1
+    hooks:
+      - id: codespell
+
+ci:
+  autofix_prs: false
+  autoupdate_schedule: "quarterly"
