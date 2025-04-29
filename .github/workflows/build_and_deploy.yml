@@ -1,0 +1,66 @@
+name: Build and Deploy
+
+on:
+  push:
+    branches:
+      - 'main'
+  pull_request:
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+
+  build_site:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+      - name: Set up Python 3.13
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - name: Install dependencies
+        run: |
+          python -m pip install -r requirements.txt
+      - name: Run mkdocs
+        run: |
+          mkdocs build
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: site
+          path: |
+            site*
+
+  deploy:
+    needs: [build_site]
+    if: |
+      (
+        github.event_name != 'pull_request' && (
+        github.ref_name == 'main' ||
+        github.event_name == 'workflow_dispatch'
+        )
+      )
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+      - name: Set up Python 3.13
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
+      - uses: actions/cache@v4
+        with:
+          key: mkdocs-material-${{ env.cache_id }}
+          path: .cache
+          restore-keys: |
+            mkdocs-material-
+      - run: sudo apt install libcairo2
+      - run: pip install -r requirements.txt
+      - run: mkdocs gh-deploy --force
+    env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
