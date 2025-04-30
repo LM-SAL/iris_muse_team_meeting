@@ -4,7 +4,9 @@ template: home.html
 
 # Joint MUSE/IRIS science team meeting, October 27-30 2025
 
-![Cover movie for the meeting](assets/movies/movieb.mp4)
+<video width="480" height="480" autoplay loop muted>
+  <source src="assets/movies/movieb.mp4" type="video/mp4">
+</video>
 
 Our current understanding of the solar chromosphere, transition region, and corona is rapidly evolving, fueled by increasingly advanced simulations of the coupled solar atmosphere and unprecedented high-resolution observations from ground-based (e.g., SST, DKIST) and space-based (e.g., IRIS, Solar Orbiter/EUI) telescopes.
 
