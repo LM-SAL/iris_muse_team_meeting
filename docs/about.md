@@ -2,7 +2,7 @@
 title: About the Joint MUSE/IRIS science team meeting
 ---
 
-# About the the Joint MUSE/IRIS science team meeting
+# About the Joint MUSE/IRIS science team meeting
 
 ## What is the Joint MUSE/IRIS science team meeting?
 
