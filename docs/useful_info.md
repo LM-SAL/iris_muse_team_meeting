@@ -13,7 +13,7 @@ title: Useful Information
 !!! note
 
     This will be a MUSE and IRIS science team meeting, directly in support to the operations of the missions, and is NOT a conference.
-    Therefore, for NASA-funded people, this meeting does not need to be entered into the NCTS system for approval.
+    Therefore, for NASA funded people, this meeting should not be entered into the NCTS system for approval.
 
 Please fill in the following form:
 
@@ -35,7 +35,7 @@ We have no relationships to any hotel vendor, the following list are ones close 
 
 **Breakfast nor dinner will be provided.**
 
-Lunch may be provided by participant payment, but details are in progress.
+Lunch options will be provided on a daily basis, to be paid for by the participants. Details will be made available at the meeting.
 
 ## Parking
 
