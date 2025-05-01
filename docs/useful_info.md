@@ -6,7 +6,10 @@ title: Useful Information
 
 ## Invite Only
 
-Please fill in:
+Please fill in the following form:
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScQMnu1V1aOxilhe7mlyeOGI3LQJ4BfwJ-I1pfiPpk5j_87pA/viewform?embedded=true" width="640" height="1254" frameborder="0" marginheight="0" marginwidth="0">Loading…
+</iframe>
 
 ## Venue
 
@@ -28,7 +31,7 @@ We have no relantionships to any hotel vendor, the following list are ones close
 
 ### Food
 
-Stuff
+Lunch might be provided by participant pre-payment, details are in progress.
 
 ## Parking
 
