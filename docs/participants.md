@@ -1,5 +1,4 @@
 ---
 title: Participants
 ---
-
-People who are coming.
+{{ read_csv('assets/files/people_coming.csv') }}
