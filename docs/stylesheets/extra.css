@@ -243,3 +243,7 @@ thead {
 .sponsor-black {
     background-color: black;
 }
+
+.md-typeset .admonition,.md-typeset details {
+    font-size: 0.8rem;
+}
