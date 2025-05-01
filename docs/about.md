@@ -14,18 +14,24 @@ This joint team meeting provides a dynamic forum for critical comparison, highli
 
 ## LOC
 
+* Rebecca Robinson [co-chair]
+* Vishal Upendran [co-chair]
 * Gabriele Cozzo
 * Juan Martinez Sykora
 * Juraj Lorincik
 * Kyuhyoun Cho
 * Nabil Freij
-* Rebecca Robinson
 * Souvik Bose
-* Vishal Upendran
 
 ## SOC
 
-Names
+* Amy Winebarger
+* Bart De Pontieu
+* Fabio Reale
+* Juan Martinez-Sykora
+* Marco Stangalini
+* Mark Cheung
+* Paola Testa
 
 ## Contact Us
 
