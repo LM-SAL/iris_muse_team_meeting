@@ -4,13 +4,11 @@ title: About the Joint MUSE/IRIS science team meeting
 
 # About the Joint MUSE/IRIS science team meeting
 
-## What is the Joint MUSE/IRIS science team meeting?
+The meeting will be held at the SETI institute in Mountain View, CA, not far (about 20 min car ride) from LMSAL in Palo Alto, CA.
+The meeting has no registration fees, and is by invitation only.
 
-Our current understanding of the solar chromosphere, transition region, and corona is rapidly evolving, fueled by increasingly advanced simulations of the coupled solar atmosphere and unprecedented high-resolution observations from ground-based (e.g., SST, DKIST) and space-based (e.g., IRIS, Solar Orbiter/EUI) telescopes.
-
-The purpose of this meeting is to advance our knowledge of the dominant processes driving solar dynamics and heating—and to develop next-generation models—it is essential to rigorously compare simulations with observations, focusing on resolving discrepancies between observed and synthetic spectra.
-
-This joint team meeting provides a dynamic forum for critical comparison, highlighting recent breakthroughs, identifying missing physics, and charting paths toward more realistic simulations, with particular attention to IRIS and the upcoming MUSE mission.
+**NOTE**: This will be a MUSE and IRIS science team meeting, directly in support to the operations of the missions, and is NOT a conference.
+Therefore, for NASA-funded people, this meeting does not need to be entered into the NCTS system for approval.
 
 ## LOC
 
