@@ -2,14 +2,17 @@
 <!-- Remove side nav bar on large screens on desktop -->
 {% block header %}
   {{ super() }}
+
   <!-- Additional styles for landing page -->
   <style>
+
     /* Hide table of contents */
     @media screen and (min-width: 60em) {
       .md-sidebar--secondary {
         display: none;
       }
     }
+
     /* Hide navigation */
     @media screen and (min-width: 76.25em) {
       .md-sidebar--primary {
@@ -19,9 +22,14 @@
 </style>
 {% endblock %}
 {% block hero %}
+<div style="text-align: center;">
+  <video width="480" height="480" autoplay loop muted>
+    <source src="assets/movies/movieb.mp4" type="video/mp4">
+  </video>
+</div>
 {% endblock %}
 {% block toc %}
-<p>shit</p>
+<p></p>
 {% endblock %}
 {% block content %}
     <div style="text-align: center;">
