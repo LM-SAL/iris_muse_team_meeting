@@ -1,5 +1,5 @@
 site_name: Joint MUSE/IRIS science team meeting, October 27-30 2025
-site_author: LMSAL
+site_author: LOC Team
 site_url: https://iris_muse_team_meeting.seti.org
 extra_css:
   - stylesheets/extra.css
@@ -7,8 +7,8 @@ theme:
   name: material
   custom_dir: overrides
   locale: en
-  #logo: assets/images/2024-logo.png
-  #favicon: assets/images/favicon.png
+  logo: assets/images/cover_square.jpg
+  favicon: assets/images/favicon.png
   features:
     - announce.dismiss
     - navigation.tabs
@@ -44,16 +44,16 @@ nav:
   - Useful Information: useful_info.md
   - Participants: participants.md
   - Abstracts: abstracts.md
-  - Schedule:
-    - Talk Schedule: schedule/full_schedule.md
-    - Keynote Speakers: schedule/keynotes.md
-    - Tutorials: schedule/tutorials.md
-    - Talks: schedule/talks.md
+  # - Schedule:
+  #   - Talk Schedule: schedule/full_schedule.md
+  #   - Keynote Speakers: schedule/keynotes.md
+  #   - Tutorials: schedule/tutorials.md
+  #   - Talks: schedule/talks.md
   - Instructions: instructions.md
-  - Social Events: social_events.md
+  #- Social Events: social_events.md
   - FAQ: faq.md
-  - Sponsors:
-    - our-sponsors.md
+  #- Sponsors:
+  #  - our-sponsors.md
 plugins:
   - search
   - table-reader
