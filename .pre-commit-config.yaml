@@ -1,4 +1,4 @@
-exclude: ".*(.svg|.png|.jpeg|.jpg)$"
+exclude: ".*(.svg|.png|.jpeg|.jpg)|docs/assets/movies/movieb.mp4$"
 repos:
   - repo: https://github.com/PyCQA/docformatter
     rev: HEAD
@@ -6,7 +6,7 @@ repos:
       - id: docformatter
         args: ["--in-place", "--pre-summary-newline", "--make-summary-multi"]
   - repo: https://github.com/astral-sh/ruff-pre-commit
-    rev: "v0.11.4"
+    rev: "v0.11.7"
     hooks:
       - id: ruff
         args: ["--fix", "--unsafe-fixes"]
@@ -23,10 +23,11 @@ repos:
         args: ["--enforce-all", "--maxkb=4096"]
       - id: end-of-file-fixer
       - id: mixed-line-ending
-  - repo: https://github.com/codespell-project/codespell
-    rev: v2.4.1
+  - repo: https://github.com/crate-ci/typos
+    rev: v1.31.2
     hooks:
-      - id: codespell
+      - id: typos
+        args: []
 
 ci:
   autofix_prs: false
