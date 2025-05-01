@@ -8,8 +8,9 @@ title: About the Joint MUSE/IRIS science team meeting
 For stuff
 
 ### LOC
-
+Vishal Upendran
 Nabil Freij
+Souvik Bose
 
 ### SOC
 
