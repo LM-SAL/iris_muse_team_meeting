@@ -1,27 +1,27 @@
-First,Last,Institution,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Patrick ,Antolin,"Northumbria University, UK",,,,,,,,,,,,,,,
-Stuart ,Bale,"Space Sciences Laboratory, University of California Berkeley, USA",,,,,,,,,,,,,,,
-Stephen,Bradshaw,"Rice University, USA",,,,,,,,,,,,,,,
-Mark ,Cheung,"CSIRO, Australia",,,,,,,,,,,,,,,
-Kyuhyoun ,Cho,"SETI Institute, USA",,,,,,,,,,,,,,,
-Lars ,Daldorff,"NASA Goddard Space Flight Center, USA",,,,,,,,,,,,,,,
-Jaime,de la Cruz Rodriguez,"Institute for Solar Physics, Sweden",,,,,,,,,,,,,,,
-Ineke ,De Moortel,"University of St Andrews, UK",,,,,,,,,,,,,,,
-Bart,De Pontieu,"Lockheed Martin Solar & Astrophysics Laboratory, USA",,,,,,,,,,,,,,,
-Milan ,Gosic,"SETI Institute, USA",,,,,,,,,,,,,,,
-Salvo,Guglielmino,"University of Catania, Italy",,,,,,,,,,,,,,,
-Shin,Imada,"Institute for Space-Earth Environmental Research, Japan",,,,,,,,,,,,,,,
-Sarah ,Jaeggli,"National Solar Observatory, USA",,,,,,,,,,,,,,,
-Meng,Jin,"Lockheed Martin Solar & Astrophysics Laboratory, USA",,,,,,,,,,,,,,,
-Craig ,Johnston,"George Mason University, USA",,,,,,,,,,,,,,,
-Jim ,Klimchuk,"National Solar Observatory, USA",,,,,,,,,,,,,,,
-Juan,Martinez Sykora,"SETI Institute, USA",,,,,,,,,,,,,,,
-Daniel ,Nobrega Siverio,"Instituto de Astrofísica de Canarias, Spain",,,,,,,,,,,,,,,
-Hardi ,Peter,"Max Planck Institute for Solar System Research, Germany",,,,,,,,,,,,,,,
-Fabio,Reale,"University of Palermo, Italy",,,,,,,,,,,,,,,
-Rebecca ,Robinson,"SETI Institute, USA",,,,,,,,,,,,,,,
-Alberto ,Sainz Dalda,"SETI Institute, USA",,,,,,,,,,,,,,,
-Paola ,Testa,"Harvard-Smithsonian Center for Astrophysics, USA",,,,,,,,,,,,,,,
-Vishal ,Upendran,"SETI Institute, USA",,,,,,,,,,,,,,,
-Harry ,Warren,"Space Science Division, Naval Research Laboratory, USA",,,,,,,,,,,,,,,
-Amy ,Winebarger,"NASA Marshall Space Flight Center, USA",,,,,,,,,,,,,,,
+First Name, Last Name,Institution
+Alberto , Sainz Dalda,"SETI Institute, USA"
+Amy , Winebarger,"NASA Marshall Space Flight Center, USA"
+Bart, De Pontieu,"Lockheed Martin Solar & Astrophysics Laboratory, USA"
+Craig , Johnston,"George Mason University, USA"
+Daniel , Nobrega Siverio,"Instituto de Astrofísica de Canarias, Spain"
+Fabio, Reale,"University of Palermo, Italy"
+Hardi , Peter,"Max Planck Institute for Solar System Research, Germany"
+Harry , Warren,"Space Science Division, Naval Research Laboratory, USA"
+Ineke , De Moortel,"University of St Andrews, UK"
+Jaime, de la Cruz Rodriguez,"Institute for Solar Physics, Sweden"
+Jim , Klimchuk,"National Solar Observatory, USA"
+Juan, Martinez Sykora,"SETI Institute, USA"
+Kyuhyoun , Cho,"SETI Institute, USA"
+Lars , Daldorff,"NASA Goddard Space Flight Center, USA"
+Mark , Cheung,"CSIRO, Australia"
+Meng, Jin,"Lockheed Martin Solar & Astrophysics Laboratory, USA"
+Milan , Gosic,"SETI Institute, USA"
+Paola , Testa,"Harvard-Smithsonian Center for Astrophysics, USA"
+Patrick , Antolin,"Northumbria University, UK"
+Rebecca , Robinson,"SETI Institute, USA"
+Salvo, Guglielmino,"University of Catania, Italy"
+Sarah , Jaeggli,"National Solar Observatory, USA"
+Shin, Imada,"Institute for Space-Earth Environmental Research, Japan"
+Stephen, Bradshaw,"Rice University, USA"
+Stuart , Bale,"Space Sciences Laboratory, University of California Berkeley, USA"
+Vishal , Upendran,"SETI Institute, USA"
