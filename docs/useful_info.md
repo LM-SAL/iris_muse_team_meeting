@@ -4,11 +4,20 @@ title: Useful Information
 
 # Attend the Joint MUSE/IRIS science team meeting
 
-## Invite Only
+## Registration
 
-Please fill in:
+!!! warning
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScQMnu1V1aOxilhe7mlyeOGI3LQJ4BfwJ-I1pfiPpk5j_87pA/viewform?embedded=true" width="640" height="1160" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+    The meeting has no registration fees, and is by invitation only.
+
+!!! note
+
+    This will be a MUSE and IRIS science team meeting, directly in support to the operations of the missions, and is NOT a conference.
+    Therefore, for NASA-funded people, this meeting does not need to be entered into the NCTS system for approval.
+
+Please fill in the following form:
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScQMnu1V1aOxilhe7mlyeOGI3LQJ4BfwJ-I1pfiPpk5j_87pA/viewform?embedded=true" width="640" height="640" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ## Venue
 
@@ -20,7 +29,7 @@ The Joint MUSE/IRIS science team meeting is being held at the [SETI Institute's 
 
 We have no relationships to any hotel vendor, the following list are ones close to SETI.
 
-* Juraj's House, 400$ a night
+* TBD
 
 ### Food
 
