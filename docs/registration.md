@@ -10,7 +10,7 @@ title: Registration
 
 !!! note
 
-    This will be a MUSE and IRIS science team meeting, directly in support to the operations of the missions, and is NOT a conference.
+    This will be a MUSE and IRIS science team meeting, directly in support of the operations of the missions, and is NOT a conference.
     Therefore, for NASA funded people, this meeting should not be entered into the NCTS system for approval.
 
 Please fill in the following form:
