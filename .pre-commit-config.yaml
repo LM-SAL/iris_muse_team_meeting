@@ -1,4 +1,4 @@
-exclude: ".*(.svg|.png|.jpeg|.jpg)|docs/assets/movies/movieb.mp4|docs/assets/files/people_coming.csv$"
+exclude: ".*(.svg|.png|.jpeg|.jpg)|docs/assets/movies/front_page.mp4|docs/assets/files/people_coming.csv$"
 repos:
   - repo: https://github.com/PyCQA/docformatter
     rev: HEAD
