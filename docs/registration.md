@@ -16,4 +16,3 @@ title: Registration
 Please fill in the following form:
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScQMnu1V1aOxilhe7mlyeOGI3LQJ4BfwJ-I1pfiPpk5j_87pA/viewform?embedded=true" width="640" height="640" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
