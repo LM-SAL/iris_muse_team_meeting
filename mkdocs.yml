@@ -41,7 +41,8 @@ markdown_extensions:
 nav:
   - Home: index.md
   - About: about.md
-  - Useful Information: useful_info.md
+  - Registration: registration.md
+  - Information: useful_info.md
   - Participants: participants.md
   - Abstracts: abstracts.md
   # - Schedule:
