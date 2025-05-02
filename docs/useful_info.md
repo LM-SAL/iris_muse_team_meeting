@@ -12,7 +12,7 @@ The Joint MUSE/IRIS science team meeting is being held at the [SETI Institute's 
 
 ## Hotels
 
-We have no relationships to any hotel vendor, the following list are ones close to SETI.
+We have no relationship to any hotel vendor, the following list are ones close to SETI.
 
 * TBD
 
