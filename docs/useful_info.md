@@ -33,7 +33,7 @@ We have no relationships to any hotel vendor, the following list are ones close 
 
 ### Food
 
-**Breakfast nor dinner will be provided.**
+**Neither breakfast nor dinner will be provided.**
 
 Lunch options will be provided on a daily basis, to be paid for by the participants. Details will be made available at the meeting.
 
