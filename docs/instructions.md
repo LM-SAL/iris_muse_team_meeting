@@ -6,5 +6,5 @@ title: Instructions for Presenters
 
 ## Talks
 
-Presenters can use their own laptop, ideally via HDMI. The last five minutes are for discussions.
+Presenters can use their own laptop, ideally via HDMI.
 More information will come.
