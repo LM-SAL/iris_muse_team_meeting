@@ -6,6 +6,3 @@ template: main.html
 
 # Frequently Asked Questions
 
-???+ question "Can I show up?"
-
-    No.
