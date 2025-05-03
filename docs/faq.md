@@ -5,4 +5,3 @@ template: main.html
 ---
 
 # Frequently Asked Questions
-
