@@ -30,7 +30,7 @@ Please feel free to email [joint-museiris-science-team-meeting@googlegroups.com]
 ## Code of Conduct
 
 We are committed to creating a meeting environment that is safe, professional, where mutual trust is valued, and where everyone is entitled to be treated with courtesy and respect.
-The organizers commit to making  the joint science team meeting, and all associated activities productive and enjoyable for everyone.
+The organizers commit to making the joint science team meeting, and all associated activities productive and enjoyable for everyone.
 We will not tolerate harassment of participants in any form.
 
 Participants can report any violation of these guidelines to [joint-museiris-science-team-meeting@googlegroups.com](mailto:joint-museiris-science-team-meeting@googlegroups.com) or speak to the organizers in confidence.
