@@ -4,7 +4,7 @@ title: Registration and Abstract submission
 
 # Attend the Joint MUSE/IRIS science team meeting
 
-## Registration (Deadline 15/May/2025)
+## Registration (Deadline 16/May/2025)
 
 !!! warning
 
@@ -19,7 +19,7 @@ Please fill in the following form:
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScQMnu1V1aOxilhe7mlyeOGI3LQJ4BfwJ-I1pfiPpk5j_87pA/viewform?embedded=true" width="640" height="640" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-## Abstract submission (Deadline 17/July/2025)
+## Abstract submission (Deadline 25/July/2025)
 
 !!! warning
 
