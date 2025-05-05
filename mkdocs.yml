@@ -52,7 +52,7 @@ nav:
   #   - Talks: schedule/talks.md
   - Instructions: instructions.md
   #- Social Events: social_events.md
-  - FAQ: faq.md
+  #- FAQ: faq.md
   #- Sponsors:
   #  - our-sponsors.md
 plugins:
