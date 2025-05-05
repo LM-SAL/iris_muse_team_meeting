@@ -30,10 +30,8 @@ Please note that 3rd party retailers might offer different rates for these optio
 
 ## Food
 
-**Neither breakfast nor dinner will be provided.**
+Details about lunch will provided at the meeting. Neither breakfast nor dinner will be provided.
 
-Lunch options will be provided on a daily basis, to be paid for by the participants. Details will be made available at the meeting.
+## Transportation
 
-## Parking
-
-You can park at the SETI carpark.
+Public transportation between the hotels listed above and the SETI institute exists, but can be difficult. Conference attendees are free to park at the SETI carpark.
