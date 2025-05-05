@@ -20,13 +20,13 @@ SETI institute has a negotiate rate with Sonesta, currently at $169 + tax/fees f
 
 * [Larkspur Landing Sunnyvale – 748 N Mathilda Ave, Sunnyvale, CA, 94086](https://www.hotelzico.com/?utm_source=google&utm_medium=organic&utm_campaign=business_listing)
 
-Rates start at $195 + tax/fees for a single queen bed studio. Larkspur offers local shuttle (reservation required, based on availability). 
+Rates start at $195 + tax/fees for a single queen bed studio. Larkspur offers local shuttle (reservation required, based on availability).
 
 * [Hotel Zico – 200 E El Camino Real, Mountain View, CA, 94040](https://www.larkspurhotels.com/sunnyvale?utm_source=google-gbp&utm_medium=organic&utm_campaign=gbp)
 
-Rates start at $232 + tax/fees for a single queen bed room. 
+Rates start at $232 + tax/fees for a single queen bed room.
 
-Please note that 3rd party retailers might offer different rates for these options. The rates might also increase by fall. 
+Please note that 3rd party retailers might offer different rates for these options. The rates might also increase by fall.
 
 ## Food
 
