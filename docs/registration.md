@@ -23,6 +23,6 @@ Please fill in the following form:
 
 !!! warning
 
-    For invitated speakers only.
+    For invited speakers only.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScibc4uhkEK__UKHeJFEo79ICYymzCMiONYot4DCV3GHUPZuQ/viewform?embedded=true" width="640" height="640" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
