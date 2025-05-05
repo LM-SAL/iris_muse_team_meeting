@@ -8,3 +8,7 @@ title: Instructions for Presenters
 
 Presenters can use their own laptop, ideally via HDMI.
 More information will come.
+
+## No Posters
+
+There will be no posters.
