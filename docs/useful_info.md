@@ -34,5 +34,5 @@ Details about lunch will provided at the meeting. Neither breakfast nor dinner w
 
 ## Transportation
 
-Public transportation between the hotels listed above and the SETI institute exists, more detailed information will come. Conference attendees are free to park at the SETI carpark.
+Public transportation between the hotels listed above and the SETI institute exists, more detailed information will come. Conference attendees are free to park at the SETI carpark. 
 
