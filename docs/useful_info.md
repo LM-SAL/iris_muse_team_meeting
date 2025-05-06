@@ -12,15 +12,15 @@ The Joint MUSE/IRIS science team meeting is being held at the [SETI Institute's 
 
 ## Hotels
 
-We will not book accommodation for participants. Conference attendees are free to choose from a variety of hotels or motels located close to the conference venue. Facilities commonly used by SETI visitors include:
+We will not book accommodation for participants. Conference attendees are free to choose from a variety of hotels or motels located close to the conference venue, many of which are located on the N Mathilda Ave in Sunnyvale. Facilities commonly used by SETI visitors include:
 
 * [Sonesta ES Suites Sunnyvale – 900 Hamlin Ct, Sunnyvale, CA 94089](https://www.sonesta.com/sonesta-es-suites/ca/sunnyvale/sonesta-es-suites-sunnyvale)
 
-SETI institute has a negotiate rate with Sonesta, currently at $169 + tax/fees for a single suite and $199 for a double suite. Participants will receive a booking code upon request.
+SETI institute has a negotiated rate with Sonesta, currently at $169 + tax/fees for a single suite and $199 for a double suite. Participants will receive a booking code upon request.
 
 * [Larkspur Landing Sunnyvale – 748 N Mathilda Ave, Sunnyvale, CA, 94086](https://www.hotelzico.com/?utm_source=google&utm_medium=organic&utm_campaign=business_listing)
 
-Rates start at $195 + tax/fees for a single queen bed studio. Larkspur offers local shuttle (reservation required, based on availability).
+Rates start at $195 + tax/fees for a single queen bed studio.
 
 * [Hotel Zico – 200 E El Camino Real, Mountain View, CA, 94040](https://www.larkspurhotels.com/sunnyvale?utm_source=google-gbp&utm_medium=organic&utm_campaign=gbp)
 
@@ -34,5 +34,8 @@ Details about lunch will provided at the meeting. Neither breakfast nor dinner w
 
 ## Transportation
 
-Public transportation between the hotels listed above and the SETI institute exists, more detailed information will come. Conference attendees are free to park at the SETI carpark. 
+Larkspur offers local shuttle. Reservation on-site is required and the shuttle is based on availability.
 
+Public transportation between the hotels listed above and the SETI institute is inconvenient. The bus schedule is limited, unreliable, and the commute involves at least a 30 minute walk to the bus stop from either Sonesta or Larkspur. Routes can be planned via Google Maps, attendees are encouraged to check the bus (lines 21 & 523) schedule closer to the meeting.
+
+We encourage the conference attendees to rent a car and/or coordinate with others who will do so. The attendees are free to park at the SETI carpark. Both Uber and Lyft operate in the area and are convenient.
