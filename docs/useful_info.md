@@ -30,7 +30,7 @@ Please note that 3rd party retailers might offer different rates for these optio
 
 ## Food
 
-Details about lunch will provided at the meeting. Neither breakfast nor dinner will be provided.
+Lunch options are very limited close to SETI facilities. Therefore, on-site lunch will be arranged for interested participants. We are still working on the logistics, but we anticipate each meal to cost around $30 per person. Please fill the form in the registration. Neither breakfast nor dinner will be provided.
 
 ## Transportation
 
