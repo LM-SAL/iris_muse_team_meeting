@@ -19,6 +19,7 @@ Facilities commonly used by SETI visitors include:
 * [Sonesta ES Suites Sunnyvale – 900 Hamlin Ct, Sunnyvale, CA 94089](https://www.sonesta.com/sonesta-es-suites/ca/sunnyvale/sonesta-es-suites-sunnyvale)
 
 SETI institute has a negotiated rate with Sonesta, currently at $189 + tax/fees for a single suite and $229 for a double suite.
+The price can only be warranted if the booking is made up to 30 days prior to the meeting. Participants will receive a booking code upon request.
 Participants will receive a booking code upon request.
 
 * [Larkspur Landing Sunnyvale – 748 N Mathilda Ave, Sunnyvale, CA, 94086](https://www.hotelzico.com/?utm_source=google&utm_medium=organic&utm_campaign=business_listing)
