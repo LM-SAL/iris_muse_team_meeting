@@ -18,7 +18,7 @@ theme:
     - toc.integrate
     - toc.follow
   palette:
-    - scheme: muse_light
+    - scheme: muse
 copyright: Copyright &copy; 2025-2026 - SETI
 markdown_extensions:
   - abbr
