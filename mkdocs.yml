@@ -19,13 +19,6 @@ theme:
     - toc.follow
   palette:
     - scheme: muse_light
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to dark mode
-    - scheme: muse
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to light mode
 copyright: Copyright &copy; 2025-2026 - SETI
 markdown_extensions:
   - abbr
