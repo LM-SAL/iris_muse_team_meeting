@@ -4,9 +4,9 @@ title: About the Joint MUSE/IRIS science team meeting
 
 ## LOC
 
-* Juan Martinez Sykora [chair]
-* Rebecca Robinson [co-chair]
-* Vishal Upendran [co-chair]
+* Juan Martinez Sykora **[chair]**
+* Rebecca Robinson **[co-chair]**
+* Vishal Upendran **[co-chair]**
 * Gabriele Cozzo
 * Juraj Lorincik
 * Kyuhyoun Cho
