@@ -45,16 +45,7 @@ nav:
   - Information: useful_info.md
   - Participants: participants.md
   - Abstracts: abstracts.md
-  # - Schedule:
-  #   - Talk Schedule: schedule/full_schedule.md
-  #   - Keynote Speakers: schedule/keynotes.md
-  #   - Tutorials: schedule/tutorials.md
-  #   - Talks: schedule/talks.md
   - Instructions: instructions.md
-  #- Social Events: social_events.md
-  #- FAQ: faq.md
-  #- Sponsors:
-  #  - our-sponsors.md
 plugins:
   - search
   - table-reader
