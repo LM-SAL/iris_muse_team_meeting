@@ -33,6 +33,6 @@ We are committed to creating a meeting environment that is safe, professional, w
 The organizers commit to making the joint science team meeting, and all associated activities productive and enjoyable for everyone.
 We will not tolerate harassment of participants in any form.
 
-Participants can report any violation of these guidelines to [joint-museiris-science-team-meeting@googlegroups.com](mailto:joint-museiris-science-team-meeting@googlegroups.com) or speak to the organizers in confidence.
+Participants can report any violation of these guidelines to [MUSEWorkshop@seti.org](mailto:MUSEWorkshop@seti.org) or speak to the organizers in confidence.
 If asked to stop inappropriate behaviour, participants are expected to comply immediately and, in serious cases, may be asked to leave the event.
 We will not tolerate retaliation against anyone reporting violations of this code of conduct.
