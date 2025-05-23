@@ -1,6 +1,6 @@
-site_name: Joint MUSE/IRIS science team meeting, October 27-30 2025
-site_author: LOC Team
-site_url: https://iris_muse_team_meeting.seti.org
+site_name: Joint MUSE/IRIS Science Team Meeting, October 27-30 2025
+site_author: LOC
+site_url: https://lm-sal.github.io/iris_muse_team_meeting/
 extra_css:
   - stylesheets/extra.css
 theme:
@@ -42,6 +42,21 @@ nav:
 plugins:
   - search
   - table-reader
+  - spellcheck:
+      backends:
+      - codespell:
+          dictionaries: [clear, rare]
+      ignore_code: yes
+      min_length: 2
+      allow_unicode: no
+      strict_only: yes
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
+      htmlmin_opts:
+          remove_comments: true
+      cache_safe: true
   - social:
       cards_layout_options:
         background_color: "#DAD5B9"

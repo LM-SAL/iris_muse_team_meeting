@@ -1,4 +1,4 @@
-exclude: ".*(.svg|.png|.jpeg|.jpg)|docs/assets/movies/front_page.mp4|docs/assets/files/people_coming.csv$"
+exclude: ".*(.svg|.png|.jpeg|.jpg)|docs/assets/movies/front_page.mp4$"
 repos:
   - repo: https://github.com/PyCQA/docformatter
     rev: v1.7.7
@@ -28,7 +28,6 @@ repos:
     hooks:
       - id: typos
         args: []
-
 ci:
   autofix_prs: false
   autoupdate_schedule: "quarterly"
