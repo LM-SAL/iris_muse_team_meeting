@@ -1,28 +1,49 @@
-First Name,Last Name,Institution
+First Name,Last Name,Affiliation/Institution
+Joel,Allred,NASA/GSFC
 Patrick,Antolin,Northumbria University
-Stuart,Bale,Space Sciences Laboratory @ University of California Berkeley
-Souvik,Bose,SETI Institute
+Souvik ,Bose,SETI institute
 Stephen,Bradshaw,Rice University
-Mark,Cheung,CSIRO
-Kyuhyoun,Cho,SETI Institute
-Lars,Daldorff,NASA Goddard Space Flight Center
-Jaime,de la Cruz Rodriguez,Institute for Solar Physics
+David,Brooks,"Computational Physics, Inc."
+Mats,Carlsson,Rosseland Centre for Solar Physics
+Kyuhyoun,Cho,LMSAL/SETI
+Lars,Daldorff,NASA GSFC/CUA
 Ineke,De Moortel,University of St Andrews
-Bart,De Pontieu,Lockheed Martin Solar & Astrophysics Laboratory
+Yuhong,Fan,HAO/NCAR
+Fabio ,Feraco ,University of Calabria
+Fabiana,Ferrente,INAF - OACT
+Nabil,Freij,LMSAL/SETI
+Lindsay,Glesener,University of Minnesota
 Milan,Gosic,SETI Institute
-Salvo,Guglielmino,University of Catania
-Shin,Imada,Institute for Space-Earth Environmental Research
-Sarah,Jaeggli,National Solar Observatory
-Meng,Jin,Lockheed Martin Solar & Astrophysics Laboratory
-Craig,Johnston,George Mason University
-Jim,Klimchuk,National Solar Observatory
-Juan,Martinez Sykora,SETI Institute
-Daniel,Nobrega Siverio,Instituto de Astrofísica de Canarias
-Hardi,Peter,Max Planck Institute for Solar System Research
-Fabio,Reale,University of Palermo
+Salvo,Guglielmino,INAF Catania
+Viggo,Hansteen,LMSAL/SETI/RoCS
+Sarah,Jaeggli,National Solar Observatory - Daniel K. Inouye Solar Telescope
+Meng,Jin,LMSAL
+Craig,Johnston,GMU/NASA GSFC
+Jayant ,Joshi,"Indian Institute of Astrophysics, Bengaluru, India"
+Maria,Kazachenko,University of Colorado Boulder / National Solar Observatory
+Graham ,Kerr,The Catholic University of America 
+Elena,Khomenko,Instituto de Astrofisica de Canarias
+James,Klimchuk,NASA GSFC
+Wei,Liu,LMSAL/BAERI
+Juraj,Lorincik,BAERI/LMSAL
+Juan,Martinez-Sykora,SETI
+Fernando,Moreno-Insertis,Instituto de Astrofísica de Canarias
+Daniel,Nóbrega-Siverio,Instituto de Astrofísica de Canarias (IAC)
+Navdeep,Panesar,LMSAL/BAERI
+Jake ,Parker,NASA/GSFC
+Damien,Przybylski,MPS
+Kathy,Reeves,Harvard-Smithsonian Center for Astrophysics
+Matthias,Rempel,HAO/NSF NCAR
 Rebecca,Robinson,SETI Institute
-Alberto,Sainz Dalda,SETI Institute
+Luc,Rouppe van der Voort,"RoCS, University of Oslo"
+Alberto,Sainz Dalda,SETI/LMSAL
+Tong,Shi,SETI Institute
+Lucas,Tarr,NSO
 Paola,Testa,Harvard-Smithsonian Center for Astrophysics
-Vishal,Upendran,SETI Institute
-Harry,Warren,Space Science Division @ Naval Research Laboratory
-Amy,Winebarger,NASA Marshall Space Flight Center
+Sanjiv,Tiwari,LMSAL/BAERI
+Shin,Toriumi,Japan Aerospace Exploration Agency
+Ignacio,Ugarte-Urra,Naval Research Laboratory
+Vishal,Upendran,SETI 
+Vasantharaju naganna,Vasantharaju naganna,"Max Planck Institute for Solar System Research, Gottingen, Germany"
+Harry,Warren,NRL
+Amy,Winebarger,NASA MSFC
