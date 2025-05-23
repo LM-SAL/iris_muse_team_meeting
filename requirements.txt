@@ -2,4 +2,4 @@ mkdocs
 mkdocs-material[imaging]
 mkdocs-minify-plugin
 mkdocs-spellcheck[all]
-mkdocs-table-reader-plugin @ git+https://github.com/timvink/mkdocs-table-reader-plugin.git'
+mkdocs-table-reader-plugin @ git+https://github.com/timvink/mkdocs-table-reader-plugin.git
