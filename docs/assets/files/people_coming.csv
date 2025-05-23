@@ -1,49 +1,49 @@
-First Name,Last Name,Affiliation/Institution
-Joel,Allred,NASA/GSFC
-Patrick,Antolin,Northumbria University
-Souvik ,Bose,SETI institute
-Stephen,Bradshaw,Rice University
-David,Brooks,"Computational Physics, Inc."
-Mats,Carlsson,Rosseland Centre for Solar Physics
-Kyuhyoun,Cho,LMSAL/SETI
-Lars,Daldorff,NASA GSFC/CUA
-Ineke,De Moortel,University of St Andrews
-Yuhong,Fan,HAO/NCAR
-Fabio ,Feraco ,University of Calabria
-Fabiana,Ferrente,INAF - OACT
-Nabil,Freij,LMSAL/SETI
-Lindsay,Glesener,University of Minnesota
-Milan,Gosic,SETI Institute
-Salvo,Guglielmino,INAF Catania
-Viggo,Hansteen,LMSAL/SETI/RoCS
-Sarah,Jaeggli,National Solar Observatory - Daniel K. Inouye Solar Telescope
-Meng,Jin,LMSAL
-Craig,Johnston,GMU/NASA GSFC
-Jayant ,Joshi,"Indian Institute of Astrophysics, Bengaluru, India"
-Maria,Kazachenko,University of Colorado Boulder / National Solar Observatory
-Graham ,Kerr,The Catholic University of America 
-Elena,Khomenko,Instituto de Astrofisica de Canarias
-James,Klimchuk,NASA GSFC
-Wei,Liu,LMSAL/BAERI
-Juraj,Lorincik,BAERI/LMSAL
-Juan,Martinez-Sykora,SETI
-Fernando,Moreno-Insertis,Instituto de Astrofísica de Canarias
-Daniel,Nóbrega-Siverio,Instituto de Astrofísica de Canarias (IAC)
-Navdeep,Panesar,LMSAL/BAERI
-Jake ,Parker,NASA/GSFC
-Damien,Przybylski,MPS
-Kathy,Reeves,Harvard-Smithsonian Center for Astrophysics
-Matthias,Rempel,HAO/NSF NCAR
-Rebecca,Robinson,SETI Institute
-Luc,Rouppe van der Voort,"RoCS, University of Oslo"
-Alberto,Sainz Dalda,SETI/LMSAL
-Tong,Shi,SETI Institute
-Lucas,Tarr,NSO
-Paola,Testa,Harvard-Smithsonian Center for Astrophysics
-Sanjiv,Tiwari,LMSAL/BAERI
-Shin,Toriumi,Japan Aerospace Exploration Agency
-Ignacio,Ugarte-Urra,Naval Research Laboratory
-Vishal,Upendran,SETI 
-Vasantharaju naganna,Vasantharaju naganna,"Max Planck Institute for Solar System Research, Gottingen, Germany"
-Harry,Warren,NRL
-Amy,Winebarger,NASA MSFC
+#,Last Name,First Name,Affiliation/Institution
+1,Allred,Joel,NASA/GSFC
+2,Antolin,Patrick,Northumbria University
+3,Bose,Souvik ,SETI institute
+4,Bradshaw,Stephen,Rice University
+5,Brooks,David,"Computational Physics, Inc."
+6,Carlsson,Mats,Rosseland Centre for Solar Physics
+7,Cho,Kyuhyoun,LMSAL/SETI
+8,Daldorff,Lars,NASA GSFC/CUA
+9,De Moortel,Ineke,University of St Andrews
+10,Fan,Yuhong,HAO/NCAR
+11,Feraco ,Fabio ,University of Calabria
+12,Ferrente,Fabiana,INAF - OACT
+13,Freij,Nabil,LMSAL/SETI
+14,Glesener,Lindsay,University of Minnesota
+15,Gosic,Milan,SETI Institute
+16,Guglielmino,Salvo,INAF Catania
+17,Hansteen,Viggo,LMSAL/SETI/RoCS
+18,Jaeggli,Sarah,National Solar Observatory - Daniel K. Inouye Solar Telescope
+19,Jin,Meng,LMSAL
+20,Johnston,Craig,GMU/NASA GSFC
+21,Joshi,Jayant ,"Indian Institute of Astrophysics, Bengaluru, India"
+22,Kazachenko,Maria,University of Colorado Boulder / National Solar Observatory
+23,Kerr,Graham ,The Catholic University of America 
+24,Khomenko,Elena,Instituto de Astrofisica de Canarias
+25,Klimchuk,James,NASA GSFC
+26,Liu,Wei,LMSAL/BAERI
+27,Lorincik,Juraj,BAERI/LMSAL
+28,Martinez-Sykora,Juan,SETI
+29,Moreno-Insertis,Fernando,Instituto de Astrofísica de Canarias
+30,Nóbrega-Siverio,Daniel,Instituto de Astrofísica de Canarias (IAC)
+31,Panesar,Navdeep,LMSAL/BAERI
+32,Parker,Jake ,NASA/GSFC
+33,Przybylski,Damien,MPS
+34,Reeves,Kathy,Harvard-Smithsonian Center for Astrophysics
+35,Rempel,Matthias,HAO/NSF NCAR
+36,Robinson,Rebecca,SETI Institute
+37,Rouppe van der Voort,Luc,"RoCS, University of Oslo"
+38,Sainz Dalda,Alberto,SETI/LMSAL
+39,Shi,Tong,SETI Institute
+40,Tarr,Lucas,NSO
+41,Testa,Paola,Harvard-Smithsonian Center for Astrophysics
+42,Tiwari,Sanjiv,LMSAL/BAERI
+43,Toriumi,Shin,Japan Aerospace Exploration Agency
+44,Ugarte-Urra,Ignacio,Naval Research Laboratory
+45,Upendran,Vishal,SETI 
+46,Vasantharaju naganna,Vasantharaju naganna,"Max Planck Institute for Solar System Research, Gottingen, Germany"
+47,Warren,Harry,NRL
+48,Winebarger,Amy,NASA MSFC
