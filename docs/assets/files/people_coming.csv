@@ -1,49 +1,56 @@
-#,Last Name,First Name,Affiliation/Institution
-1,Allred,Joel,NASA/GSFC
-2,Antolin,Patrick,Northumbria University
-3,Bose,Souvik ,SETI institute
-4,Bradshaw,Stephen,Rice University
-5,Brooks,David,"Computational Physics, Inc."
-6,Carlsson,Mats,Rosseland Centre for Solar Physics
-7,Cho,Kyuhyoun,LMSAL/SETI
-8,Daldorff,Lars,NASA GSFC/CUA
-9,De Moortel,Ineke,University of St Andrews
-10,Fan,Yuhong,HAO/NCAR
-11,Feraco ,Fabio ,University of Calabria
-12,Ferrente,Fabiana,INAF - OACT
-13,Freij,Nabil,LMSAL/SETI
-14,Glesener,Lindsay,University of Minnesota
-15,Gosic,Milan,SETI Institute
-16,Guglielmino,Salvo,INAF Catania
-17,Hansteen,Viggo,LMSAL/SETI/RoCS
-18,Jaeggli,Sarah,National Solar Observatory - Daniel K. Inouye Solar Telescope
-19,Jin,Meng,LMSAL
-20,Johnston,Craig,GMU/NASA GSFC
-21,Joshi,Jayant ,"Indian Institute of Astrophysics, Bengaluru, India"
-22,Kazachenko,Maria,University of Colorado Boulder / National Solar Observatory
-23,Kerr,Graham ,The Catholic University of America
-24,Khomenko,Elena,Instituto de Astrofisica de Canarias
-25,Klimchuk,James,NASA GSFC
-26,Liu,Wei,LMSAL/BAERI
-27,Lorincik,Juraj,BAERI/LMSAL
-28,Martinez-Sykora,Juan,SETI
-29,Moreno-Insertis,Fernando,Instituto de Astrofísica de Canarias
-30,Nóbrega-Siverio,Daniel,Instituto de Astrofísica de Canarias (IAC)
-31,Panesar,Navdeep,LMSAL/BAERI
-32,Parker,Jake ,NASA/GSFC
-33,Przybylski,Damien,MPS
-34,Reeves,Kathy,Harvard-Smithsonian Center for Astrophysics
-35,Rempel,Matthias,HAO/NSF NCAR
-36,Robinson,Rebecca,SETI Institute
-37,Rouppe van der Voort,Luc,"RoCS, University of Oslo"
-38,Sainz Dalda,Alberto,SETI/LMSAL
-39,Shi,Tong,SETI Institute
-40,Tarr,Lucas,NSO
-41,Testa,Paola,Harvard-Smithsonian Center for Astrophysics
-42,Tiwari,Sanjiv,LMSAL/BAERI
-43,Toriumi,Shin,Japan Aerospace Exploration Agency
-44,Ugarte-Urra,Ignacio,Naval Research Laboratory
-45,Upendran,Vishal,SETI
-46,Vasantharaju naganna,Vasantharaju naganna,"Max Planck Institute for Solar System Research, Gottingen, Germany"
-47,Warren,Harry,NRL
-48,Winebarger,Amy,NASA MSFC
+﻿Last Name,First Name,Affiliation/Institution
+Allred,Joel,NASA/GSFC
+Antolin,Patrick,Northumbria University
+Bart,De Pontieu,LMSAL
+Bose,Souvik ,SETI institute
+Bradshaw,Stephen,Rice University
+Brooks,David,"Computational Physics, Inc."
+Carlsson,Mats,Rosseland Centre for Solar Physics
+Cho,Kyuhyoun,LMSAL/SETI
+Cooper,Downs,Predictive Science Inc.
+Daldorff,Lars,NASA GSFC/CUA
+De Moortel,Ineke,University of St Andrews
+Fan,Yuhong,HAO/NCAR
+Feraco ,Fabio ,University of Calabria
+Ferrente,Fabiana,INAF - OACT
+Freij,Nabil,LMSAL/SETI
+Glesener,Lindsay,University of Minnesota
+Gosic,Milan,SETI Institute
+Guglielmino,Salvo,INAF Catania
+Hansteen,Viggo,LMSAL/SETI/RoCS
+Jaeggli,Sarah,National Solar Observatory - Daniel K. Inouye Solar Telescope
+Jin,Meng,LMSAL
+Johnston,Craig,GMU/NASA GSFC
+Joshi,Jayant ,"Indian Institute of Astrophysics, Bengaluru, India"
+Kazachenko,Maria,University of Colorado Boulder / National Solar Observatory
+Kerr,Graham ,The Catholic University of America
+Khomenko,Elena,Instituto de Astrofisica de Canarias
+Klimchuk,James,NASA GSFC
+Kowalski,Adam,"University of Colorado, National Solar Observatory"
+Liu,Wei,LMSAL/BAERI
+Lorincik,Juraj,BAERI/LMSAL
+Martinez-Sykora,Juan,SETI
+Moreno-Insertis,Fernando,Instituto de Astrofísica de Canarias
+Nóbrega-Siverio,Daniel,Instituto de Astrofísica de Canarias (IAC)
+Okamoto,Joten,National Astronomical Observatory of Japan
+Panesar,Navdeep,LMSAL/BAERI
+Parker,Jake ,NASA/GSFC
+Przybylski,Damien,MPS
+Rappazzo,Franco,Università di Palermo
+Reeves,Kathy,Harvard-Smithsonian Center for Astrophysics
+Rempel,Matthias,HAO/NSF NCAR
+Robinson,Rebecca,SETI Institute
+Rouppe van der Voort,Luc,"RoCS, University of Oslo"
+Sainz Dalda,Alberto,SETI/LMSAL
+Shi,Tong,SETI Institute
+Srivastava,Abhishekh Kumar,Indian Institute of Technology (BHU)
+Stangalini,Marco,ASI
+Tarr,Lucas,NSO
+Testa,Paola,Harvard-Smithsonian Center for Astrophysics
+Tiwari,Sanjiv,LMSAL/BAERI
+Toriumi,Shin,Japan Aerospace Exploration Agency
+Ugarte-Urra,Ignacio,Naval Research Laboratory
+Upendran,Vishal,SETI
+Vanessa,Polito,LMSAL
+Vasantharaju,Naganna,"Max Planck Institute for Solar System Research, Gottingen, Germany"
+Winebarger,Amy,NASA MSFC
