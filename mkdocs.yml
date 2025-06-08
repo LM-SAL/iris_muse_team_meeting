@@ -46,6 +46,7 @@ plugins:
       backends:
       - codespell:
           dictionaries: [clear, rare]
+      known_words: [ake, ]
       ignore_code: yes
       min_length: 2
       allow_unicode: no
