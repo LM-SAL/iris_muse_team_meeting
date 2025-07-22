@@ -16,16 +16,16 @@ We will not book accommodation for participants.
 Conference attendees are free to choose from a variety of hotels or motels located close to the conference venue, many of which are located on the N Mathilda Ave in Sunnyvale.
 Facilities commonly used by SETI visitors include:
 
-* [Sonesta ES Suites Sunnyvale – 900 Hamlin Ct, Sunnyvale, CA 94089](https://www.sonesta.com/sonesta-es-suites/ca/sunnyvale/sonesta-es-suites-sunnyvale)
+* [Sonesta ES Suites Sunnyvale - 900 Hamlin Ct, Sunnyvale, CA 94089](https://www.sonesta.com/sonesta-es-suites/ca/sunnyvale/sonesta-es-suites-sunnyvale)
 
 SETI institute has a negotiated rate with Sonesta, currently at $189 + tax/fees for a single suite and $229 for a double suite for a limited number of rooms.
 The price can only be warranted if the booking is made up to 30 days prior to the meeting. Participants will receive a booking code upon request.
 
-* [Larkspur Landing Sunnyvale – 748 N Mathilda Ave, Sunnyvale, CA, 94086](https://www.hotelzico.com/?utm_source=google&utm_medium=organic&utm_campaign=business_listing)
+* [Larkspur Landing Sunnyvale - 748 N Mathilda Ave, Sunnyvale, CA, 94086](https://www.hotelzico.com/?utm_source=google&utm_medium=organic&utm_campaign=business_listing)
 
 Rates start at $195 + tax/fees for a single queen bed studio (at time of writing).
 
-* [Hotel Zico – 200 E El Camino Real, Mountain View, CA, 94040](https://www.larkspurhotels.com/sunnyvale?utm_source=google-gbp&utm_medium=organic&utm_campaign=gbp)
+* [Hotel Zico - 200 E El Camino Real, Mountain View, CA, 94040](https://www.larkspurhotels.com/sunnyvale?utm_source=google-gbp&utm_medium=organic&utm_campaign=gbp)
 
 Rates start at $232 + tax/fees for a single queen bed room (at time of writing).
 
