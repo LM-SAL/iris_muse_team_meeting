@@ -12,7 +12,7 @@ abstracts = abstracts.rename(
         "List of (co)authors if any:": "List of (co)authors",
     }
 )
-abstract_data = abstracts.fillna("None").to_dict(orient="records")
+abstract_data = abstracts.fillna("None").sort_values(by="Last Name").to_dict(orient="records")
 template = """
 * **Author**: {First Name} {Last Name}
 
