@@ -79,15 +79,6 @@ of the drivers of solar wind variability by Solar Orbiter.
 
 
 
-* **Author**: Lars  Dalddorff
-
-    **Coauthors**: Lars K. S. Daldorff (CUA/NASA), Craig D. Johnston (GMU/NASA), James A. Klimcuk (NASA), Shanwlee Sow Modal (CUA/NASA), Will T. Barnes (AU/NASA), James A. Leake (NASA), Jack Reid (St. Andrews/UK), Jacob D. Parker (NASA)
-    <details> <summary> <b>Title</b>: Nanoflares and Coronal Heating: The Role of Fine-Scale Magnetic Reconnection </summary>
-      <b>Abstract</b>: Understanding the evolution of active regions requires quantifying their temporal variability, with coronal heating playing an important role in governing the energetics and dynamics of the solar atmosphere. We present ongoing efforts at NASA GSFC to model self-consistent coronal heating mechanisms. Through LaRe3D MHD simulations of Parker-type coronal loop configurations, we reproduce multi-thermal loop systems that offer insight into key observables - such as quasi-circular cross-sections and “apparent” motions in the corona - and allows us to link these features back to the underlying heating processes. While the primary objective of the simulations was to investigate the evolution and heating dynamics of the corona, we have also examined the interaction between the chromosphere and transition region to better understand chromospheric events and how their observables both influence and respond to coronal conditions.
-    </details>
-
-
-
 * **Author**: Lars Daldorff
 
     **Coauthors**: Lars K. S. Daldorff (CUA/NASA), Craig D. Johnston (GMU/NASA), James A. Klimcuk (NASA), Shanwlee Sow Modal (CUA/NASA), Will T. Barnes (AU/NASA), James A. Leake (NASA), Jack Reid (St. Andrews/UK), Jacob D. Parker (NASA)
