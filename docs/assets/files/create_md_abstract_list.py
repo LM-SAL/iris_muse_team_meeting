@@ -12,6 +12,23 @@ abstracts = abstracts.rename(
         "List of (co)authors if any:": "List of (co)authors",
     }
 )
+abstracts = abstracts.drop(columns=["Timestamp", "Email Address"])
+
+
+# Reformat the abstract text to avoid markdown issues
+def custom_indent(text: str, prefix: str = "      ") -> str:
+    new_text = []
+    for i, line in enumerate(text.splitlines()):
+        if i == 0:
+            new_text.append(line)
+            continue
+        new_text.append(prefix + line)
+    return "\n".join(new_text)
+
+
+abstracts["Abstract (max 300 words)"] = abstracts["Abstract (max 300 words)"].apply(
+    lambda x: custom_indent(x)
+)
 abstract_data = (
     abstracts.fillna("None").sort_values(by="Last Name").to_dict(orient="records")
 )
@@ -20,7 +37,8 @@ template = """
 
     **Coauthors**: {List of (co)authors}
     <details> <summary> <b>Title</b>: {Abstract title} </summary>
-      <b>Abstract</b>: {Abstract (max 300 words)}
+      <b>Abstract</b>
+      {Abstract (max 300 words)}
     </details>
 
 """
