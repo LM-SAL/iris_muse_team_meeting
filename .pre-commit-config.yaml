@@ -1,4 +1,4 @@
-exclude: ".*(.svg|.png|.jpeg|.jpg)|docs/assets/movies/front_page.mp4$"
+exclude: ".*(.svg|.png|.jpeg|.jpg|.mp4)|$"
 repos:
   - repo: https://github.com/PyCQA/docformatter
     rev: v1.7.8-rc1
