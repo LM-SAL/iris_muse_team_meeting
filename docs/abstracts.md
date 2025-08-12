@@ -2,7 +2,7 @@
 title: Abstracts
 ---
 
-Accepted Abstracts.
+Accepted Abstracts (sorted by last name).
 
 
 * **Author**: Joel Allred
@@ -106,6 +106,16 @@ Accepted Abstracts.
 
 
 
+* **Author**: Bart De Pontieu
+
+    **Coauthors**: The IRIS and MUSE Teams
+    <details> <summary> <b>Title</b>: IRIS and MUSE status </summary>
+      <b>Abstract</b>
+      I will provide an overview of current operations and capabilities of IRIS, as well as a progress report of the development of the MUSE spacecraft and instrument, and plans for operations, data pipeline, and science analysis.
+    </details>
+
+
+
 * **Author**: Carlos Jose Diaz Baso
 
     **Coauthors**: TBD
@@ -144,6 +154,20 @@ Accepted Abstracts.
       We review our recent work on high-resolution spectropolarimetric observations of solar flares and discuss how these measurements provide constraints for numerical modeling. In particular, we focus on the confined X1.6-class flare that occurred on 22 October 2014 in active region AR 12192, observed with the Interferometric BIdimensional Spectropolarimeter (IBIS) at the Dunn Solar Telescope. Full Stokes profiles were acquired in both the photospheric Fe I 617.3 nm and chromospheric Ca II 854.2 nm lines. We also present preliminary results from spectropolarimetric data obtained during a summer 2023 observing campaign at the GREGOR telescope, targeting smaller-scale flaring events observed in the He I 1083.0 nm spectral window and coordinated with IRIS satellite observations. The datasets were analyzed using different inversion codes, including STiC, DeSIRe, and HAZEL.
       Our results provide important constraints on flare models, which must reproduce intense, localized chromospheric heating, chromospheric evaporation and condensation, as well as dynamic magnetic field reconfigurations in the lower atmosphere. Additionally, we show that flare activity enhances the sensitivity of the Ca II 854.2 nm line to deeper atmospheric layers, highlighting the necessity for realistic radiative transfer treatments in numerical simulations.
       These findings emphasize the diagnostic power of chromospheric spectropolarimetry in validating and refining MHD models of solar flares, and underscore the importance of coordinated observational and theoretical efforts to improve our understanding of flare-driven energy transport and magnetic restructuring.
+    </details>
+
+
+
+* **Author**: Lindsay Glesener
+
+    **Coauthors**: None
+    <details> <summary> <b>Title</b>: Complementing IRIS and MUSE with coordinated hard X-ray observations – how to achieve additional constraints on numerical models </summary>
+      <b>Abstract</b>
+      Over the past decade, IRIS has made large strides in studying the detailed interactions between the chromosphere and the corona via the transition region.  And once in operation, the MUSE spacecraft will provide us with novel and scientifically important views of the energization of the solar corona, the solar wind, and solar eruptive events.  All of these endeavors are broadly enhanced by a rich multiwavelength set of solar observations, and hard X-ray studies are an important component of this set.
+
+      Hard X-rays (HXRs) are one of the most direct probes available for accelerated electrons on the Sun.  They can be used to measure non-thermal electron distributions, including their total energy content, average energies, and how low in energy the distribution extends.  HXRs can also measure thermal plasma of the solar corona, with particular sensitivity to flare-temperature plasma of several to tens of millions of degrees.  The combination of high-energy X-ray measurements with detailed temperature and velocity measurements from the UV and EUV enables an integrated understanding of flares and plasma heating on the Sun. For example, HXR measurements of accelerated electrons provide the input to numerical studies of flare heating, explaining results observed by IRIS and eventually by MUSE. Bremsstrahlung HXRs are fairly insensitive to ionization states and thus, when combined with EUV line emission, can be used to study the ionization of high-temperature plasma on the Sun whenever it is heated. X-ray studies of transients are particularly sensitive to hot and non-thermal components.  When combined with wavelengths sensitive to cooler plasma, an entire energy budget of active regions and transients can be produced.
+
+      This talk will discuss the science that IRIS and MUSE can achieve with the aid of HXR studies, including currently available and future instruments.
     </details>
 
 
@@ -416,6 +440,16 @@ Atmosphere </summary>
     <details> <summary> <b>Title</b>: A mission-embedded outreach program for NASA’s Multi-slit Solar Explorer (MUSE) mission: Inspiring future generations of solar explorers beyond boundaries and backgrounds </summary>
       <b>Abstract</b>
       In the wake of the Decadal Survey for Solar and Space Physics, it has become abundantly clear that general knowledge of these subjects in the US is absent in comparison to other subfields of astrophysics. This is an alarming deficiency because we rely on the Sun to survive, and understanding our immediate space environment is crucial for understanding our relationship with the Sun. With that, it is our responsibility as scientists and educators to advocate for and share the knowledge of our Sun and space environments as accessible as possible. One way to do so is by developing mission-specific outreach programs that tackle fundamental science questions and topics that are relevant to the Sun-Earth system. As a new and budding example, we introduce the new outreach program for NASA's Multi-slit Solar Explorer (MUSE) mission. This program officially began on December 1, 2024 and includes three main local partners: California Academy of Sciences, Chabot Space and Science Center, and the Boys & Girls Club of the Peninsula. Each partner's scope of work is shaped by their resources and expertise, and each remains committed to creating reusable and versatile outreach products. This talk will summarize the scientific goals of the MUSE mission, detail the MUSE outreach program, highlight our collaborations with other heliophysics missions (e.g. PUNCH), and provide a preliminary assessment of our contribution to the future of heliophysics outreach.
+    </details>
+
+
+
+* **Author**: Luc Rouppe van der Voort
+
+    **Coauthors**: None
+    <details> <summary> <b>Title</b>: Recent insights from chromospheric observations </summary>
+      <b>Abstract</b>
+      The Swedish 1-m Solar Telescope (SST) on La Palma is capable of achieving high resolution observations of the photosphere and chromosphere over extended periods of time (sometimes longer than an hour). The CRISP and CHROMIS instruments can achieve diffraction limited spatial resolution (down to 0.1 arcsec for CHROMIS) and typically sample spectral lines over multiple positions in less than 10 seconds. With recent and upcoming instrument upgrades, the field of view is large enough to cover complete active regions (~2 arcmin diameter for CRISP2). In this talk, I give an overview of some of the results from observing campaigns from the past few seasons. In particular, I present results from studies on Ellerman bombs and their connection with spicules.
     </details>
 
 
