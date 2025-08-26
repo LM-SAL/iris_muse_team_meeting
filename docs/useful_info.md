@@ -30,7 +30,7 @@ Rates start at $195 + tax/fees for a single queen bed studio.
 Rates start at $232 + tax/fees for a single queen bed room.
 
 * [Travel Inn Sunnyvale - 590 N Mathilda Ave, Sunnyvale, CA, 94086](https://www.innsight.com/ibe/Sunnyvale/travelinnsunnyvale/reservations?room_check_in=2025-10-26&room_check_out=2025-10-31&promo_code=&rooms=1&room1=1)
-  
+
 Rates start at $110 + tax/fees for a single king bed room.
 
 The rates are valid at the time of website's update and they might increase as time gets closer to the meeting start date. Please note that 3rd party retailers might offer different rates for these options.
