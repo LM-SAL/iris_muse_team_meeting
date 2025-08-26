@@ -1,9 +1,8 @@
 import pandas as pd
 from pathlib import Path
 
-ABSTRACT_FILE = Path(__file__).parent / "accepted_abstracts.csv"
-
-abstracts = pd.read_csv(ABSTRACT_FILE)
+FILE_PATH = "~/Downloads/Abstract submission form (Responses) - Form Responses 1.csv"
+abstracts = pd.read_csv(Path(FILE_PATH).expanduser().resolve())
 abstracts = abstracts.rename(
     columns={
         "First Name": "First Name",
@@ -40,7 +39,6 @@ template = """
       <b>Abstract</b>
       {Abstract (max 300 words)}
     </details>
-
 """
 markdown_text = "\n".join([template.format(**entry) for entry in abstract_data])
 output_file = Path(__file__).parent.parent.parent / "abstracts.md"

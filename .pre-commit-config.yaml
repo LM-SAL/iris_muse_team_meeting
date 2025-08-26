@@ -1,25 +1,26 @@
-exclude: ".*(.svg|.png|.jpeg|.jpg|.mp4)|$"
 repos:
   - repo: https://github.com/PyCQA/docformatter
-    rev: v1.7.8-rc1
+    rev: v1.7.7
     hooks:
       - id: docformatter
         args: ["--in-place", "--pre-summary-newline", "--make-summary-multi"]
   - repo: https://github.com/astral-sh/ruff-pre-commit
-    rev: "v0.12.7"
+    rev: "v0.12.10"
     hooks:
       - id: ruff
         args: ["--fix", "--unsafe-fixes"]
       - id: ruff-format
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v5.0.0
+    rev: v6.0.0
     hooks:
       - id: check-ast
       - id: check-case-conflict
       - id: trailing-whitespace
+        exclude: ".*(.svg|.png|.jpeg|.jpg|.mp4)"
       - id: check-yaml
       - id: debug-statements
       - id: check-added-large-files
+        exclude: ".*(.svg|.png|.jpeg|.jpg|.mp4)"
         args: ["--enforce-all", "--maxkb=4096"]
       - id: end-of-file-fixer
       - id: mixed-line-ending

@@ -19,7 +19,7 @@ theme:
     - toc.follow
   palette:
     - scheme: muse
-copyright: Copyright &copy; 2025-2026 - SETI
+copyright: Copyright &copy; 2025-2026 - MUSE/IRIS LOC
 markdown_extensions:
   - abbr
   - admonition
