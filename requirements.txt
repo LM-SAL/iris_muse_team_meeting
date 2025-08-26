@@ -1,5 +1,7 @@
 mkdocs
+mkdocs-material-extensions
 mkdocs-material[imaging]
 mkdocs-minify-plugin
+mkdocs-redirects
 mkdocs-spellcheck[all]
 mkdocs-table-reader-plugin @ git+https://github.com/timvink/mkdocs-table-reader-plugin.git
