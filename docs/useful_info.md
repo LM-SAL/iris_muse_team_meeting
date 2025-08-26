@@ -23,14 +23,17 @@ The price can only be warranted if the booking is made up to 30 days prior to th
 
 * [Larkspur Landing Sunnyvale - 748 N Mathilda Ave, Sunnyvale, CA, 94086](https://www.hotelzico.com/?utm_source=google&utm_medium=organic&utm_campaign=business_listing)
 
-Rates start at $195 + tax/fees for a single queen bed studio (at time of writing).
+Rates start at $195 + tax/fees for a single queen bed studio.
 
 * [Hotel Zico - 200 E El Camino Real, Mountain View, CA, 94040](https://www.larkspurhotels.com/sunnyvale?utm_source=google-gbp&utm_medium=organic&utm_campaign=gbp)
 
-Rates start at $232 + tax/fees for a single queen bed room (at time of writing).
+Rates start at $232 + tax/fees for a single queen bed room.
 
-Please note that 3rd party retailers might offer different rates for these options.
-The rates might also increase as time gets closer to the start date.
+* [Travel Inn Sunnyvale - 590 N Mathilda Ave, Sunnyvale, CA, 94086](https://www.innsight.com/ibe/Sunnyvale/travelinnsunnyvale/reservations?room_check_in=2025-10-26&room_check_out=2025-10-31&promo_code=&rooms=1&room1=1)
+
+Rates start at $110 + tax/fees for a single king bed room.
+
+The rates are valid at the time of website's update and they might increase as time gets closer to the meeting start date. Please note that 3rd party retailers might offer different rates for these options.
 
 ## Food
 
@@ -43,12 +46,9 @@ Neither breakfast nor dinner will be provided.
 
 ## Transportation
 
-Larkspur offers local shuttle.
-Reservation on-site is required and the shuttle is based on availability.
+Larkspur and Sonesta offer local shuttle. Reservation on-site is required and the shuttle is based on availability.
 
-Public transportation between the hotels listed above and the SETI institute is inconvenient.
-The bus schedule is limited, unreliable, and the commute involves at least a 30 minute walk to the bus stop from either Sonesta or Larkspur.
-Routes can be planned via Google Maps, attendees are encouraged to check the bus (lines 21 & 523) schedule closer to the meeting.
+Public transportation between certain hotels in the area and the SETI institute is inconvenient. The bus schedule is limited and can be unreliable. Guests staying in hotels at N Mathilda Ave in Sunnyvale can take the bus line 21 from Maude & Matilda to Logue & Matilda and then walk ca. 20 minutes to the SETI institute. Routes can be planned via Google Maps, attendees are encouraged to check the schedules (buses 21, 523, Orange Line) closer to the meeting.
 
 We encourage the conference attendees to rent a car and/or coordinate with others who will do so.
 The attendees are free to park at the SETI carpark.
