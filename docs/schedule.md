@@ -140,7 +140,7 @@
     <td class="tg-0pky">12:00-12:20</td>
     <td class="tg-two">Daldorff</td>
     <td class="tg-0pky">11:50-12:20</td>
-    <td class="tg-seven"> de la Cruz Rodriguez</td>
+    <td class="tg-seven">de la Cruz Rodriguez</td>
     <td class="tg-0pky">12:10-12:30</td>
     <td class="tg-four">Upendran</td>
   </tr>

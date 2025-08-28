@@ -124,3 +124,39 @@ for idx, row in df.iterrows():
 HTML_TABLE_TEMPLATE = HTML_TABLE_TEMPLATE.replace("{BODY}", "\n".join(html_rows))
 output_path = Path(OUTPUT_FILE)
 output_path.write_text(HTML_TABLE_TEMPLATE, encoding="utf-8")
+
+# Now to modify the abstract markdown file with the times
+ABSTRACT_FILE = Path(__file__).parent.parent.parent / "abstracts.md"
+abstract_md = ABSTRACT_FILE.read_text(encoding="utf-8")
+new_abstract_md = ""
+for entry in abstract_md.split("* "):
+    if "**Author**: " in entry:
+        # Have to try and account for those with multiple surnames
+        surname = entry.split("**Author**: ")[1].split("\n")[0].strip().split(" ")[1:]
+        surname = " ".join(surname)
+        # Find the name in the dataframe
+        match = df[
+            (df.iloc[:, 1].str.contains(surname, case=True))
+            | (df.iloc[:, 4].str.contains(surname, case=True))
+            | (df.iloc[:, 7].str.contains(surname, case=True))
+            | (df.iloc[:, 10].str.contains(surname, case=True))
+        ]
+        if not match.empty:
+            # Get column idx which matches the surname
+            col_idx = None
+            # Assume they only speak once
+            for col in [1, 4, 7, 10]:
+                if match.iloc[0, col] == surname:
+                    col_idx = col - 1
+                    break
+            if col_idx is None:
+                raise ValueError(
+                    f"No matching column index found for author surname {surname}, full name is {entry}"
+                )
+            day = ["Monday", "Tuesday", "Wednesday", "Thursday"][col_idx // 3]
+            day_and_time = f"{day} - {match.iloc[0, col_idx]}"
+            new_entry = entry.replace("**When**: FILL IN", f"**When**: {day_and_time}")
+            new_abstract_md += "* " + new_entry
+    else:
+        new_abstract_md += entry
+ABSTRACT_FILE.write_text(new_abstract_md, encoding="utf-8")

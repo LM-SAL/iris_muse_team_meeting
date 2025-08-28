@@ -7,7 +7,7 @@ Accepted Abstracts.
 
 * **Author**: Joel Allred
 
-    **When**: FILL IN
+    **When**: Monday - 2:05-2:25
 
     **Coauthors**: Graham Kerr, Joel Dahlin, Silvina Guidoni, Marc Swisdak, Judy Karpen
     <details> <summary> <b>Title</b>: Flare Modeling with RADYN Arcade </summary>
@@ -18,7 +18,7 @@ Accepted Abstracts.
 
 * **Author**: Patrick Antolin
 
-    **When**: FILL IN
+    **When**: Tuesday - 1:20-1:40
 
     **Coauthors**: Samuel Hor, Jamal Wachira
     <details> <summary> <b>Title</b>: Coronal rain as a proxy for coronal heating </summary>
@@ -27,20 +27,9 @@ Accepted Abstracts.
     </details>
 
 
-* **Author**: Souvik  Bose
-
-    **When**: FILL IN
-
-    **Coauthors**: Bart De Pontieu, Viggo Hansteen and Alberto Sainz-Dalda
-    <details> <summary> <b>Title</b>: Active region heating in the chromosphere and the corona: insights from high resolution observations and simulations </summary>
-      <b>Abstract</b>
-      At the interface between the Sun’s million-degree corona and its surface lies the chromosphere. At roughly 10,000 K it is much cooler than the corona, but also several orders of magnitude denser. Understanding what heats the corona is indirectly related to understanding the heating mechanisms in the chromosphere since it processes all the magnetoconvective energy that ultimately drives the heating of the corona. Yet many questions pertaining to the coupling of these layers remains a topic of significant research. In this talk, I will focus on recent progresses in high-resolution ground and space-based observations and state-of-the-art numerical simulations of the dynamic solar atmosphere, in particular of the active regions, in an attempt to understand how the atmosphere above the active regions is heated from tens of thousands to millions of degrees. Moreover, this talk will also highlight how the synergy between observations and modeling is key to make advances in our understanding of the chromosphere.
-    </details>
-
-
 * **Author**: Stephen Bradshaw
 
-    **When**: FILL IN
+    **When**: Wednesday - 11:10-11:30
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Application of a multi-species NLTE modeling framework to a solar flare and interpreting emission spectra. </summary>
@@ -51,7 +40,7 @@ Accepted Abstracts.
 
 * **Author**: David Brooks
 
-    **When**: FILL IN
+    **When**: Thursday - 1:20-1:50
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Connecting the solar wind to its source regions on the Sun using elemental abundances </summary>
@@ -63,7 +52,7 @@ Accepted Abstracts.
 
 * **Author**: Mats Carlsson
 
-    **When**: FILL IN
+    **When**: Thursday - 9:00-9:30
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Chromospheric modelling </summary>
@@ -74,7 +63,7 @@ Accepted Abstracts.
 
 * **Author**: Mark Cheung
 
-    **When**: FILL IN
+    **When**: Monday - 9:15-9:35
 
     **Coauthors**: Juan Martínez-Sykora, Amy Winebarger, Vishal Upendran, Carlos José Diaz Baso, David Fouhey, Kyuhyuon Cho, Bart De Pontieu, Paola Testa, Adrian Daw, Gabriele Cozzo
     <details> <summary> <b>Title</b>: Multi-slit disambiguation and High-level Science Data Products for MUSE </summary>
@@ -85,7 +74,7 @@ Accepted Abstracts.
 
 * **Author**: Georgios Chintzoglou
 
-    **When**: FILL IN
+    **When**: Monday - 4:15-4:35
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: MUSE Observations as Discriminants of Solar Eruption Models in δ-spot ARs </summary>
@@ -98,7 +87,7 @@ Accepted Abstracts.
 
 * **Author**: Kyuhyoun Cho
 
-    **When**: FILL IN
+    **When**: Monday - 9:55-10:15
 
     **Coauthors**: Juan Martinez-Sykora, Adrian Daw, Bart De Pontieu
     <details> <summary> <b>Title</b>: Removal of Diffraction in Multi-slit Spectrograph </summary>
@@ -109,7 +98,7 @@ Accepted Abstracts.
 
 * **Author**: Gabriele Cozzo
 
-    **When**: FILL IN
+    **When**: Tuesday - 2:00-2:20
 
     **Coauthors**: G. Cozzo, P. Testa, J. Martinez-Sykora, F. Reale, P. Pagano, F. Rappazzo, V. Hansteen, and B. De Pontieu
     <details> <summary> <b>Title</b>: Pinpointing nanoflare‑scale coronal heating through reconnection-outflows spectroscopy </summary>
@@ -120,7 +109,7 @@ Accepted Abstracts.
 
 * **Author**: Lars Daldorff
 
-    **When**: FILL IN
+    **When**: Tuesday - 12:00-12:20
 
     **Coauthors**: Lars K. S. Daldorff (CUA/NASA), Craig D. Johnston (GMU/NASA), James A. Klimcuk (NASA), Shanwlee Sow Modal (CUA/NASA), Will T. Barnes (AU/NASA), James A. Leake (NASA), Jack Reid (St. Andrews/UK), Jacob D. Parker (NASA)
     <details> <summary> <b>Title</b>: Nanoflares and Coronal Heating: The Role of Fine-Scale Magnetic Reconnection </summary>
@@ -131,7 +120,7 @@ Accepted Abstracts.
 
 * **Author**: Adrian Daw
 
-    **When**: FILL IN
+    **When**: Monday - 10:15-10:35
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Atomic physics (and uncertainties) in support of MUSE approach towards multi-slit disambiguation and cross-calibration </summary>
@@ -142,7 +131,7 @@ Accepted Abstracts.
 
 * **Author**: Ineke De Moortel
 
-    **When**: FILL IN
+    **When**: Tuesday - 2:20-2:40
 
     **Coauthors**: C.A. Breu, T.A. Howson
     <details> <summary> <b>Title</b>: Observational signatures of elementary heating mechanisms </summary>
@@ -154,7 +143,7 @@ Accepted Abstracts.
 
 * **Author**: Bart De Pontieu
 
-    **When**: FILL IN
+    **When**: Monday - 9:00-9:15
 
     **Coauthors**: The IRIS and MUSE Teams
     <details> <summary> <b>Title</b>: IRIS and MUSE status </summary>
@@ -163,20 +152,9 @@ Accepted Abstracts.
     </details>
 
 
-* **Author**: Carlos Jose Diaz Baso
-
-    **When**: FILL IN
-
-    **Coauthors**: TBD
-    <details> <summary> <b>Title</b>: How machine learning and inversion techniques can advance our understanding of the low solar atmosphere? </summary>
-      <b>Abstract</b>
-      In the last decade, machine learning and neural networks have emerged as powerful tools for extracting and analyzing relevant information from huge collections. They have demonstrated their versatility in data preprocessing, automatic segmentation of solar features, image deconvolution and reconstruction, acceleration of spectropolarimetric inversion techniques and prediction of explosive phenomena. This contribution will focus on how these advanced techniques, can be leveraged to maximize the scientific return from missions like MUSE and IRIS. We will review pioneering applications that directly support the operations and enhance the data products of these missions. We will describe the methodologies, discuss current challenges, and offer a perspective for future research that integrates these powerful tools with ongoing and future observational capabilities.
-    </details>
-
-
 * **Author**: Cooper Downs
 
-    **When**: FILL IN
+    **When**: Thursday - 11:20-11:50
 
     **Coauthors**: Tibor Török, Viacheslav S. Titov, Jon A. Linker
     <details> <summary> <b>Title</b>: Studying Solar Eruptions Through the Lens of Global Coronal Modeling and Observations </summary>
@@ -187,7 +165,7 @@ Accepted Abstracts.
 
 * **Author**: Yuhong Fan
 
-    **When**: FILL IN
+    **When**: Monday - 11:55-12:15
 
     **Coauthors**: Maria Kazachenko (CU/LASP), Andrei Afanasev (CU/LASP), and George Fisher (SSL/UC Berkeley)
     <details> <summary> <b>Title</b>: Data-driven MHD models of Flares and Eruptions </summary>
@@ -198,7 +176,7 @@ Accepted Abstracts.
 
 * **Author**: Fabiana Ferrente
 
-    **When**: FILL IN
+    **When**: Monday - 3:55-4:15
 
     **Coauthors**: Salvatore Luigi Gugliemino, Daniele Spadaro, Paolo Romano
     <details> <summary> <b>Title</b>: Spectropolarimetric Diagnostics of Solar Flares: Observations and Constraints for Numerical Modeling </summary>
@@ -211,7 +189,7 @@ Accepted Abstracts.
 
 * **Author**: Lyndsay Fletcher
 
-    **When**: FILL IN
+    **When**: Tuesday - 9:00-9:20
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Constraining Solar Flare Models with Observations of Flare Ribbons </summary>
@@ -222,7 +200,7 @@ Accepted Abstracts.
 
 * **Author**: Lindsay Glesener
 
-    **When**: FILL IN
+    **When**: Thursday - 2:30-2:50
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Complementing IRIS and MUSE with coordinated hard X-ray observations – how to achieve additional constraints on numerical models </summary>
@@ -237,7 +215,7 @@ Accepted Abstracts.
 
 * **Author**: Milan Gosic
 
-    **When**: FILL IN
+    **When**: Thursday - 9:50-10:10
 
     **Coauthors**: Viggo H. Hansteen, Alberto Sainz Dalda, Bart De Pontieu, Luc Rouppe van der Voort
     <details> <summary> <b>Title</b>: Validating Bifrost models using existing photospheric and chromospheric observations </summary>
@@ -246,22 +224,9 @@ Accepted Abstracts.
     </details>
 
 
-* **Author**: Salvo Guglielmino
-
-    **When**: FILL IN
-
-    **Coauthors**: Fabiana Ferrente, Daniele Spadaro, Paolo Romano
-    <details> <summary> <b>Title</b>: Multi-wavelength Observational Constraints of Energy Release from the Photosphere to the Corona </summary>
-      <b>Abstract</b>
-      Recent advances in multi-wavelength solar observations have led us into a transformative era for understanding the connection between magnetic field and energy release in the solar atmosphere.
-      Building upon the contributions of missions such as Hinode, SDO, and IRIS, we combine data relevant to the upper layers of the atmosphere with spectro-polarimetric measurements, acquired by both ground-based and space-borne facilities. This coordinated approach enables us to track the evolution of magnetic fields in the photosphere and to analyse their impact up to the corona, investigating energetic events at different spatial scales.
-      Here, we explore events such as UV bursts, as observed by IRIS, that caused an increase in Si IV and O IV line intensity (by factors of 100-1000) and significant line broadening (up to ± 150 km/s), indicating bi-directional plasma flows from magnetic reconnection. These events are usually associated with surges. SDO/AIA imaging often reveals bright counterparts across all channels, suggesting a significant involvement of the upper atmospheric layers. Underlying these events, high-resolution spectro-polarimetry in the photosphere and chromosphere details the magnetic configuration during flux emergence and decay. Our observations of the low atmospheric magnetic field provide the necessary boundary conditions for realistic simulations, while the UV diagnostics offer a precise ground truth for the predicted upper atmospheric response by numerical models. Forcing models to replicate the observed rapid heating, specific line intensities, and high-velocity reconnection jets is essential for advancing our fundamental understanding of how magnetic energy is stored, released, and propagated through the stratified plasma of the solar atmosphere. Our findings demonstrate the vital role of multi-instrument campaigns in addressing key challenges in solar physics, paving the way for future studies with advanced spectro-polarimetric instruments and the MUSE satellite.
-    </details>
-
-
 * **Author**: Viggo Hansteen
 
-    **When**: FILL IN
+    **When**: Monday - 9:35-9:55
 
     **Coauthors**: TBD
     <details> <summary> <b>Title</b>: Overview of your recent efforts on validation of numerical models of flares, quiet Sun, and active regions through comparison with observations </summary>
@@ -272,7 +237,7 @@ Accepted Abstracts.
 
 * **Author**: Shinsuke Imada
 
-    **When**: FILL IN
+    **When**: Tuesday - 2:40-3:00
 
     **Coauthors**: SOLAR-C International Team
     <details> <summary> <b>Title</b>: Overview of coronal modeling in support of the EUVST project </summary>
@@ -298,7 +263,7 @@ Accepted Abstracts.
 
 * **Author**: Sarah Jaeggli
 
-    **When**: FILL IN
+    **When**: Thursday - 2:50-3:10
 
     **Coauthors**: Alexandra Tritschler, Friedrich Woeger, David Boboltz, and the DKIST Science Operations Team
     <details> <summary> <b>Title</b>: Current and Future Capabilities of DKIST, and the Potential for DKIST/IRIS/MUSE Observations </summary>
@@ -309,7 +274,7 @@ Accepted Abstracts.
 
 * **Author**: Meng Jin
 
-    **When**: FILL IN
+    **When**: Thursday - 11:50-12:10
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Recent Advances and Ongoing Challenges in Global MHD Modeling of Coronal Mass Ejections and Their Space Weather Impacts </summary>
@@ -320,7 +285,7 @@ Accepted Abstracts.
 
 * **Author**: Craig Johnston
 
-    **When**: FILL IN
+    **When**: Tuesday - 3:30-3:50
 
     **Coauthors**: Lars Daldorff, Jim Klimchuk, Peter Schuck, Mark Linton, James Leake, Will Barnes, Jake Parker
     <details> <summary> <b>Title</b>: Modeling the Transition Region in MHD Simulations and Validation through Comparison with Observations </summary>
@@ -331,7 +296,7 @@ Accepted Abstracts.
 
 * **Author**: Jayant Joshi
 
-    **When**: FILL IN
+    **When**: Thursday - 10:10-10:30
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Quiet-Sun Ellerman Bombs and Their Impact on the Upper Solar
@@ -343,7 +308,7 @@ Atmosphere </summary>
 
 * **Author**: Maria Kazachenko
 
-    **When**: FILL IN
+    **When**: Monday - 3:35-3:55
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Review of Confined vs Eruptive Flares: Observations and Models </summary>
@@ -354,7 +319,7 @@ Atmosphere </summary>
 
 * **Author**: Graham Kerr
 
-    **When**: FILL IN
+    **When**: Monday - 12:15-12:35
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Energy transport during solar flares: Disentangling different mechanisms via model-data comparisons  </summary>
@@ -365,7 +330,7 @@ Atmosphere </summary>
 
 * **Author**: Elena Khomenko
 
-    **When**: FILL IN
+    **When**: Wednesday - 2:00-2:20
 
     **Coauthors**: E. Khomenko, A. Navarro, N. Vitas, M. Collados, D. Martínez-Gómez, B. Popescu Braileanu, M. Modestov, S. J. Gonzalez Manrique, M. Koll Pistarini, M. M. Gómez Míguez, I. Bonilla Mariana
     <details> <summary> <b>Title</b>: Modeling and observing ion-neutral interaction in the solar atmosphere </summary>
@@ -376,7 +341,7 @@ Atmosphere </summary>
 
 * **Author**: James Klimchuk
 
-    **When**: FILL IN
+    **When**: Tuesday - 11:20-12:00
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Coronal Models of Quiescent Active Regions </summary>
@@ -387,7 +352,7 @@ Atmosphere </summary>
 
 * **Author**: Adam Kowalski
 
-    **When**: FILL IN
+    **When**: Tuesday - 9:40-10:00
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: First Steps Toward 3D RMHD Simulations of Flare Beam Generated Chromospheric Condensations </summary>
@@ -398,7 +363,7 @@ Atmosphere </summary>
 
 * **Author**: Jorrit Leenaarts
 
-    **When**: FILL IN
+    **When**: Thursday - 9:30-9:50
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Current understanding of He II 304 line formation and the role of non-equilibrium ionization.  </summary>
@@ -409,7 +374,7 @@ Atmosphere </summary>
 
 * **Author**: Wei Liu
 
-    **When**: FILL IN
+    **When**: Tuesday - 10:50-11:10
 
     **Coauthors**: Patrick Antolin (Northumbria Univ.), Xudong Sun and Soumyaranjan Dash (Univ. Hawaii), Sijie Yu (NJIT), Manuel Luna Bennasar (Universidad de Las Islas Baleares), Cooper Downs and Viacheslav S. Titov (PSI)
     <details> <summary> <b>Title</b>: Coronal Cooling and Condensation near Magnetic Null Points: Feeding the Return Flow of the Chromosphere-Corona Mass Cycle </summary>
@@ -420,7 +385,7 @@ Atmosphere </summary>
 
 * **Author**: Dana Longcope
 
-    **When**: FILL IN
+    **When**: Monday - 1:35-2:05
 
     **Coauthors**: Jiong Qiu
     <details> <summary> <b>Title</b>: Using MUSE and IRIS to address questions raised by recent flare model/observation comparisons </summary>
@@ -431,7 +396,7 @@ Atmosphere </summary>
 
 * **Author**: Juraj Lorincik
 
-    **When**: FILL IN
+    **When**: Tuesday - 9:20-9:40
 
     **Coauthors**: Vanessa Polito, Jaroslav Dudik, Graham Kerr, Alberto Sainz Dalda, Guillaume Aulanier, Bart De Pontieu, Laura Hayes
     <details> <summary> <b>Title</b>: High-Cadence IRIS Observations: Validating Flare Models </summary>
@@ -440,33 +405,9 @@ Atmosphere </summary>
     </details>
 
 
-* **Author**: Juan Martínez-Sykora
-
-    **When**: FILL IN
-
-    **Coauthors**: Sam Evans, Meers Oppenheimer, Yakov Dimant, Bart De Pontieu, Mats Carlsson
-    <details> <summary> <b>Title</b>: Probing the Thermal Farley–Buneman Instability in the Chromosphere: New Insights, Limits on Single Fluid Assumptions, Constraints, and Broader Implications. </summary>
-      <b>Abstract</b>
-      Understanding the chromospheric energy balance is critical, as it forms the interface between the cooler solar surface and the multi-million-degree corona. However, radiative MHD models often fail to reproduce key chromospheric observables—especially in active regions like plage—pointing to missing physics. One compelling candidate is the Thermal Farley–Buneman Instability (TFBI). Recent advances in linear theory reveal where large-scale 3D MHD models break down, particularly where the single-fluid approximation no longer holds. This theory shows that TFBI can grow under typical chromospheric conditions—across realistic ranges of density, temperature, magnetic field, and ionization fraction.
-      We validate this instability using a suite of models, including multi-fluid 2D, kinetic 2D, and 3D simulations. Our preliminary analysis, combining our results with IRIS observations, reveals strong non-thermal broadening in the optically thin O I line between flux concentrations in plage, which is consistent with TFBI. Together, these results indicate that TFBI can drive meter-scale turbulence in the chromosphere, leading to localized heating and electric field restructuring—providing a promising path to understanding chromospheric turbulence and heating.
-    </details>
-
-
-* **Author**: Fernando Moreno-Insertis
-
-    **When**: FILL IN
-
-    **Coauthors**: Viggo H Hansteen, Daniel Nóbrega-Siverio
-    <details> <summary> <b>Title</b>: Exploring magnetic flux cancellation from the solar photosphere to the corona </summary>
-      <b>Abstract</b>
-      Magnetic flux cancellation is often understood as the direct meeting at low atmospheric levels of magnetic patches with opposite polarity, accompanied by a simultaneous reduction in their magnetic flux — and, in some cases, the complete disappearance of one or both of them from magnetograms. Observational studies of this process over the past decades have primarily relied on magnetograms and Doppler maps derived from photospheric or chromospheric spectral lines.
-      A smaller number of studies have employed spectropolarimetric data inversions. In parallel, theoretical investigations have been conducted using either analytical approaches or idealized, purely coronal MHD numerical models. Radiation-MHD models that incorporate self-consistent sub photospheric convection have also been explored; however, these typically extend only up to the low chromosphere and assume geometrically simple initial magnetic field configurations. In this lecture, I will present recent results from a radiation-MHD simulation performed with the Bifrost code. This model spans from the uppermost layers of the solar interior to the corona; in it multiple episodes of magnetic flux emergence and cancellation take place. We analyze the temporal evolution of a few cancellation events, compute observational proxies, and investigate the fascinating magnetic topology at and around the cancellation site. Our study provides a three-dimensional picture of the events taking place above a cancellation site, and offer a perspective beyond the traditional dichotomy of Ω-loop retraction versus U-loop rise often used to interpret observations.
-    </details>
-
-
 * **Author**: Åke Nordlund
 
-    **When**: FILL IN
+    **When**: Thursday - 1:50-2:10
 
     **Coauthors**: Andrius Popovas, Mikolaj Szydlarski
     <details> <summary> <b>Title</b>: Overview of Whole-Sun modeling project, including DISPATCH </summary>
@@ -475,20 +416,9 @@ Atmosphere </summary>
     </details>
 
 
-* **Author**: Daniel Nóbrega-Siverio
-
-    **When**: FILL IN
-
-    **Coauthors**: TBD
-    <details> <summary> <b>Title</b>: Deciphering solar coronal heating: 3D reconnection in Coronal Bright Points. </summary>
-      <b>Abstract</b>
-      Coronal Bright Points (CBPs) are fundamental building blocks of the solar atmosphere. These ubiquitous brightenings, typically spanning 5–40 Mm, consist of compact, hot loops that shine in X-rays and EUV for hours to days. CBPs are also known sources of dynamic events such as coronal jets and small-scale filament eruptions. In this talk, we present a novel 3D radiative-MHD model that successfully reproduces the main observational characteristics of CBPs, including their sustained heating. We perform an in-depth analysis of three-dimensional magnetic reconnection processes within the CBP, focusing on braiding-induced reconnection at loop footpoints, interchange reconnection associated with the null point, and slipping reconnection along quasi-separatrix layers. In addition, we link these reconnection modes with their expected observational signatures, providing synthetic EUV diagnostics to facilitate direct comparisons with instruments such as SDO/AIA, Solar Orbiter/EUI, and the upcoming MUSE and Solar-C missions.
-    </details>
-
-
 * **Author**: Joten Okamoto
 
-    **When**: FILL IN
+    **When**: Wednesday - 1:40-2:00
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Findings on the magnetic field structure of the chromosphere obtained from the CLASP missions and future research </summary>
@@ -499,7 +429,7 @@ Atmosphere </summary>
 
 * **Author**: Vanessa Polito
 
-    **When**: FILL IN
+    **When**: Monday - 2:25-2:45
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Disentangling Solar Flare mechanisms: Insights from IRIS and Future Perspective with MUSE </summary>
@@ -512,7 +442,7 @@ Atmosphere </summary>
 
 * **Author**: Damien Przybylski
 
-    **When**: FILL IN
+    **When**: Wednesday - 3:30-3:50
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Simulations of the chromosphere with the MURaM code </summary>
@@ -521,20 +451,9 @@ Atmosphere </summary>
     </details>
 
 
-* **Author**: A. Franco Rappazzo
-
-    **When**: FILL IN
-
-    **Coauthors**: Pagano, P., Reale, F., and Cozzo, G.
-    <details> <summary> <b>Title</b>: Fast Magnetic Reconnection and the Heating of Coronal Loops </summary>
-      <b>Abstract</b>
-      Magnetic reconnection is a fundamental physical process that dissipates magnetic energy converting it into heat, kinetic and nonthermal particle energy, and plays a crucial role in solar and heliospheric plasma heating, including the heating of the magnetically confined corona. Previous simulations of Parker model for coronal heating have shown the formation of current sheets in a turbulent fashion, with their thickness thinning at least exponentially in time. Current sheets thinning is a common phenomenon in MHD turbulence, and it occurs also whenever turbulence is excited, e.g., in the nonlinear stage of an instability. In recent years theory and simulations have shown that magnetic reconnection developing at high Lundquist number in exponentially thinning current sheets strongly departs from the Sweet-Parker model, with the plasmoid instability giving rise to the hierarchical formation of secondary islands and a fast reconnection rate, independent from the Lundquist number. We have carried out numerical simulations to assess current sheets thinning rate in configurations of interest to coronal loops, and the related development of magnetic reconnection. Heating rates derived from these simulations will subsequently be used to determine the loop radiative emission of interest for spectroscopic observations, e.g., Hinode/EIS and MUSE.
-    </details>
-
-
 * **Author**: Fabio Reale
 
-    **When**: FILL IN
+    **When**: Wednesday - 9:30-9:50
 
     **Coauthors**: F. Reale, G. Cozzo, P. Testa, A.F. Rappazzo, P. Pagano
     <details> <summary> <b>Title</b>: MUSE and magnetic reconnection in coronal loops </summary>
@@ -545,7 +464,7 @@ Atmosphere </summary>
 
 * **Author**: Kathy Reeves
 
-    **When**: FILL IN
+    **When**: Monday - 11:25-11:55
 
     **Coauthors**: Xiaocan Li, Chengcai Shen, Xiaoyan Xie
     <details> <summary> <b>Title</b>: How can MUSE and IRIS observations of solar flares be used to constrain models? </summary>
@@ -556,7 +475,7 @@ Atmosphere </summary>
 
 * **Author**: Matthias Rempel
 
-    **When**: FILL IN
+    **When**: Wednesday - 9:00-9:30
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: 3D radiation MHD models of quiescent active regions </summary>
@@ -567,7 +486,7 @@ Atmosphere </summary>
 
 * **Author**: Matthias Rempel
 
-    **When**: FILL IN
+    **When**: Wednesday - 9:00-9:30
 
     **Coauthors**: J. Martinez-Sykora, A. Winebarger, M.C.M. Cheung, P. Testa, B. De Pontieu, V. Hansteen, C. Johnston, V. Polito, C. Cozzo & V. Upendran
     <details> <summary> <b>Title</b>: 3D simulations of solar flares with improved treatment of the transition region </summary>
@@ -578,7 +497,7 @@ Atmosphere </summary>
 
 * **Author**: Rebecca Robinson
 
-    **When**: FILL IN
+    **When**: Monday - 11:05-11:25
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: A mission-embedded outreach program for NASA’s Multi-slit Solar Explorer (MUSE) mission: Inspiring future generations of solar explorers beyond boundaries and backgrounds </summary>
@@ -589,7 +508,7 @@ Atmosphere </summary>
 
 * **Author**: Luc Rouppe van der Voort
 
-    **When**: FILL IN
+    **When**: Wednesday - 1:20-1:40
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Recent insights from chromospheric observations </summary>
@@ -598,20 +517,9 @@ Atmosphere </summary>
     </details>
 
 
-* **Author**: Alberto Sainz Dalda
-
-    **When**: FILL IN
-
-    **Coauthors**: Jaime de la Cruz Rodríguez, Viggo Hansteen, Bart De Pontieu, and Milan Gosic
-    <details> <summary> <b>Title</b>: The thermodynamics and radiative losses derived from IRIS observation inversions. </summary>
-      <b>Abstract</b>
-      IRIS's multiline spectral capabilities have been used to build the most comprehensive database of model atmospheres spanning from the mid-photosphere to the upper chromosphere. We introduce the inversion tool developed to extract thermodynamic properties and radiative losses in the lower solar atmosphere from this database. This tool, called IRIS^2+, can analyze a large variety of IRIS observations and invert up to six chromospheric and six photospheric lines observed simultaneously. As a result, the atmospheric conditions along the optical depth are more accurately constrained than previous results that only used one or two lines during inversion. Additionally, IRIS^2+ provides radiative losses integrated over the high-, mid-, and low-chromosphere. Understanding thermodynamics and radiative losses is crucial for comprehending energy transfer from the lower atmosphere to the corona. Consequently, these measurements serve as valuable observational constraints for both coronal models and results derived from MUSE observations.
-    </details>
-
-
 * **Author**: Tong Shi
 
-    **When**: FILL IN
+    **When**: Thursday - 2:10-2:30
 
     **Coauthors**: Meng Jin, Juan Martinez Sykora
     <details> <summary> <b>Title</b>: MUSE synthesis with AWSoM global CME simulations </summary>
@@ -620,20 +528,9 @@ Atmosphere </summary>
     </details>
 
 
-* **Author**: Abhishekh Kumar  Srivastava
-
-    **When**: FILL IN
-
-    **Coauthors**: Eric R. Priest, Sripan Mondal, David I. Pontin
-    <details> <summary> <b>Title</b>: Overview of the Symbiosis of Waves and Reconnection as a Source for Coronal Heating </summary>
-      <b>Abstract</b>
-      “Symbiosis of Waves and Reconnection" (SWAR) refers to the interconnection of waves and magnetic reconnection processes whereby each can mutually trigger each other. External wave-like perturbations can trigger or facilitate reconnection, whereas, on the other hand, reconnection can also generate waves. This interplay can lead to localized heating and dynamics in the solar atmosphere, such as coronal heating and the generation of the  solar wind. We will review and present some of our MHD models to describe the physics of this process, and its significance. Some preliminary observations will also be presented. In particular, MUSE will be invaluable in highlighting the observational effects of this combination of waves and reconnection. Furthermore, these fundamental physical processes are likely to occur over a wide range of  spatial and temporal scales, thus indicating the broader applicability of  dynamics and heating in a wide range of plasma environments.
-    </details>
-
-
 * **Author**: Marco Stangalini
 
-    **When**: FILL IN
+    **When**: Wednesday - 3:50-4:10
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Observational aspects of MHD waves linked to FIP </summary>
@@ -644,7 +541,7 @@ Atmosphere </summary>
 
 * **Author**: Lucas Tarr
 
-    **When**: FILL IN
+    **When**: Tuesday - 11:10-11:20
 
     **Coauthors**:  Lucas Tarr (NSO), James Leake (GSFC), Dylan Kee (GSFC), Mark Linton (NRL), Pete Schuck (GSFC)
     <details> <summary> <b>Title</b>: Data driven simulations of emerging and eruptive active regions: validating on a ground truth flux emergence simulation. </summary>
@@ -655,7 +552,7 @@ Atmosphere </summary>
 
 * **Author**: Paola Testa
 
-    **When**: FILL IN
+    **When**: Wednesday - 10:50-11:10
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Heating of active region cores: observational constraints on nanoflare heating models </summary>
@@ -666,7 +563,7 @@ Atmosphere </summary>
 
 * **Author**: Shin Toriumi
 
-    **When**: FILL IN
+    **When**: Tuesday - 10:00-10:20
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: The current status of R2D2 flux emergence simulations and how MUSE and IRIS can constrain them </summary>
@@ -677,7 +574,7 @@ Atmosphere </summary>
 
 * **Author**: Durgesh Tripathi
 
-    **When**: FILL IN
+    **When**: Tuesday - 4:10-4:30
 
     **Coauthors**: A. N. Ramaprakash, Sreejith, P. and SUIT Team
     <details> <summary> <b>Title</b>: Bridging Layers of the Sun: Coordinated Observations with SUIT and MUSE </summary>
@@ -688,7 +585,7 @@ Atmosphere </summary>
 
 * **Author**: Vishal Upendran
 
-    **When**: FILL IN
+    **When**: Thursday - 12:10-12:30
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Constraining solar wind sources with AI </summary>
@@ -699,7 +596,7 @@ Atmosphere </summary>
 
 * **Author**: Jaime de la Cruz Rodriguez
 
-    **When**: FILL IN
+    **When**: Wednesday - 11:50-12:20
 
     **Coauthors**: J. Leenaarts, A. Pastor Yabar, A. Sukhorukov
     <details> <summary> <b>Title</b>: Setting constraints on Chromospheric heating through NLTE inversions of observations </summary>
