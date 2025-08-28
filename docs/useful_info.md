@@ -33,7 +33,8 @@ Rates start at $232 + tax/fees for a single queen bed room.
 
 Rates start at $110 + tax/fees for a single king bed room.
 
-The rates are valid at the time of website's update and they might increase as time gets closer to the meeting start date. Please note that 3rd party retailers might offer different rates for these options.
+The rates are valid at the time of website's update and they might increase as time gets closer to the meeting start date.
+Please note that 3rd party retailers might offer different rates for these options.
 
 ## Food
 
@@ -46,9 +47,13 @@ Neither breakfast nor dinner will be provided.
 
 ## Transportation
 
-Larkspur and Sonesta offer local shuttle. Reservation on-site is required and the shuttle is based on availability.
+Larkspur and Sonesta both offer a local shuttle.
+Reservation on-site is required and the shuttle is based on availability.
 
-Public transportation between certain hotels in the area and the SETI institute is inconvenient. The bus schedule is limited and can be unreliable. Guests staying in hotels at N Mathilda Ave in Sunnyvale can take the bus line 21 from Maude & Matilda to Logue & Matilda and then walk ca. 20 minutes to the SETI institute. Routes can be planned via Google Maps, attendees are encouraged to check the schedules (buses 21, 523, Orange Line) closer to the meeting.
+Public transportation between certain hotels in the area and the SETI institute is inconvenient.
+The bus schedule is limited and can be unreliable.
+Guests staying in hotels at N Mathilda Ave in Sunnyvale can take the bus line 21 from Maude & Matilda to Logue & Matilda and then walk ~20 minutes to the SETI institute.
+Routes can be planned via Google Maps, attendees are encouraged to check the [schedules (buses 21 & 523 and the light rail orange line)](https://www.vta.org/go/routes) closer to the meeting.
 
 We encourage the conference attendees to rent a car and/or coordinate with others who will do so.
 The attendees are free to park at the SETI carpark.
