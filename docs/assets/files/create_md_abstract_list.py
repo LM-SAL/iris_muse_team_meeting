@@ -31,8 +31,11 @@ abstracts["Abstract (max 300 words)"] = abstracts["Abstract (max 300 words)"].ap
 abstract_data = (
     abstracts.fillna("None").sort_values(by="Last Name").to_dict(orient="records")
 )
+# Below "When" is filled when the schedule is created
 template = """
 * **Author**: {First Name} {Last Name}
+
+    **When**: FILL IN
 
     **Coauthors**: {List of (co)authors}
     <details> <summary> <b>Title</b>: {Abstract title} </summary>

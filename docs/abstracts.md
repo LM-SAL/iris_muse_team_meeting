@@ -7,6 +7,8 @@ Accepted Abstracts.
 
 * **Author**: Joel Allred
 
+    **When**: Monday - 2:05-2:25
+
     **Coauthors**: Graham Kerr, Joel Dahlin, Silvina Guidoni, Marc Swisdak, Judy Karpen
     <details> <summary> <b>Title</b>: Flare Modeling with RADYN Arcade </summary>
       <b>Abstract</b>
@@ -16,6 +18,8 @@ Accepted Abstracts.
 
 * **Author**: Patrick Antolin
 
+    **When**: Tuesday - 1:20-1:40
+
     **Coauthors**: Samuel Hor, Jamal Wachira
     <details> <summary> <b>Title</b>: Coronal rain as a proxy for coronal heating </summary>
       <b>Abstract</b>
@@ -23,7 +27,9 @@ Accepted Abstracts.
     </details>
 
 
-* **Author**: Souvik  Bose
+* **Author**: Souvik Bose
+
+    **When**: Wednesday - 10:10-10:30
 
     **Coauthors**: Bart De Pontieu, Viggo Hansteen and Alberto Sainz-Dalda
     <details> <summary> <b>Title</b>: Active region heating in the chromosphere and the corona: insights from high resolution observations and simulations </summary>
@@ -34,6 +40,8 @@ Accepted Abstracts.
 
 * **Author**: Stephen Bradshaw
 
+    **When**: Wednesday - 11:10-11:30
+
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Application of a multi-species NLTE modeling framework to a solar flare and interpreting emission spectra. </summary>
       <b>Abstract</b>
@@ -42,6 +50,8 @@ Accepted Abstracts.
 
 
 * **Author**: David Brooks
+
+    **When**: Thursday - 1:20-1:50
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Connecting the solar wind to its source regions on the Sun using elemental abundances </summary>
@@ -53,6 +63,8 @@ Accepted Abstracts.
 
 * **Author**: Mats Carlsson
 
+    **When**: Thursday - 9:00-9:30
+
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Chromospheric modelling </summary>
       <b>Abstract</b>
@@ -62,6 +74,8 @@ Accepted Abstracts.
 
 * **Author**: Mark Cheung
 
+    **When**: Monday - 9:15-9:35
+
     **Coauthors**: Juan Martínez-Sykora, Amy Winebarger, Vishal Upendran, Carlos José Diaz Baso, David Fouhey, Kyuhyuon Cho, Bart De Pontieu, Paola Testa, Adrian Daw, Gabriele Cozzo
     <details> <summary> <b>Title</b>: Multi-slit disambiguation and High-level Science Data Products for MUSE </summary>
       <b>Abstract</b>
@@ -70,6 +84,8 @@ Accepted Abstracts.
 
 
 * **Author**: Georgios Chintzoglou
+
+    **When**: Monday - 4:15-4:35
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: MUSE Observations as Discriminants of Solar Eruption Models in δ-spot ARs </summary>
@@ -82,6 +98,8 @@ Accepted Abstracts.
 
 * **Author**: Kyuhyoun Cho
 
+    **When**: Monday - 9:55-10:15
+
     **Coauthors**: Juan Martinez-Sykora, Adrian Daw, Bart De Pontieu
     <details> <summary> <b>Title</b>: Removal of Diffraction in Multi-slit Spectrograph </summary>
       <b>Abstract</b>
@@ -90,6 +108,8 @@ Accepted Abstracts.
 
 
 * **Author**: Gabriele Cozzo
+
+    **When**: Tuesday - 2:00-2:20
 
     **Coauthors**: G. Cozzo, P. Testa, J. Martinez-Sykora, F. Reale, P. Pagano, F. Rappazzo, V. Hansteen, and B. De Pontieu
     <details> <summary> <b>Title</b>: Pinpointing nanoflare‑scale coronal heating through reconnection-outflows spectroscopy </summary>
@@ -100,6 +120,8 @@ Accepted Abstracts.
 
 * **Author**: Lars Daldorff
 
+    **When**: Tuesday - 12:00-12:20
+
     **Coauthors**: Lars K. S. Daldorff (CUA/NASA), Craig D. Johnston (GMU/NASA), James A. Klimcuk (NASA), Shanwlee Sow Modal (CUA/NASA), Will T. Barnes (AU/NASA), James A. Leake (NASA), Jack Reid (St. Andrews/UK), Jacob D. Parker (NASA)
     <details> <summary> <b>Title</b>: Nanoflares and Coronal Heating: The Role of Fine-Scale Magnetic Reconnection </summary>
       <b>Abstract</b>
@@ -109,6 +131,8 @@ Accepted Abstracts.
 
 * **Author**: Adrian Daw
 
+    **When**: Monday - 10:15-10:35
+
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Atomic physics (and uncertainties) in support of MUSE approach towards multi-slit disambiguation and cross-calibration </summary>
       <b>Abstract</b>
@@ -117,6 +141,8 @@ Accepted Abstracts.
 
 
 * **Author**: Ineke De Moortel
+
+    **When**: Tuesday - 2:20-2:40
 
     **Coauthors**: C.A. Breu, T.A. Howson
     <details> <summary> <b>Title</b>: Observational signatures of elementary heating mechanisms </summary>
@@ -128,6 +154,8 @@ Accepted Abstracts.
 
 * **Author**: Bart De Pontieu
 
+    **When**: Monday - 9:00-9:15
+
     **Coauthors**: The IRIS and MUSE Teams
     <details> <summary> <b>Title</b>: IRIS and MUSE status </summary>
       <b>Abstract</b>
@@ -136,6 +164,8 @@ Accepted Abstracts.
 
 
 * **Author**: Carlos Jose Diaz Baso
+
+    **When**: Thursday - 3:50-4:10
 
     **Coauthors**: TBD
     <details> <summary> <b>Title</b>: How machine learning and inversion techniques can advance our understanding of the low solar atmosphere? </summary>
@@ -146,6 +176,8 @@ Accepted Abstracts.
 
 * **Author**: Cooper Downs
 
+    **When**: Thursday - 11:20-11:50
+
     **Coauthors**: Tibor Török, Viacheslav S. Titov, Jon A. Linker
     <details> <summary> <b>Title</b>: Studying Solar Eruptions Through the Lens of Global Coronal Modeling and Observations </summary>
       <b>Abstract</b>
@@ -155,6 +187,8 @@ Accepted Abstracts.
 
 * **Author**: Yuhong Fan
 
+    **When**: Monday - 11:55-12:15
+
     **Coauthors**: Maria Kazachenko (CU/LASP), Andrei Afanasev (CU/LASP), and George Fisher (SSL/UC Berkeley)
     <details> <summary> <b>Title</b>: Data-driven MHD models of Flares and Eruptions </summary>
       <b>Abstract</b>
@@ -163,6 +197,8 @@ Accepted Abstracts.
 
 
 * **Author**: Fabiana Ferrente
+
+    **When**: Monday - 3:55-4:15
 
     **Coauthors**: Salvatore Luigi Gugliemino, Daniele Spadaro, Paolo Romano
     <details> <summary> <b>Title</b>: Spectropolarimetric Diagnostics of Solar Flares: Observations and Constraints for Numerical Modeling </summary>
@@ -175,6 +211,8 @@ Accepted Abstracts.
 
 * **Author**: Lyndsay Fletcher
 
+    **When**: Tuesday - 9:00-9:20
+
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Constraining Solar Flare Models with Observations of Flare Ribbons </summary>
       <b>Abstract</b>
@@ -183,6 +221,8 @@ Accepted Abstracts.
 
 
 * **Author**: Lindsay Glesener
+
+    **When**: Thursday - 2:30-2:50
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Complementing IRIS and MUSE with coordinated hard X-ray observations – how to achieve additional constraints on numerical models </summary>
@@ -197,6 +237,8 @@ Accepted Abstracts.
 
 * **Author**: Milan Gosic
 
+    **When**: Thursday - 9:50-10:10
+
     **Coauthors**: Viggo H. Hansteen, Alberto Sainz Dalda, Bart De Pontieu, Luc Rouppe van der Voort
     <details> <summary> <b>Title</b>: Validating Bifrost models using existing photospheric and chromospheric observations </summary>
       <b>Abstract</b>
@@ -205,6 +247,8 @@ Accepted Abstracts.
 
 
 * **Author**: Salvo Guglielmino
+
+    **When**: Thursday - 11:00-11:20
 
     **Coauthors**: Fabiana Ferrente, Daniele Spadaro, Paolo Romano
     <details> <summary> <b>Title</b>: Multi-wavelength Observational Constraints of Energy Release from the Photosphere to the Corona </summary>
@@ -217,6 +261,8 @@ Accepted Abstracts.
 
 * **Author**: Viggo Hansteen
 
+    **When**: Monday - 9:35-9:55
+
     **Coauthors**: TBD
     <details> <summary> <b>Title</b>: Overview of your recent efforts on validation of numerical models of flares, quiet Sun, and active regions through comparison with observations </summary>
       <b>Abstract</b>
@@ -225,6 +271,8 @@ Accepted Abstracts.
 
 
 * **Author**: Shinsuke Imada
+
+    **When**: Tuesday - 2:40-3:00
 
     **Coauthors**: SOLAR-C International Team
     <details> <summary> <b>Title</b>: Overview of coronal modeling in support of the EUVST project </summary>
@@ -250,6 +298,8 @@ Accepted Abstracts.
 
 * **Author**: Sarah Jaeggli
 
+    **When**: Thursday - 2:50-3:10
+
     **Coauthors**: Alexandra Tritschler, Friedrich Woeger, David Boboltz, and the DKIST Science Operations Team
     <details> <summary> <b>Title</b>: Current and Future Capabilities of DKIST, and the Potential for DKIST/IRIS/MUSE Observations </summary>
       <b>Abstract</b>
@@ -258,6 +308,8 @@ Accepted Abstracts.
 
 
 * **Author**: Meng Jin
+
+    **When**: Thursday - 11:50-12:10
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Recent Advances and Ongoing Challenges in Global MHD Modeling of Coronal Mass Ejections and Their Space Weather Impacts </summary>
@@ -268,6 +320,8 @@ Accepted Abstracts.
 
 * **Author**: Craig Johnston
 
+    **When**: Tuesday - 3:30-3:50
+
     **Coauthors**: Lars Daldorff, Jim Klimchuk, Peter Schuck, Mark Linton, James Leake, Will Barnes, Jake Parker
     <details> <summary> <b>Title</b>: Modeling the Transition Region in MHD Simulations and Validation through Comparison with Observations </summary>
       <b>Abstract</b>
@@ -276,6 +330,8 @@ Accepted Abstracts.
 
 
 * **Author**: Jayant Joshi
+
+    **When**: Thursday - 10:10-10:30
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Quiet-Sun Ellerman Bombs and Their Impact on the Upper Solar
@@ -287,6 +343,8 @@ Atmosphere </summary>
 
 * **Author**: Maria Kazachenko
 
+    **When**: Monday - 3:35-3:55
+
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Review of Confined vs Eruptive Flares: Observations and Models </summary>
       <b>Abstract</b>
@@ -295,6 +353,8 @@ Atmosphere </summary>
 
 
 * **Author**: Graham Kerr
+
+    **When**: Monday - 12:15-12:35
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Energy transport during solar flares: Disentangling different mechanisms via model-data comparisons  </summary>
@@ -305,6 +365,8 @@ Atmosphere </summary>
 
 * **Author**: Elena Khomenko
 
+    **When**: Wednesday - 2:00-2:20
+
     **Coauthors**: E. Khomenko, A. Navarro, N. Vitas, M. Collados, D. Martínez-Gómez, B. Popescu Braileanu, M. Modestov, S. J. Gonzalez Manrique, M. Koll Pistarini, M. M. Gómez Míguez, I. Bonilla Mariana
     <details> <summary> <b>Title</b>: Modeling and observing ion-neutral interaction in the solar atmosphere </summary>
       <b>Abstract</b>
@@ -313,6 +375,8 @@ Atmosphere </summary>
 
 
 * **Author**: James Klimchuk
+
+    **When**: Tuesday - 11:20-12:00
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Coronal Models of Quiescent Active Regions </summary>
@@ -323,6 +387,8 @@ Atmosphere </summary>
 
 * **Author**: Adam Kowalski
 
+    **When**: Tuesday - 9:40-10:00
+
     **Coauthors**: None
     <details> <summary> <b>Title</b>: First Steps Toward 3D RMHD Simulations of Flare Beam Generated Chromospheric Condensations </summary>
       <b>Abstract</b>
@@ -331,6 +397,8 @@ Atmosphere </summary>
 
 
 * **Author**: Jorrit Leenaarts
+
+    **When**: Thursday - 9:30-9:50
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Current understanding of He II 304 line formation and the role of non-equilibrium ionization.  </summary>
@@ -341,6 +409,8 @@ Atmosphere </summary>
 
 * **Author**: Wei Liu
 
+    **When**: Tuesday - 10:50-11:10
+
     **Coauthors**: Patrick Antolin (Northumbria Univ.), Xudong Sun and Soumyaranjan Dash (Univ. Hawaii), Sijie Yu (NJIT), Manuel Luna Bennasar (Universidad de Las Islas Baleares), Cooper Downs and Viacheslav S. Titov (PSI)
     <details> <summary> <b>Title</b>: Coronal Cooling and Condensation near Magnetic Null Points: Feeding the Return Flow of the Chromosphere-Corona Mass Cycle </summary>
       <b>Abstract</b>
@@ -349,6 +419,8 @@ Atmosphere </summary>
 
 
 * **Author**: Dana Longcope
+
+    **When**: Monday - 1:35-2:05
 
     **Coauthors**: Jiong Qiu
     <details> <summary> <b>Title</b>: Using MUSE and IRIS to address questions raised by recent flare model/observation comparisons </summary>
@@ -359,6 +431,8 @@ Atmosphere </summary>
 
 * **Author**: Juraj Lorincik
 
+    **When**: Tuesday - 9:20-9:40
+
     **Coauthors**: Vanessa Polito, Jaroslav Dudik, Graham Kerr, Alberto Sainz Dalda, Guillaume Aulanier, Bart De Pontieu, Laura Hayes
     <details> <summary> <b>Title</b>: High-Cadence IRIS Observations: Validating Flare Models </summary>
       <b>Abstract</b>
@@ -367,6 +441,8 @@ Atmosphere </summary>
 
 
 * **Author**: Juan Martínez-Sykora
+
+    **When**: Wednesday - 2:20-2:40
 
     **Coauthors**: Sam Evans, Meers Oppenheimer, Yakov Dimant, Bart De Pontieu, Mats Carlsson
     <details> <summary> <b>Title</b>: Probing the Thermal Farley–Buneman Instability in the Chromosphere: New Insights, Limits on Single Fluid Assumptions, Constraints, and Broader Implications. </summary>
@@ -378,6 +454,8 @@ Atmosphere </summary>
 
 * **Author**: Fernando Moreno-Insertis
 
+    **When**: Tuesday - 1:40-2:00
+
     **Coauthors**: Viggo H Hansteen, Daniel Nóbrega-Siverio
     <details> <summary> <b>Title</b>: Exploring magnetic flux cancellation from the solar photosphere to the corona </summary>
       <b>Abstract</b>
@@ -388,6 +466,8 @@ Atmosphere </summary>
 
 * **Author**: Åke Nordlund
 
+    **When**: Thursday - 1:50-2:10
+
     **Coauthors**: Andrius Popovas, Mikolaj Szydlarski
     <details> <summary> <b>Title</b>: Overview of Whole-Sun modeling project, including DISPATCH </summary>
       <b>Abstract</b>
@@ -396,6 +476,8 @@ Atmosphere </summary>
 
 
 * **Author**: Daniel Nóbrega-Siverio
+
+    **When**: Wednesday - 9:50-10:10
 
     **Coauthors**: TBD
     <details> <summary> <b>Title</b>: Deciphering solar coronal heating: 3D reconnection in Coronal Bright Points. </summary>
@@ -406,6 +488,8 @@ Atmosphere </summary>
 
 * **Author**: Joten Okamoto
 
+    **When**: Wednesday - 1:40-2:00
+
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Findings on the magnetic field structure of the chromosphere obtained from the CLASP missions and future research </summary>
       <b>Abstract</b>
@@ -414,6 +498,8 @@ Atmosphere </summary>
 
 
 * **Author**: Vanessa Polito
+
+    **When**: Monday - 2:25-2:45
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Disentangling Solar Flare mechanisms: Insights from IRIS and Future Perspective with MUSE </summary>
@@ -426,6 +512,8 @@ Atmosphere </summary>
 
 * **Author**: Damien Przybylski
 
+    **When**: Wednesday - 3:30-3:50
+
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Simulations of the chromosphere with the MURaM code </summary>
       <b>Abstract</b>
@@ -434,6 +522,8 @@ Atmosphere </summary>
 
 
 * **Author**: A. Franco Rappazzo
+
+    **When**: Tuesday - 3:50-4:10
 
     **Coauthors**: Pagano, P., Reale, F., and Cozzo, G.
     <details> <summary> <b>Title</b>: Fast Magnetic Reconnection and the Heating of Coronal Loops </summary>
@@ -444,6 +534,8 @@ Atmosphere </summary>
 
 * **Author**: Fabio Reale
 
+    **When**: Wednesday - 9:30-9:50
+
     **Coauthors**: F. Reale, G. Cozzo, P. Testa, A.F. Rappazzo, P. Pagano
     <details> <summary> <b>Title</b>: MUSE and magnetic reconnection in coronal loops </summary>
       <b>Abstract</b>
@@ -452,6 +544,8 @@ Atmosphere </summary>
 
 
 * **Author**: Kathy Reeves
+
+    **When**: Monday - 11:25-11:55
 
     **Coauthors**: Xiaocan Li, Chengcai Shen, Xiaoyan Xie
     <details> <summary> <b>Title</b>: How can MUSE and IRIS observations of solar flares be used to constrain models? </summary>
@@ -462,6 +556,8 @@ Atmosphere </summary>
 
 * **Author**: Matthias Rempel
 
+    **When**: Wednesday - 9:00-9:30
+
     **Coauthors**: None
     <details> <summary> <b>Title</b>: 3D radiation MHD models of quiescent active regions </summary>
       <b>Abstract</b>
@@ -470,6 +566,8 @@ Atmosphere </summary>
 
 
 * **Author**: Matthias Rempel
+
+    **When**: Wednesday - 9:00-9:30
 
     **Coauthors**: J. Martinez-Sykora, A. Winebarger, M.C.M. Cheung, P. Testa, B. De Pontieu, V. Hansteen, C. Johnston, V. Polito, C. Cozzo & V. Upendran
     <details> <summary> <b>Title</b>: 3D simulations of solar flares with improved treatment of the transition region </summary>
@@ -480,6 +578,8 @@ Atmosphere </summary>
 
 * **Author**: Rebecca Robinson
 
+    **When**: Monday - 11:05-11:25
+
     **Coauthors**: None
     <details> <summary> <b>Title</b>: A mission-embedded outreach program for NASA’s Multi-slit Solar Explorer (MUSE) mission: Inspiring future generations of solar explorers beyond boundaries and backgrounds </summary>
       <b>Abstract</b>
@@ -488,6 +588,8 @@ Atmosphere </summary>
 
 
 * **Author**: Luc Rouppe van der Voort
+
+    **When**: Wednesday - 1:20-1:40
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Recent insights from chromospheric observations </summary>
@@ -498,6 +600,8 @@ Atmosphere </summary>
 
 * **Author**: Alberto Sainz Dalda
 
+    **When**: Wednesday - 2:40-3:00
+
     **Coauthors**: Jaime de la Cruz Rodríguez, Viggo Hansteen, Bart De Pontieu, and Milan Gosic
     <details> <summary> <b>Title</b>: The thermodynamics and radiative losses derived from IRIS observation inversions. </summary>
       <b>Abstract</b>
@@ -507,6 +611,8 @@ Atmosphere </summary>
 
 * **Author**: Tong Shi
 
+    **When**: Thursday - 2:10-2:30
+
     **Coauthors**: Meng Jin, Juan Martinez Sykora
     <details> <summary> <b>Title</b>: MUSE synthesis with AWSoM global CME simulations </summary>
       <b>Abstract</b>
@@ -514,7 +620,9 @@ Atmosphere </summary>
     </details>
 
 
-* **Author**: Abhishekh Kumar  Srivastava
+* **Author**: Abhishekh Kumar Srivastava
+
+    **When**: Wednesday - 11:30-11:50
 
     **Coauthors**: Eric R. Priest, Sripan Mondal, David I. Pontin
     <details> <summary> <b>Title</b>: Overview of the Symbiosis of Waves and Reconnection as a Source for Coronal Heating </summary>
@@ -525,6 +633,8 @@ Atmosphere </summary>
 
 * **Author**: Marco Stangalini
 
+    **When**: Wednesday - 3:50-4:10
+
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Observational aspects of MHD waves linked to FIP </summary>
       <b>Abstract</b>
@@ -533,6 +643,8 @@ Atmosphere </summary>
 
 
 * **Author**: Lucas Tarr
+
+    **When**: Tuesday - 11:10-11:20
 
     **Coauthors**:  Lucas Tarr (NSO), James Leake (GSFC), Dylan Kee (GSFC), Mark Linton (NRL), Pete Schuck (GSFC)
     <details> <summary> <b>Title</b>: Data driven simulations of emerging and eruptive active regions: validating on a ground truth flux emergence simulation. </summary>
@@ -543,6 +655,8 @@ Atmosphere </summary>
 
 * **Author**: Paola Testa
 
+    **When**: Wednesday - 10:50-11:10
+
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Heating of active region cores: observational constraints on nanoflare heating models </summary>
       <b>Abstract</b>
@@ -551,6 +665,8 @@ Atmosphere </summary>
 
 
 * **Author**: Shin Toriumi
+
+    **When**: Tuesday - 10:00-10:20
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: The current status of R2D2 flux emergence simulations and how MUSE and IRIS can constrain them </summary>
@@ -561,6 +677,8 @@ Atmosphere </summary>
 
 * **Author**: Durgesh Tripathi
 
+    **When**: Tuesday - 4:10-4:30
+
     **Coauthors**: A. N. Ramaprakash, Sreejith, P. and SUIT Team
     <details> <summary> <b>Title</b>: Bridging Layers of the Sun: Coordinated Observations with SUIT and MUSE </summary>
       <b>Abstract</b>
@@ -570,6 +688,8 @@ Atmosphere </summary>
 
 * **Author**: Vishal Upendran
 
+    **When**: Thursday - 12:10-12:30
+
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Constraining solar wind sources with AI </summary>
       <b>Abstract</b>
@@ -578,6 +698,8 @@ Atmosphere </summary>
 
 
 * **Author**: Jaime de la Cruz Rodriguez
+
+    **When**: Wednesday - 11:50-12:20
 
     **Coauthors**: J. Leenaarts, A. Pastor Yabar, A. Sukhorukov
     <details> <summary> <b>Title</b>: Setting constraints on Chromospheric heating through NLTE inversions of observations </summary>
