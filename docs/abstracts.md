@@ -27,6 +27,17 @@ Accepted Abstracts.
     </details>
 
 
+* **Author**: Souvik Bose
+
+    **When**: Wednesday - 10:10-10:30
+
+    **Coauthors**: Bart De Pontieu, Viggo Hansteen and Alberto Sainz-Dalda
+    <details> <summary> <b>Title</b>: Active region heating in the chromosphere and the corona: insights from high resolution observations and simulations </summary>
+      <b>Abstract</b>
+      At the interface between the Sun’s million-degree corona and its surface lies the chromosphere. At roughly 10,000 K it is much cooler than the corona, but also several orders of magnitude denser. Understanding what heats the corona is indirectly related to understanding the heating mechanisms in the chromosphere since it processes all the magnetoconvective energy that ultimately drives the heating of the corona. Yet many questions pertaining to the coupling of these layers remains a topic of significant research. In this talk, I will focus on recent progresses in high-resolution ground and space-based observations and state-of-the-art numerical simulations of the dynamic solar atmosphere, in particular of the active regions, in an attempt to understand how the atmosphere above the active regions is heated from tens of thousands to millions of degrees. Moreover, this talk will also highlight how the synergy between observations and modeling is key to make advances in our understanding of the chromosphere.
+    </details>
+
+
 * **Author**: Stephen Bradshaw
 
     **When**: Wednesday - 11:10-11:30
@@ -152,6 +163,17 @@ Accepted Abstracts.
     </details>
 
 
+* **Author**: Carlos Jose Diaz Baso
+
+    **When**: Thursday - 3:50-4:10
+
+    **Coauthors**: TBD
+    <details> <summary> <b>Title</b>: How machine learning and inversion techniques can advance our understanding of the low solar atmosphere? </summary>
+      <b>Abstract</b>
+      In the last decade, machine learning and neural networks have emerged as powerful tools for extracting and analyzing relevant information from huge collections. They have demonstrated their versatility in data preprocessing, automatic segmentation of solar features, image deconvolution and reconstruction, acceleration of spectropolarimetric inversion techniques and prediction of explosive phenomena. This contribution will focus on how these advanced techniques, can be leveraged to maximize the scientific return from missions like MUSE and IRIS. We will review pioneering applications that directly support the operations and enhance the data products of these missions. We will describe the methodologies, discuss current challenges, and offer a perspective for future research that integrates these powerful tools with ongoing and future observational capabilities.
+    </details>
+
+
 * **Author**: Cooper Downs
 
     **When**: Thursday - 11:20-11:50
@@ -221,6 +243,19 @@ Accepted Abstracts.
     <details> <summary> <b>Title</b>: Validating Bifrost models using existing photospheric and chromospheric observations </summary>
       <b>Abstract</b>
       Solar magnetic fields have long been recognized as the main drivers of various solar phenomena that greatly impact our space environment. These fields are organized across a broad range of spatial and temporal scales, from large-scale active regions to those that collectively form what is known as the quiet Sun (QS): ephemeral, network, and small-scale internetwork magnetic fields. Numerous studies have demonstrated that QS magnetic fields play a crucial role in maintaining solar magnetism. Understanding the origins of QS magnetic fields, their subsequent spatio-temporal evolution, and their contribution to the energetics and dynamics of the solar atmosphere is therefore of paramount importance. Various theoretical models have been proposed to explain the origins and properties of QS fields. However, the properties and, particularly, the origins of these fields remain a topic of ongoing debate among researchers. In this work, we will compare two Bifrost models of quiet Sun-like magnetic fields with observations from the Swedish 1-meter Solar Telescope (SST) and the Interface Region Imaging Spectrograph (IRIS). We will describe the characteristics of the magnetic fields identified in both the models and the observed data. Finally, we will discuss our current understanding of the topology of QS magnetic fields, noting discrepancies between observed data and Bifrost models, but also between other numerical models in general.
+    </details>
+
+
+* **Author**: Salvo Guglielmino
+
+    **When**: Thursday - 11:00-11:20
+
+    **Coauthors**: Fabiana Ferrente, Daniele Spadaro, Paolo Romano
+    <details> <summary> <b>Title</b>: Multi-wavelength Observational Constraints of Energy Release from the Photosphere to the Corona </summary>
+      <b>Abstract</b>
+      Recent advances in multi-wavelength solar observations have led us into a transformative era for understanding the connection between magnetic field and energy release in the solar atmosphere.
+      Building upon the contributions of missions such as Hinode, SDO, and IRIS, we combine data relevant to the upper layers of the atmosphere with spectro-polarimetric measurements, acquired by both ground-based and space-borne facilities. This coordinated approach enables us to track the evolution of magnetic fields in the photosphere and to analyse their impact up to the corona, investigating energetic events at different spatial scales.
+      Here, we explore events such as UV bursts, as observed by IRIS, that caused an increase in Si IV and O IV line intensity (by factors of 100-1000) and significant line broadening (up to ± 150 km/s), indicating bi-directional plasma flows from magnetic reconnection. These events are usually associated with surges. SDO/AIA imaging often reveals bright counterparts across all channels, suggesting a significant involvement of the upper atmospheric layers. Underlying these events, high-resolution spectro-polarimetry in the photosphere and chromosphere details the magnetic configuration during flux emergence and decay. Our observations of the low atmospheric magnetic field provide the necessary boundary conditions for realistic simulations, while the UV diagnostics offer a precise ground truth for the predicted upper atmospheric response by numerical models. Forcing models to replicate the observed rapid heating, specific line intensities, and high-velocity reconnection jets is essential for advancing our fundamental understanding of how magnetic energy is stored, released, and propagated through the stratified plasma of the solar atmosphere. Our findings demonstrate the vital role of multi-instrument campaigns in addressing key challenges in solar physics, paving the way for future studies with advanced spectro-polarimetric instruments and the MUSE satellite.
     </details>
 
 
@@ -405,6 +440,30 @@ Atmosphere </summary>
     </details>
 
 
+* **Author**: Juan Martínez-Sykora
+
+    **When**: Wednesday - 2:20-2:40
+
+    **Coauthors**: Sam Evans, Meers Oppenheimer, Yakov Dimant, Bart De Pontieu, Mats Carlsson
+    <details> <summary> <b>Title</b>: Probing the Thermal Farley–Buneman Instability in the Chromosphere: New Insights, Limits on Single Fluid Assumptions, Constraints, and Broader Implications. </summary>
+      <b>Abstract</b>
+      Understanding the chromospheric energy balance is critical, as it forms the interface between the cooler solar surface and the multi-million-degree corona. However, radiative MHD models often fail to reproduce key chromospheric observables—especially in active regions like plage—pointing to missing physics. One compelling candidate is the Thermal Farley–Buneman Instability (TFBI). Recent advances in linear theory reveal where large-scale 3D MHD models break down, particularly where the single-fluid approximation no longer holds. This theory shows that TFBI can grow under typical chromospheric conditions—across realistic ranges of density, temperature, magnetic field, and ionization fraction.
+      We validate this instability using a suite of models, including multi-fluid 2D, kinetic 2D, and 3D simulations. Our preliminary analysis, combining our results with IRIS observations, reveals strong non-thermal broadening in the optically thin O I line between flux concentrations in plage, which is consistent with TFBI. Together, these results indicate that TFBI can drive meter-scale turbulence in the chromosphere, leading to localized heating and electric field restructuring—providing a promising path to understanding chromospheric turbulence and heating.
+    </details>
+
+
+* **Author**: Fernando Moreno-Insertis
+
+    **When**: Tuesday - 1:40-2:00
+
+    **Coauthors**: Viggo H Hansteen, Daniel Nóbrega-Siverio
+    <details> <summary> <b>Title</b>: Exploring magnetic flux cancellation from the solar photosphere to the corona </summary>
+      <b>Abstract</b>
+      Magnetic flux cancellation is often understood as the direct meeting at low atmospheric levels of magnetic patches with opposite polarity, accompanied by a simultaneous reduction in their magnetic flux — and, in some cases, the complete disappearance of one or both of them from magnetograms. Observational studies of this process over the past decades have primarily relied on magnetograms and Doppler maps derived from photospheric or chromospheric spectral lines.
+      A smaller number of studies have employed spectropolarimetric data inversions. In parallel, theoretical investigations have been conducted using either analytical approaches or idealized, purely coronal MHD numerical models. Radiation-MHD models that incorporate self-consistent sub photospheric convection have also been explored; however, these typically extend only up to the low chromosphere and assume geometrically simple initial magnetic field configurations. In this lecture, I will present recent results from a radiation-MHD simulation performed with the Bifrost code. This model spans from the uppermost layers of the solar interior to the corona; in it multiple episodes of magnetic flux emergence and cancellation take place. We analyze the temporal evolution of a few cancellation events, compute observational proxies, and investigate the fascinating magnetic topology at and around the cancellation site. Our study provides a three-dimensional picture of the events taking place above a cancellation site, and offer a perspective beyond the traditional dichotomy of Ω-loop retraction versus U-loop rise often used to interpret observations.
+    </details>
+
+
 * **Author**: Åke Nordlund
 
     **When**: Thursday - 1:50-2:10
@@ -413,6 +472,17 @@ Atmosphere </summary>
     <details> <summary> <b>Title</b>: Overview of Whole-Sun modeling project, including DISPATCH </summary>
       <b>Abstract</b>
       I will give an overview of the ongoing modeling efforts in the ERC/SYG Whole Sun project, focusing mainly on the DYABLO and DISPATCH code developments, which aim to indeed model the whole Sun.  The DISPATCH development has reached a state where it is possible to model the entire solar convection zone, going arbitrarily close to the surface -- and indeed optionally include photospheric, chromospheric, and coronal physics.  The strategy and intent is to apply a "zoom in" methodology, where one starts with a large extent in model space time, with necessarily limited spatial resolution, and then zooms in to specific spatial and temporal regions of interest, allowing the modeling there to be based on initial and boundary conditions available from the larger extent model.  One could then, for example, model the dynamics of flux emergence on the scale of a solar active region, and focus on how the emerging flux interacts with the surface layers, without being forced to adapt arbitrary and parameterized initial and boundary conditions.   As part of the zoom-in modeling one can choose to include more physical detail, for example physics modules that were previously developed in the context of the BIFROST code.   A particle-in-cell solver that connects smoothly to an MHD solver in which it is embedded has also been developed, allowing studies of non-thermal particle acceleration in realistic settings. As part of the Whole Sun team efforts, a benchmark setup that contains the main ingredients and challenges of the sharp transition at the solar continuum surface was also developed.   This may be of interest to other modelers as well, who are welcome to a copy of the generic benchmark setup and procedures.
+    </details>
+
+
+* **Author**: Daniel Nóbrega-Siverio
+
+    **When**: Wednesday - 9:50-10:10
+
+    **Coauthors**: TBD
+    <details> <summary> <b>Title</b>: Deciphering solar coronal heating: 3D reconnection in Coronal Bright Points. </summary>
+      <b>Abstract</b>
+      Coronal Bright Points (CBPs) are fundamental building blocks of the solar atmosphere. These ubiquitous brightenings, typically spanning 5–40 Mm, consist of compact, hot loops that shine in X-rays and EUV for hours to days. CBPs are also known sources of dynamic events such as coronal jets and small-scale filament eruptions. In this talk, we present a novel 3D radiative-MHD model that successfully reproduces the main observational characteristics of CBPs, including their sustained heating. We perform an in-depth analysis of three-dimensional magnetic reconnection processes within the CBP, focusing on braiding-induced reconnection at loop footpoints, interchange reconnection associated with the null point, and slipping reconnection along quasi-separatrix layers. In addition, we link these reconnection modes with their expected observational signatures, providing synthetic EUV diagnostics to facilitate direct comparisons with instruments such as SDO/AIA, Solar Orbiter/EUI, and the upcoming MUSE and Solar-C missions.
     </details>
 
 
@@ -448,6 +518,17 @@ Atmosphere </summary>
     <details> <summary> <b>Title</b>: Simulations of the chromosphere with the MURaM code </summary>
       <b>Abstract</b>
       We introduce simulations of the solar atmosphere, utilizing the MURaM code. These simulation now include a set of NLTE physics required to accurately treat the solar chromosphere, similar to those in the Bifrost code. A number of diagnostics have now been computed from the models, spanning from the photosphere to the upper chromosphere. The diagnostics show a close match to average line profiles and qualitatively reproduce a number of observed phenomena. Using these initial simulations we investigate the dynamics and energy transfer into the solar chromosphere. Finally, we discuss the limitations of the work, and plans for future improvement of the models.
+    </details>
+
+
+* **Author**: A. Franco Rappazzo
+
+    **When**: Tuesday - 3:50-4:10
+
+    **Coauthors**: Pagano, P., Reale, F., and Cozzo, G.
+    <details> <summary> <b>Title</b>: Fast Magnetic Reconnection and the Heating of Coronal Loops </summary>
+      <b>Abstract</b>
+      Magnetic reconnection is a fundamental physical process that dissipates magnetic energy converting it into heat, kinetic and nonthermal particle energy, and plays a crucial role in solar and heliospheric plasma heating, including the heating of the magnetically confined corona. Previous simulations of Parker model for coronal heating have shown the formation of current sheets in a turbulent fashion, with their thickness thinning at least exponentially in time. Current sheets thinning is a common phenomenon in MHD turbulence, and it occurs also whenever turbulence is excited, e.g., in the nonlinear stage of an instability. In recent years theory and simulations have shown that magnetic reconnection developing at high Lundquist number in exponentially thinning current sheets strongly departs from the Sweet-Parker model, with the plasmoid instability giving rise to the hierarchical formation of secondary islands and a fast reconnection rate, independent from the Lundquist number. We have carried out numerical simulations to assess current sheets thinning rate in configurations of interest to coronal loops, and the related development of magnetic reconnection. Heating rates derived from these simulations will subsequently be used to determine the loop radiative emission of interest for spectroscopic observations, e.g., Hinode/EIS and MUSE.
     </details>
 
 
@@ -517,6 +598,17 @@ Atmosphere </summary>
     </details>
 
 
+* **Author**: Alberto Sainz Dalda
+
+    **When**: Wednesday - 2:40-3:00
+
+    **Coauthors**: Jaime de la Cruz Rodríguez, Viggo Hansteen, Bart De Pontieu, and Milan Gosic
+    <details> <summary> <b>Title</b>: The thermodynamics and radiative losses derived from IRIS observation inversions. </summary>
+      <b>Abstract</b>
+      IRIS's multiline spectral capabilities have been used to build the most comprehensive database of model atmospheres spanning from the mid-photosphere to the upper chromosphere. We introduce the inversion tool developed to extract thermodynamic properties and radiative losses in the lower solar atmosphere from this database. This tool, called IRIS^2+, can analyze a large variety of IRIS observations and invert up to six chromospheric and six photospheric lines observed simultaneously. As a result, the atmospheric conditions along the optical depth are more accurately constrained than previous results that only used one or two lines during inversion. Additionally, IRIS^2+ provides radiative losses integrated over the high-, mid-, and low-chromosphere. Understanding thermodynamics and radiative losses is crucial for comprehending energy transfer from the lower atmosphere to the corona. Consequently, these measurements serve as valuable observational constraints for both coronal models and results derived from MUSE observations.
+    </details>
+
+
 * **Author**: Tong Shi
 
     **When**: Thursday - 2:10-2:30
@@ -525,6 +617,17 @@ Atmosphere </summary>
     <details> <summary> <b>Title</b>: MUSE synthesis with AWSoM global CME simulations </summary>
       <b>Abstract</b>
       Understanding initiation, evolution, and large-scale impact of CMEs remains a critical challenge for solar physics and space-weather forecasting. MUSE delivers high-resolution, high-cadence EUV spectroscopy over a wide FOV, uniquely suited to capture CME dynamics through the lower corona. Localized codes (MURaM, Bifrost, PLUTO) excel at small-scale heating and turbulence but cannot simulate global coronal reconfiguration during eruptions. In contrast, AWSoM provides a global MHD description with physics-based Alfven wave heating, ideal for modeling sympathetic CME events across multiple active regions. Here, we develop a data-processing and synthesis code that converts AWSoM outputs into VDEMs for the MUSE pipeline. By accounting for spherical geometry, stretched radial grids, AMRs, and off-axis lines of sight, our tool ensures fidelity across MUSE's expansive FOV. Applied to AWSoM CME simulations, it generates synthetic MUSE rasters at target spatial and temporal resolutions. Preliminary comparisons with Hinode/EIS-style spectra show that MUSE's combination of high cadence and wide coverage enhances tracking of global magnetic restructuring and understanding of sympathetic eruptions. These results underscore MUSE's transformative potential for unraveling multi-scale CME physics and should help inform optimized observing strategies.
+    </details>
+
+
+* **Author**: Abhishekh Kumar Srivastava
+
+    **When**: Wednesday - 11:30-11:50
+
+    **Coauthors**: Eric R. Priest, Sripan Mondal, David I. Pontin
+    <details> <summary> <b>Title</b>: Overview of the Symbiosis of Waves and Reconnection as a Source for Coronal Heating </summary>
+      <b>Abstract</b>
+      “Symbiosis of Waves and Reconnection" (SWAR) refers to the interconnection of waves and magnetic reconnection processes whereby each can mutually trigger each other. External wave-like perturbations can trigger or facilitate reconnection, whereas, on the other hand, reconnection can also generate waves. This interplay can lead to localized heating and dynamics in the solar atmosphere, such as coronal heating and the generation of the  solar wind. We will review and present some of our MHD models to describe the physics of this process, and its significance. Some preliminary observations will also be presented. In particular, MUSE will be invaluable in highlighting the observational effects of this combination of waves and reconnection. Furthermore, these fundamental physical processes are likely to occur over a wide range of  spatial and temporal scales, thus indicating the broader applicability of  dynamics and heating in a wide range of plasma environments.
     </details>
 
 

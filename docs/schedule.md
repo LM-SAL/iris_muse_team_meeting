@@ -56,7 +56,7 @@
     <td class="tg-0pky">9:40-10:00</td>
     <td class="tg-three">Kowalski</td>
     <td class="tg-0pky">9:50-10:10</td>
-    <td class="tg-two">Nobrega Siverio</td>
+    <td class="tg-two">Nóbrega-Siverio</td>
     <td class="tg-0pky">9:50-10:10</td>
     <td class="tg-one">Gosic</td>
   </tr>
@@ -106,7 +106,7 @@
     <td class="tg-0pky">10:50-11:10</td>
     <td class="tg-two">Testa</td>
     <td class="tg-0pky">11:00-11:20</td>
-    <td class="tg-one">Gugliemino</td>
+    <td class="tg-one">Guglielmino</td>
   </tr>
 
 
@@ -128,7 +128,7 @@
     <td class="tg-0pky">11:20-12:00</td>
     <td class="tg-seven">Klimchuk</td>
     <td class="tg-0pky">11:30-11:50</td>
-    <td class="tg-two">Srivastava</td>
+    <td class="tg-two">Kumar Srivastava</td>
     <td class="tg-0pky">11:50-12:10</td>
     <td class="tg-four">Jin</td>
   </tr>
@@ -174,7 +174,7 @@
     <td class="tg-0pky">2:05-2:25</td>
     <td class="tg-three">Allred</td>
     <td class="tg-0pky">1:40-2:00</td>
-    <td class="tg-two">Moreno Insertis</td>
+    <td class="tg-two">Moreno-Insertis</td>
     <td class="tg-0pky">1:40-2:00</td>
     <td class="tg-one">Okamoto</td>
     <td class="tg-0pky">1:50-2:10</td>
@@ -200,7 +200,7 @@
     <td class="tg-0pky">2:20-2:40</td>
     <td class="tg-two">De Moortel</td>
     <td class="tg-0pky">2:20-2:40</td>
-    <td class="tg-one">Martinez-Sykora</td>
+    <td class="tg-one">Martínez-Sykora</td>
     <td class="tg-0pky">2:30-2:50</td>
     <td class="tg-six">Glesener</td>
   </tr>
@@ -212,7 +212,7 @@
     <td class="tg-0pky">2:40-3:00</td>
     <td class="tg-two">Imada</td>
     <td class="tg-0pky">2:40-3:00</td>
-    <td class="tg-one">Sainz Salda</td>
+    <td class="tg-one">Sainz Dalda</td>
     <td class="tg-0pky">2:50-3:10</td>
     <td class="tg-six">Jaeggli</td>
   </tr>
@@ -246,11 +246,11 @@
     <td class="tg-0pky">3:55-4:15</td>
     <td class="tg-three">Ferrente</td>
     <td class="tg-0pky">3:50-4:10</td>
-    <td class="tg-two">Rappazzo</td>
+    <td class="tg-two">Franco Rappazzo</td>
     <td class="tg-0pky">3:50-4:10</td>
     <td class="tg-one">Stangalini</td>
     <td class="tg-0pky">3:50-4:10</td>
-    <td class="tg-six">Diaz Baso</td>
+    <td class="tg-six">Jose Diaz Baso</td>
   </tr>
 
 
