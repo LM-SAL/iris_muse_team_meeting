@@ -115,8 +115,11 @@ for _, row in df.iloc[1:].iterrows():
         cells[f"{day}_1"] = row.iloc[base]
         cells[f"{day}_2"] = row.iloc[base + 1]
         cells[f"SESSION_{day}"] = parse_session(row, base + 2)
+        from urllib.parse import quote
+
+        anchor = quote(str(row.iloc[base + 1]))
         cells[f"{day}_URL"] = (
-            f"https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#{row.iloc[base + 1]}"
+            f"https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#{anchor}"
         )
     html_rows.append(HTML_TABLE_ROW_TEMPLATE.format(**cells))
 
