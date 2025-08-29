@@ -35,6 +35,11 @@ abstract_data = (
 abstract_data = [
     {**entry, "Last Name Quote": quote(entry["Last Name"])} for entry in abstract_data
 ]
+# Strip any trailing whitespace from any field
+abstract_data = [
+    {k: v.rstrip() if isinstance(v, str) else v for k, v in entry.items()}
+    for entry in abstract_data
+]
 # Below "When" is filled when the schedule is created
 template = """
 * <p id="{Last Name}">**Author**: {First Name} {Last Name} <a class="headerlink" href="#{Last Name Quote}" title="Permanent link">¶</a>
