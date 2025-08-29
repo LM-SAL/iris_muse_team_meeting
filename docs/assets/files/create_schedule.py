@@ -64,7 +64,6 @@ HTML_TABLE_TEMPLATE = """
         {BODY}
     </tbody>
 </table>
-<br>
 <table class="tg">
     <thead>
         <tr>
