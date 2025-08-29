@@ -33,7 +33,7 @@ abstract_data = (
 )
 # Below "When" is filled when the schedule is created
 template = """
-* **Author**: {First Name} {Last Name}
+* <p id="{Last Name}">**Author**: {First Name} {Last Name} <a class="headerlink" href="#{Last Name}" title="Permanent link">¶</a>
 
     **When**: FILL IN
 
