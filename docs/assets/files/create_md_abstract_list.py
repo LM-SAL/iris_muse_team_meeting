@@ -1,5 +1,6 @@
 import pandas as pd
 from pathlib import Path
+from urllib.parse import quote
 
 FILE_PATH = "~/Downloads/Abstract submission form (Responses) - Form Responses 1.csv"
 abstracts = pd.read_csv(Path(FILE_PATH).expanduser().resolve())
@@ -31,9 +32,12 @@ abstracts["Abstract (max 300 words)"] = abstracts["Abstract (max 300 words)"].ap
 abstract_data = (
     abstracts.fillna("None").sort_values(by="Last Name").to_dict(orient="records")
 )
+abstract_data = [
+    {**entry, "Last Name Quote": quote(entry["Last Name"])} for entry in abstract_data
+]
 # Below "When" is filled when the schedule is created
 template = """
-* <p id="{Last Name}">**Author**: {First Name} {Last Name} <a class="headerlink" href="#{Last Name}" title="Permanent link">¶</a>
+* <p id="{Last Name}">**Author**: {First Name} {Last Name} <a class="headerlink" href="#{Last Name Quote}" title="Permanent link">¶</a>
 
     **When**: FILL IN
 

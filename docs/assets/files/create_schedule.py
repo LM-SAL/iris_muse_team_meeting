@@ -2,6 +2,7 @@
 import pandas as pd
 from pathlib import Path
 import inflect
+from urllib.parse import quote
 
 p = inflect.engine()
 
@@ -115,12 +116,30 @@ for _, row in df.iloc[1:].iterrows():
         cells[f"{day}_1"] = row.iloc[base]
         cells[f"{day}_2"] = row.iloc[base + 1]
         cells[f"SESSION_{day}"] = parse_session(row, base + 2)
-        from urllib.parse import quote
-
-        anchor = quote(str(row.iloc[base + 1]))
-        cells[f"{day}_URL"] = (
-            f"https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#{anchor}"
-        )
+        if row.iloc[base + 1] not in [
+            "Lunch break",
+            "Coffee break",
+            "Discussion",
+            "Social Dinner",
+            "Reception",
+            "Close out",
+        ]:
+            # Workaround for Jose Diaz Baso, need to drop Jose
+            if "Jose Diaz Baso" in row.iloc[base + 1]:
+                anchor = quote(
+                    str(row.iloc[base + 1]).replace("Jose Diaz Baso", "Diaz Baso")
+                )
+            elif "Kumar Srivastava" in row.iloc[base + 1]:
+                anchor = quote(
+                    str(row.iloc[base + 1]).replace("Kumar Srivastava", "Srivastava")
+                )
+            else:
+                anchor = quote(str(row.iloc[base + 1]))
+            cells[f"{day}_URL"] = (
+                f"https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#{anchor}"
+            )
+        else:
+            cells[f"{day}_URL"] = ""
     html_rows.append(HTML_TABLE_ROW_TEMPLATE.format(**cells))
 
 HTML_TABLE = HTML_TABLE_TEMPLATE.replace("{BODY}", "\n".join(html_rows))
