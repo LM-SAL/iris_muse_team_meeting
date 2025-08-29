@@ -140,7 +140,7 @@ Accepted Abstracts.
     </details>
 
 
-* <p id="De Moortel ">**Author**: Ineke De Moortel  <a class="headerlink" href="#De%20Moortel%20" title="Permanent link">¶</a>
+* <p id="De Moortel">**Author**: Ineke De Moortel <a class="headerlink" href="#De%20Moortel%20" title="Permanent link">¶</a>
 
     **When**: Tuesday - 2:20-2:40
 
@@ -148,7 +148,6 @@ Accepted Abstracts.
     <details> <summary> <b>Title</b>: Observational signatures of elementary heating mechanisms </summary>
       <b>Abstract</b>
       Key to making progress on the long-standing coronal heating problem is the identification of distinguishing observational signatures. To complement large-scale, self-consistent MHD models, we focus on 3D simulations of specific heating mechanisms to study heating in coronal loops. We use both boundary-driven and magneto convection-driven simulations to look at MHD waves, reconnection and small-scale motions such as vortices driven by rotational flows. Differences in the plasma response (e.g. temperature, density, flows) could potentially be observable, helping constrain the significance of the different heating mechanisms. Using synthetic observables derived from the numerical experiments, we consider the signatures of the different heating mechanisms, focusing in particular on the observational capabilities of the upcoming MUSE mission.
-
     </details>
 
 
@@ -357,7 +356,7 @@ Atmosphere </summary>
     **When**: Monday - 12:15-12:35
 
     **Coauthors**: None
-    <details> <summary> <b>Title</b>: Energy transport during solar flares: Disentangling different mechanisms via model-data comparisons  </summary>
+    <details> <summary> <b>Title</b>: Energy transport during solar flares: Disentangling different mechanisms via model-data comparisons </summary>
       <b>Abstract</b>
       Solar flares release a tremendous amount of energy, that ultimately produces a broadband enhancement to the Sun’s radiative output. Detailed study of solar flare ribbons and footpoints has revealed much about the plasma response to energy injection, as well as how that energy propagates from the corona to lower atmosphere. However, model-data discrepancies have demonstrated that we are missing key ingredients. Our picture of flare energetics, considering both the magnitude of energy and its spatiotemporal distribution through the Sun’s atmosphere, is incomplete. I will present an overview of some key model-data discrepancies, as well as recent examples of how high-resolution observations, and attempts to model them, have revealed key insights to flare energy transport. Those observations include high-cadence IRIS datasets, and Solar Orbiter’s Major Flare Campaign datasets. I will conclude with some comments on how MUSE will make substantial progress in furthering our understanding of the various means by which flare energy is transported.
     </details>
@@ -401,7 +400,7 @@ Atmosphere </summary>
     **When**: Thursday - 9:30-9:50
 
     **Coauthors**: None
-    <details> <summary> <b>Title</b>: Current understanding of He II 304 line formation and the role of non-equilibrium ionization.  </summary>
+    <details> <summary> <b>Title</b>: Current understanding of He II 304 line formation and the role of non-equilibrium ionization. </summary>
       <b>Abstract</b>
       MUSE will be equipped with a context imager that observers the He II 304 Å line. The line is sensitive to temperatures around 100 kK. Unlike lines that form at higher temperatures in the corona, the 304 line cannot be accurately modelled assuming optically thin line formation.  Instead it requires taking into account optically thick non-LTE line formation and non-equilibrium ionisation of helium. In this talk I will review our current understanding of He II 304 Å line formation and discuss how it could help interpreting IRIS observations.
     </details>
@@ -646,7 +645,7 @@ Atmosphere </summary>
 
     **When**: Tuesday - 11:10-11:20
 
-    **Coauthors**:  Lucas Tarr (NSO), James Leake (GSFC), Dylan Kee (GSFC), Mark Linton (NRL), Pete Schuck (GSFC)
+    **Coauthors**: Lucas Tarr (NSO), James Leake (GSFC), Dylan Kee (GSFC), Mark Linton (NRL), Pete Schuck (GSFC)
     <details> <summary> <b>Title</b>: Data driven simulations of emerging and eruptive active regions: validating on a ground truth flux emergence simulation. </summary>
       <b>Abstract</b>
       Recent theoretical and computational advances have made data driven models of emerging active regions possible.  Here we discuss the validation of our new method, based on the MHD characteristics, using synthetic observations generated from a ground truth flux emergence simulation.  Our simulations include gravity and a stratified atmosphere, and the driven simulation starts at the ground truth simulation's photosphere and extends into the corona.  Our method solves a minimization problem at each numerical cell and at each timestep in the driven boundary to determine the allowed update, under the magnetohydrodynamic equations, of the cell's state vector that most closely matches an update estimated by other means, i.e., by temporal interpolation between two known boundary states. We find that the driven simulation accurately reproduces the emergence of a twisted flux tube through the photosphere, the formation of key topological features in the corona, and a coronal mass ejection, according to numerous metrics, e.g., the temporal evolution of mass flux, magnetic flux, and Poynting flux at various heights.  This allows fruitful comparison to a variety of multi-wavelength observational diagnostics at a large range of heights above the driven lower boundary.
@@ -704,7 +703,6 @@ Atmosphere </summary>
     **Coauthors**: J. Leenaarts, A. Pastor Yabar, A. Sukhorukov
     <details> <summary> <b>Title</b>: Setting constraints on Chromospheric heating through NLTE inversions of observations </summary>
       <b>Abstract</b>
-
       Inversion methods allow inferring the physical parameters of a model atmosphere by reconstructing spectropolarimetric observations. The resulting models can be very useful to study chromospheric heating because they can be used to a) study correlations between different physical parameters as a function of space and time and b) to estimate the radiative losses, which must be compensated by heating mechanisms at any time.
 
       In recent years, many improvements in the microphysics and a better modeling of the instrumental degradation in the inversion process have allowed us to simultaneously interpret more chromospheric diagnostics. As a result, modern inversion techniques allow for higher fidelity models, with sensitivity to a wider range of temperatures and densities.

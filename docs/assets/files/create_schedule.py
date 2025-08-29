@@ -10,28 +10,28 @@ p = inflect.engine()
 # If that layout changes, this code will break
 FILE_PATH = "~/Downloads/draft_MUSE_IRIS_meeting_Oct2025.xlsx"
 OUTPUT_FILE = Path(__file__).parent.parent.parent / "schedule.md"
-
-df = pd.read_excel(Path(FILE_PATH).expanduser().resolve())
-df = df.fillna("")
-
+ABSTRACT_FILE = Path(__file__).parent.parent.parent / "abstracts.md"
+COL_OFFSETS = [1, 4, 7, 10]
+DAYS = ["Monday", "Tuesday", "Wednesday", "Thursday"]
+BREAK_EVENTS = {
+    "Lunch break",
+    "Coffee break",
+    "Discussion",
+    "Social Dinner",
+    "Reception",
+    "Close out",
+}
+NAME_REPLACEMENTS = {
+    "Jose Diaz Baso": "Diaz Baso",
+    "Kumar Srivastava": "Srivastava",
+    "Franco Rappazzo": "Rappazzo",
+}
 DAY_CONFIG = [
     ("MONDAY", 0, "one"),
     ("TUESDAY", 3, "two"),
     ("WEDNESDAY", 6, "three"),
     ("THURSDAY", 9, "four"),
 ]
-
-
-def parse_session(row, idx):
-    """
-    Turn the numeric session code into a word, or 'zero' if blank/invalid.
-    """
-    try:
-        return p.number_to_words(int(row.iloc[idx]))
-    except (ValueError, TypeError):
-        return "zero"
-
-
 HTML_TABLE_TEMPLATE = """
 <style type="text/css">
     .tg  {border-collapse:collapse;border-spacing:0;}
@@ -109,49 +109,15 @@ HTML_TABLE_ROW_TEMPLATE = """
 </tr>
 """
 
-html_rows = []
-for _, row in df.iloc[1:].iterrows():
-    cells = {}
-    for day, base, css in DAY_CONFIG:
-        cells[f"{day}_1"] = row.iloc[base]
-        cells[f"{day}_2"] = row.iloc[base + 1]
-        cells[f"SESSION_{day}"] = parse_session(row, base + 2)
-        if row.iloc[base + 1] not in [
-            "Lunch break",
-            "Coffee break",
-            "Discussion",
-            "Social Dinner",
-            "Reception",
-            "Close out",
-        ]:
-            # Workaround for Jose Diaz Baso, need to drop Jose
-            if "Jose Diaz Baso" in row.iloc[base + 1]:
-                anchor = quote(
-                    str(row.iloc[base + 1]).replace("Jose Diaz Baso", "Diaz Baso")
-                )
-            elif "Kumar Srivastava" in row.iloc[base + 1]:
-                anchor = quote(
-                    str(row.iloc[base + 1]).replace("Kumar Srivastava", "Srivastava")
-                )
-            else:
-                anchor = quote(str(row.iloc[base + 1]))
-            cells[f"{day}_URL"] = (
-                f"https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#{anchor}"
-            )
-        else:
-            cells[f"{day}_URL"] = ""
-    html_rows.append(HTML_TABLE_ROW_TEMPLATE.format(**cells))
 
-HTML_TABLE = HTML_TABLE_TEMPLATE.replace("{BODY}", "\n".join(html_rows))
-output_path = Path(OUTPUT_FILE)
-output_path.write_text(HTML_TABLE, encoding="utf-8")
-
-# Now to modify the abstract markdown file with the times
-ABSTRACT_FILE = Path(__file__).parent.parent.parent / "abstracts.md"
-abstract_md = ABSTRACT_FILE.read_text(encoding="utf-8")
-
-COL_OFFSETS = [1, 4, 7, 10]
-DAYS = ["Monday", "Tuesday", "Wednesday", "Thursday"]
+def parse_session(row, idx):
+    """
+    Turn the numeric session code into a word, or 'zero' if blank/invalid.
+    """
+    try:
+        return p.number_to_words(int(row.iloc[idx]))
+    except (ValueError, TypeError):
+        return "zero"
 
 
 def find_when(df, surname):
@@ -169,6 +135,35 @@ def find_when(df, surname):
     return f"{day} - {time}"
 
 
+df = pd.read_excel(Path(FILE_PATH).expanduser().resolve())
+df = df.fillna("")
+html_rows = []
+for _, row in df.iloc[1:].iterrows():
+    cells = {}
+    for day, base, css in DAY_CONFIG:
+        cells[f"{day}_1"] = row.iloc[base]
+        cells[f"{day}_2"] = row.iloc[base + 1]
+        cells[f"SESSION_{day}"] = parse_session(row, base + 2)
+        title = str(row.iloc[base + 1])
+        if title in BREAK_EVENTS:
+            cells[f"{day}_URL"] = ""
+        else:
+            # apply any name fixes
+            for old, new in NAME_REPLACEMENTS.items():
+                title = title.replace(old, new)
+
+            anchor = quote(title)
+            cells[f"{day}_URL"] = (
+                f"https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#{anchor}"
+            )
+    html_rows.append(HTML_TABLE_ROW_TEMPLATE.format(**cells))
+
+html_table = HTML_TABLE_TEMPLATE.replace("{BODY}", "\n".join(html_rows))
+output_path = Path(OUTPUT_FILE)
+output_path.write_text(html_table, encoding="utf-8")
+
+# Now to modify the abstract markdown file with the times
+abstract_md = ABSTRACT_FILE.read_text(encoding="utf-8")
 new_abstract_md = ""
 for entry in abstract_md.split("* "):
     if "**Author**: " in entry:

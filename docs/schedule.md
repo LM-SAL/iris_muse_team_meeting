@@ -248,7 +248,7 @@
     <td class="tg-0pky">3:55-4:15</td>
     <td class="tg-three"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Ferrente">Ferrente</a></td>
     <td class="tg-0pky">3:50-4:10</td>
-    <td class="tg-two"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Franco%20Rappazzo">Franco Rappazzo</a></td>
+    <td class="tg-two"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Rappazzo">Franco Rappazzo</a></td>
     <td class="tg-0pky">3:50-4:10</td>
     <td class="tg-one"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Stangalini">Stangalini</a></td>
     <td class="tg-0pky">3:50-4:10</td>
