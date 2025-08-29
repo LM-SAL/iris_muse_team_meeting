@@ -5,7 +5,7 @@ title: Abstracts
 Accepted Abstracts.
 
 
-* **Author**: Joel Allred
+* <p id="Allred">**Author**: Joel Allred <a class="headerlink" href="#Allred" title="Permanent link">¶</a>
 
     **When**: Monday - 2:05-2:25
 
@@ -16,7 +16,7 @@ Accepted Abstracts.
     </details>
 
 
-* **Author**: Patrick Antolin
+* <p id="Antolin">**Author**: Patrick Antolin <a class="headerlink" href="#Antolin" title="Permanent link">¶</a>
 
     **When**: Tuesday - 1:20-1:40
 
@@ -27,7 +27,7 @@ Accepted Abstracts.
     </details>
 
 
-* **Author**: Souvik Bose
+* <p id="Bose">**Author**: Souvik Bose <a class="headerlink" href="#Bose" title="Permanent link">¶</a>
 
     **When**: Wednesday - 10:10-10:30
 
@@ -38,7 +38,7 @@ Accepted Abstracts.
     </details>
 
 
-* **Author**: Stephen Bradshaw
+* <p id="Bradshaw">**Author**: Stephen Bradshaw <a class="headerlink" href="#Bradshaw" title="Permanent link">¶</a>
 
     **When**: Wednesday - 11:10-11:30
 
@@ -49,7 +49,7 @@ Accepted Abstracts.
     </details>
 
 
-* **Author**: David Brooks
+* <p id="Brooks">**Author**: David Brooks <a class="headerlink" href="#Brooks" title="Permanent link">¶</a>
 
     **When**: Thursday - 1:20-1:50
 
@@ -61,7 +61,7 @@ Accepted Abstracts.
     </details>
 
 
-* **Author**: Mats Carlsson
+* <p id="Carlsson">**Author**: Mats Carlsson <a class="headerlink" href="#Carlsson" title="Permanent link">¶</a>
 
     **When**: Thursday - 9:00-9:30
 
@@ -72,7 +72,7 @@ Accepted Abstracts.
     </details>
 
 
-* **Author**: Mark Cheung
+* <p id="Cheung">**Author**: Mark Cheung <a class="headerlink" href="#Cheung" title="Permanent link">¶</a>
 
     **When**: Monday - 9:15-9:35
 
@@ -83,7 +83,7 @@ Accepted Abstracts.
     </details>
 
 
-* **Author**: Georgios Chintzoglou
+* <p id="Chintzoglou">**Author**: Georgios Chintzoglou <a class="headerlink" href="#Chintzoglou" title="Permanent link">¶</a>
 
     **When**: Monday - 4:15-4:35
 
@@ -96,7 +96,7 @@ Accepted Abstracts.
     </details>
 
 
-* **Author**: Kyuhyoun Cho
+* <p id="Cho">**Author**: Kyuhyoun Cho <a class="headerlink" href="#Cho" title="Permanent link">¶</a>
 
     **When**: Monday - 9:55-10:15
 
@@ -107,7 +107,7 @@ Accepted Abstracts.
     </details>
 
 
-* **Author**: Gabriele Cozzo
+* <p id="Cozzo">**Author**: Gabriele Cozzo <a class="headerlink" href="#Cozzo" title="Permanent link">¶</a>
 
     **When**: Tuesday - 2:00-2:20
 
@@ -118,7 +118,7 @@ Accepted Abstracts.
     </details>
 
 
-* **Author**: Lars Daldorff
+* <p id="Daldorff">**Author**: Lars Daldorff <a class="headerlink" href="#Daldorff" title="Permanent link">¶</a>
 
     **When**: Tuesday - 12:00-12:20
 
@@ -129,7 +129,7 @@ Accepted Abstracts.
     </details>
 
 
-* **Author**: Adrian Daw
+* <p id="Daw">**Author**: Adrian Daw <a class="headerlink" href="#Daw" title="Permanent link">¶</a>
 
     **When**: Monday - 10:15-10:35
 
@@ -140,7 +140,7 @@ Accepted Abstracts.
     </details>
 
 
-* **Author**: Ineke De Moortel
+* <p id="De Moortel ">**Author**: Ineke De Moortel  <a class="headerlink" href="#De Moortel " title="Permanent link">¶</a>
 
     **When**: Tuesday - 2:20-2:40
 
@@ -152,7 +152,7 @@ Accepted Abstracts.
     </details>
 
 
-* **Author**: Bart De Pontieu
+* <p id="De Pontieu">**Author**: Bart De Pontieu <a class="headerlink" href="#De Pontieu" title="Permanent link">¶</a>
 
     **When**: Monday - 9:00-9:15
 
@@ -163,7 +163,7 @@ Accepted Abstracts.
     </details>
 
 
-* **Author**: Carlos Jose Diaz Baso
+* <p id="Diaz Baso">**Author**: Carlos Jose Diaz Baso <a class="headerlink" href="#Diaz Baso" title="Permanent link">¶</a>
 
     **When**: Thursday - 3:50-4:10
 
@@ -174,7 +174,7 @@ Accepted Abstracts.
     </details>
 
 
-* **Author**: Cooper Downs
+* <p id="Downs">**Author**: Cooper Downs <a class="headerlink" href="#Downs" title="Permanent link">¶</a>
 
     **When**: Thursday - 11:20-11:50
 
@@ -185,7 +185,7 @@ Accepted Abstracts.
     </details>
 
 
-* **Author**: Yuhong Fan
+* <p id="Fan">**Author**: Yuhong Fan <a class="headerlink" href="#Fan" title="Permanent link">¶</a>
 
     **When**: Monday - 11:55-12:15
 
@@ -196,7 +196,7 @@ Accepted Abstracts.
     </details>
 
 
-* **Author**: Fabiana Ferrente
+* <p id="Ferrente">**Author**: Fabiana Ferrente <a class="headerlink" href="#Ferrente" title="Permanent link">¶</a>
 
     **When**: Monday - 3:55-4:15
 
@@ -209,7 +209,7 @@ Accepted Abstracts.
     </details>
 
 
-* **Author**: Lyndsay Fletcher
+* <p id="Fletcher">**Author**: Lyndsay Fletcher <a class="headerlink" href="#Fletcher" title="Permanent link">¶</a>
 
     **When**: Tuesday - 9:00-9:20
 
@@ -220,7 +220,7 @@ Accepted Abstracts.
     </details>
 
 
-* **Author**: Lindsay Glesener
+* <p id="Glesener">**Author**: Lindsay Glesener <a class="headerlink" href="#Glesener" title="Permanent link">¶</a>
 
     **When**: Thursday - 2:30-2:50
 
@@ -235,7 +235,7 @@ Accepted Abstracts.
     </details>
 
 
-* **Author**: Milan Gosic
+* <p id="Gosic">**Author**: Milan Gosic <a class="headerlink" href="#Gosic" title="Permanent link">¶</a>
 
     **When**: Thursday - 9:50-10:10
 
@@ -246,7 +246,7 @@ Accepted Abstracts.
     </details>
 
 
-* **Author**: Salvo Guglielmino
+* <p id="Guglielmino">**Author**: Salvo Guglielmino <a class="headerlink" href="#Guglielmino" title="Permanent link">¶</a>
 
     **When**: Thursday - 11:00-11:20
 
@@ -259,7 +259,7 @@ Accepted Abstracts.
     </details>
 
 
-* **Author**: Viggo Hansteen
+* <p id="Hansteen">**Author**: Viggo Hansteen <a class="headerlink" href="#Hansteen" title="Permanent link">¶</a>
 
     **When**: Monday - 9:35-9:55
 
@@ -270,7 +270,7 @@ Accepted Abstracts.
     </details>
 
 
-* **Author**: Shinsuke Imada
+* <p id="Imada">**Author**: Shinsuke Imada <a class="headerlink" href="#Imada" title="Permanent link">¶</a>
 
     **When**: Tuesday - 2:40-3:00
 
@@ -296,7 +296,7 @@ Accepted Abstracts.
     </details>
 
 
-* **Author**: Sarah Jaeggli
+* <p id="Jaeggli">**Author**: Sarah Jaeggli <a class="headerlink" href="#Jaeggli" title="Permanent link">¶</a>
 
     **When**: Thursday - 2:50-3:10
 
@@ -307,7 +307,7 @@ Accepted Abstracts.
     </details>
 
 
-* **Author**: Meng Jin
+* <p id="Jin">**Author**: Meng Jin <a class="headerlink" href="#Jin" title="Permanent link">¶</a>
 
     **When**: Thursday - 11:50-12:10
 
@@ -318,7 +318,7 @@ Accepted Abstracts.
     </details>
 
 
-* **Author**: Craig Johnston
+* <p id="Johnston">**Author**: Craig Johnston <a class="headerlink" href="#Johnston" title="Permanent link">¶</a>
 
     **When**: Tuesday - 3:30-3:50
 
@@ -329,7 +329,7 @@ Accepted Abstracts.
     </details>
 
 
-* **Author**: Jayant Joshi
+* <p id="Joshi">**Author**: Jayant Joshi <a class="headerlink" href="#Joshi" title="Permanent link">¶</a>
 
     **When**: Thursday - 10:10-10:30
 
@@ -341,7 +341,7 @@ Atmosphere </summary>
     </details>
 
 
-* **Author**: Maria Kazachenko
+* <p id="Kazachenko">**Author**: Maria Kazachenko <a class="headerlink" href="#Kazachenko" title="Permanent link">¶</a>
 
     **When**: Monday - 3:35-3:55
 
@@ -352,7 +352,7 @@ Atmosphere </summary>
     </details>
 
 
-* **Author**: Graham Kerr
+* <p id="Kerr">**Author**: Graham Kerr <a class="headerlink" href="#Kerr" title="Permanent link">¶</a>
 
     **When**: Monday - 12:15-12:35
 
@@ -363,7 +363,7 @@ Atmosphere </summary>
     </details>
 
 
-* **Author**: Elena Khomenko
+* <p id="Khomenko">**Author**: Elena Khomenko <a class="headerlink" href="#Khomenko" title="Permanent link">¶</a>
 
     **When**: Wednesday - 2:00-2:20
 
@@ -374,7 +374,7 @@ Atmosphere </summary>
     </details>
 
 
-* **Author**: James Klimchuk
+* <p id="Klimchuk">**Author**: James Klimchuk <a class="headerlink" href="#Klimchuk" title="Permanent link">¶</a>
 
     **When**: Tuesday - 11:20-12:00
 
@@ -385,7 +385,7 @@ Atmosphere </summary>
     </details>
 
 
-* **Author**: Adam Kowalski
+* <p id="Kowalski">**Author**: Adam Kowalski <a class="headerlink" href="#Kowalski" title="Permanent link">¶</a>
 
     **When**: Tuesday - 9:40-10:00
 
@@ -396,7 +396,7 @@ Atmosphere </summary>
     </details>
 
 
-* **Author**: Jorrit Leenaarts
+* <p id="Leenaarts">**Author**: Jorrit Leenaarts <a class="headerlink" href="#Leenaarts" title="Permanent link">¶</a>
 
     **When**: Thursday - 9:30-9:50
 
@@ -407,7 +407,7 @@ Atmosphere </summary>
     </details>
 
 
-* **Author**: Wei Liu
+* <p id="Liu">**Author**: Wei Liu <a class="headerlink" href="#Liu" title="Permanent link">¶</a>
 
     **When**: Tuesday - 10:50-11:10
 
@@ -418,7 +418,7 @@ Atmosphere </summary>
     </details>
 
 
-* **Author**: Dana Longcope
+* <p id="Longcope">**Author**: Dana Longcope <a class="headerlink" href="#Longcope" title="Permanent link">¶</a>
 
     **When**: Monday - 1:35-2:05
 
@@ -429,7 +429,7 @@ Atmosphere </summary>
     </details>
 
 
-* **Author**: Juraj Lorincik
+* <p id="Lorincik">**Author**: Juraj Lorincik <a class="headerlink" href="#Lorincik" title="Permanent link">¶</a>
 
     **When**: Tuesday - 9:20-9:40
 
@@ -440,7 +440,7 @@ Atmosphere </summary>
     </details>
 
 
-* **Author**: Juan Martínez-Sykora
+* <p id="Martínez-Sykora">**Author**: Juan Martínez-Sykora <a class="headerlink" href="#Martínez-Sykora" title="Permanent link">¶</a>
 
     **When**: Wednesday - 2:20-2:40
 
@@ -452,7 +452,7 @@ Atmosphere </summary>
     </details>
 
 
-* **Author**: Fernando Moreno-Insertis
+* <p id="Moreno-Insertis">**Author**: Fernando Moreno-Insertis <a class="headerlink" href="#Moreno-Insertis" title="Permanent link">¶</a>
 
     **When**: Tuesday - 1:40-2:00
 
@@ -464,7 +464,7 @@ Atmosphere </summary>
     </details>
 
 
-* **Author**: Åke Nordlund
+* <p id="Nordlund">**Author**: Åke Nordlund <a class="headerlink" href="#Nordlund" title="Permanent link">¶</a>
 
     **When**: Thursday - 1:50-2:10
 
@@ -475,7 +475,7 @@ Atmosphere </summary>
     </details>
 
 
-* **Author**: Daniel Nóbrega-Siverio
+* <p id="Nóbrega-Siverio">**Author**: Daniel Nóbrega-Siverio <a class="headerlink" href="#Nóbrega-Siverio" title="Permanent link">¶</a>
 
     **When**: Wednesday - 9:50-10:10
 
@@ -486,7 +486,7 @@ Atmosphere </summary>
     </details>
 
 
-* **Author**: Joten Okamoto
+* <p id="Okamoto">**Author**: Joten Okamoto <a class="headerlink" href="#Okamoto" title="Permanent link">¶</a>
 
     **When**: Wednesday - 1:40-2:00
 
@@ -497,7 +497,7 @@ Atmosphere </summary>
     </details>
 
 
-* **Author**: Vanessa Polito
+* <p id="Polito">**Author**: Vanessa Polito <a class="headerlink" href="#Polito" title="Permanent link">¶</a>
 
     **When**: Monday - 2:25-2:45
 
@@ -510,7 +510,7 @@ Atmosphere </summary>
     </details>
 
 
-* **Author**: Damien Przybylski
+* <p id="Przybylski">**Author**: Damien Przybylski <a class="headerlink" href="#Przybylski" title="Permanent link">¶</a>
 
     **When**: Wednesday - 3:30-3:50
 
@@ -521,7 +521,7 @@ Atmosphere </summary>
     </details>
 
 
-* **Author**: A. Franco Rappazzo
+* <p id="Rappazzo">**Author**: A. Franco Rappazzo <a class="headerlink" href="#Rappazzo" title="Permanent link">¶</a>
 
     **When**: Tuesday - 3:50-4:10
 
@@ -532,7 +532,7 @@ Atmosphere </summary>
     </details>
 
 
-* **Author**: Fabio Reale
+* <p id="Reale">**Author**: Fabio Reale <a class="headerlink" href="#Reale" title="Permanent link">¶</a>
 
     **When**: Wednesday - 9:30-9:50
 
@@ -543,7 +543,7 @@ Atmosphere </summary>
     </details>
 
 
-* **Author**: Kathy Reeves
+* <p id="Reeves">**Author**: Kathy Reeves <a class="headerlink" href="#Reeves" title="Permanent link">¶</a>
 
     **When**: Monday - 11:25-11:55
 
@@ -554,7 +554,7 @@ Atmosphere </summary>
     </details>
 
 
-* **Author**: Matthias Rempel
+* <p id="Rempel">**Author**: Matthias Rempel <a class="headerlink" href="#Rempel" title="Permanent link">¶</a>
 
     **When**: Wednesday - 9:00-9:30
 
@@ -565,7 +565,7 @@ Atmosphere </summary>
     </details>
 
 
-* **Author**: Matthias Rempel
+* <p id="Rempel">**Author**: Matthias Rempel <a class="headerlink" href="#Rempel" title="Permanent link">¶</a>
 
     **When**: Wednesday - 9:00-9:30
 
@@ -576,7 +576,7 @@ Atmosphere </summary>
     </details>
 
 
-* **Author**: Rebecca Robinson
+* <p id="Robinson">**Author**: Rebecca Robinson <a class="headerlink" href="#Robinson" title="Permanent link">¶</a>
 
     **When**: Monday - 11:05-11:25
 
@@ -587,7 +587,7 @@ Atmosphere </summary>
     </details>
 
 
-* **Author**: Luc Rouppe van der Voort
+* <p id="Rouppe van der Voort">**Author**: Luc Rouppe van der Voort <a class="headerlink" href="#Rouppe van der Voort" title="Permanent link">¶</a>
 
     **When**: Wednesday - 1:20-1:40
 
@@ -598,7 +598,7 @@ Atmosphere </summary>
     </details>
 
 
-* **Author**: Alberto Sainz Dalda
+* <p id="Sainz Dalda">**Author**: Alberto Sainz Dalda <a class="headerlink" href="#Sainz Dalda" title="Permanent link">¶</a>
 
     **When**: Wednesday - 2:40-3:00
 
@@ -609,7 +609,7 @@ Atmosphere </summary>
     </details>
 
 
-* **Author**: Tong Shi
+* <p id="Shi">**Author**: Tong Shi <a class="headerlink" href="#Shi" title="Permanent link">¶</a>
 
     **When**: Thursday - 2:10-2:30
 
@@ -620,7 +620,7 @@ Atmosphere </summary>
     </details>
 
 
-* **Author**: Abhishekh Kumar Srivastava
+* <p id="Srivastava">**Author**: Abhishekh Kumar Srivastava <a class="headerlink" href="#Srivastava" title="Permanent link">¶</a>
 
     **When**: Wednesday - 11:30-11:50
 
@@ -631,7 +631,7 @@ Atmosphere </summary>
     </details>
 
 
-* **Author**: Marco Stangalini
+* <p id="Stangalini">**Author**: Marco Stangalini <a class="headerlink" href="#Stangalini" title="Permanent link">¶</a>
 
     **When**: Wednesday - 3:50-4:10
 
@@ -642,7 +642,7 @@ Atmosphere </summary>
     </details>
 
 
-* **Author**: Lucas Tarr
+* <p id="Tarr">**Author**: Lucas Tarr <a class="headerlink" href="#Tarr" title="Permanent link">¶</a>
 
     **When**: Tuesday - 11:10-11:20
 
@@ -653,7 +653,7 @@ Atmosphere </summary>
     </details>
 
 
-* **Author**: Paola Testa
+* <p id="Testa">**Author**: Paola Testa <a class="headerlink" href="#Testa" title="Permanent link">¶</a>
 
     **When**: Wednesday - 10:50-11:10
 
@@ -664,7 +664,7 @@ Atmosphere </summary>
     </details>
 
 
-* **Author**: Shin Toriumi
+* <p id="Toriumi">**Author**: Shin Toriumi <a class="headerlink" href="#Toriumi" title="Permanent link">¶</a>
 
     **When**: Tuesday - 10:00-10:20
 
@@ -675,7 +675,7 @@ Atmosphere </summary>
     </details>
 
 
-* **Author**: Durgesh Tripathi
+* <p id="Tripathi">**Author**: Durgesh Tripathi <a class="headerlink" href="#Tripathi" title="Permanent link">¶</a>
 
     **When**: Tuesday - 4:10-4:30
 
@@ -686,7 +686,7 @@ Atmosphere </summary>
     </details>
 
 
-* **Author**: Vishal Upendran
+* <p id="Upendran">**Author**: Vishal Upendran <a class="headerlink" href="#Upendran" title="Permanent link">¶</a>
 
     **When**: Thursday - 12:10-12:30
 
@@ -697,7 +697,7 @@ Atmosphere </summary>
     </details>
 
 
-* **Author**: Jaime de la Cruz Rodriguez
+* <p id="de la Cruz Rodriguez">**Author**: Jaime de la Cruz Rodriguez <a class="headerlink" href="#de la Cruz Rodriguez" title="Permanent link">¶</a>
 
     **When**: Wednesday - 11:50-12:20
 

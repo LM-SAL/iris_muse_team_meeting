@@ -98,13 +98,13 @@ HTML_TABLE_TEMPLATE = """
 HTML_TABLE_ROW_TEMPLATE = """
 <tr>
     <td class="tg-0pky">{MONDAY_1}</td>
-    <td class="tg-{SESSION_MONDAY}">{MONDAY_2}</td>
+    <td class="tg-{SESSION_MONDAY}"><a href="{MONDAY_URL}">{MONDAY_2}</a></td>
     <td class="tg-0pky">{TUESDAY_1}</td>
-    <td class="tg-{SESSION_TUESDAY}">{TUESDAY_2}</td>
+    <td class="tg-{SESSION_TUESDAY}"><a href="{TUESDAY_URL}">{TUESDAY_2}</a></td>
     <td class="tg-0pky">{WEDNESDAY_1}</td>
-    <td class="tg-{SESSION_WEDNESDAY}">{WEDNESDAY_2}</td>
+    <td class="tg-{SESSION_WEDNESDAY}"><a href="{WEDNESDAY_URL}">{WEDNESDAY_2}</a></td>
     <td class="tg-0pky">{THURSDAY_1}</td>
-    <td class="tg-{SESSION_THURSDAY}">{THURSDAY_2}</td>
+    <td class="tg-{SESSION_THURSDAY}"><a href="{THURSDAY_URL}">{THURSDAY_2}</a></td>
 </tr>
 """
 
@@ -115,6 +115,12 @@ for _, row in df.iloc[1:].iterrows():
         cells[f"{day}_1"] = row.iloc[base]
         cells[f"{day}_2"] = row.iloc[base + 1]
         cells[f"SESSION_{day}"] = parse_session(row, base + 2)
+        from urllib.parse import quote
+
+        anchor = quote(str(row.iloc[base + 1]))
+        cells[f"{day}_URL"] = (
+            f"https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#{anchor}"
+        )
     html_rows.append(HTML_TABLE_ROW_TEMPLATE.format(**cells))
 
 HTML_TABLE = HTML_TABLE_TEMPLATE.replace("{BODY}", "\n".join(html_rows))
@@ -147,7 +153,7 @@ def find_when(df, surname):
 new_abstract_md = ""
 for entry in abstract_md.split("* "):
     if "**Author**: " in entry:
-        name = entry.split("**Author**:")[1].split("\n")[0].strip()
+        name = entry.split("**Author**:")[1].split("<a")[0].strip()
         surname = " ".join(name.split(" ")[1:])
         when = find_when(df, surname) or "FILL IN"
         entry = entry.replace("FILL IN", f"{when}")
