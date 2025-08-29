@@ -37,7 +37,7 @@ abstract_data = [
 ]
 # Strip any trailing whitespace from any field
 abstract_data = [
-    {k: v.rstrip() if isinstance(v, str) else v for k, v in entry.items()}
+    {k: v.strip() if isinstance(v, str) else v for k, v in entry.items()}
     for entry in abstract_data
 ]
 # Below "When" is filled when the schedule is created

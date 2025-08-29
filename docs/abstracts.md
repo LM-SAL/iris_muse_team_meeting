@@ -645,7 +645,7 @@ Atmosphere </summary>
 
     **When**: Tuesday - 11:10-11:20
 
-    **Coauthors**:  Lucas Tarr (NSO), James Leake (GSFC), Dylan Kee (GSFC), Mark Linton (NRL), Pete Schuck (GSFC)
+    **Coauthors**: Lucas Tarr (NSO), James Leake (GSFC), Dylan Kee (GSFC), Mark Linton (NRL), Pete Schuck (GSFC)
     <details> <summary> <b>Title</b>: Data driven simulations of emerging and eruptive active regions: validating on a ground truth flux emergence simulation. </summary>
       <b>Abstract</b>
       Recent theoretical and computational advances have made data driven models of emerging active regions possible.  Here we discuss the validation of our new method, based on the MHD characteristics, using synthetic observations generated from a ground truth flux emergence simulation.  Our simulations include gravity and a stratified atmosphere, and the driven simulation starts at the ground truth simulation's photosphere and extends into the corona.  Our method solves a minimization problem at each numerical cell and at each timestep in the driven boundary to determine the allowed update, under the magnetohydrodynamic equations, of the cell's state vector that most closely matches an update estimated by other means, i.e., by temporal interpolation between two known boundary states. We find that the driven simulation accurately reproduces the emergence of a twisted flux tube through the photosphere, the formation of key topological features in the corona, and a coronal mass ejection, according to numerous metrics, e.g., the temporal evolution of mass flux, magnetic flux, and Poynting flux at various heights.  This allows fruitful comparison to a variety of multi-wavelength observational diagnostics at a large range of heights above the driven lower boundary.
@@ -703,7 +703,6 @@ Atmosphere </summary>
     **Coauthors**: J. Leenaarts, A. Pastor Yabar, A. Sukhorukov
     <details> <summary> <b>Title</b>: Setting constraints on Chromospheric heating through NLTE inversions of observations </summary>
       <b>Abstract</b>
-
       Inversion methods allow inferring the physical parameters of a model atmosphere by reconstructing spectropolarimetric observations. The resulting models can be very useful to study chromospheric heating because they can be used to a) study correlations between different physical parameters as a function of space and time and b) to estimate the radiative losses, which must be compensated by heating mechanisms at any time.
 
       In recent years, many improvements in the microphysics and a better modeling of the instrumental degradation in the inversion process have allowed us to simultaneously interpret more chromospheric diagnostics. As a result, modern inversion techniques allow for higher fidelity models, with sensitivity to a wider range of temperatures and densities.
