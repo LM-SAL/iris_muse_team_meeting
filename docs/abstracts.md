@@ -375,7 +375,7 @@ Atmosphere </summary>
 
 * <p id="Klimchuk">**Author**: James Klimchuk <a class="headerlink" href="#Klimchuk" title="Permanent link">¶</a>
 
-    **When**: Tuesday - 11:20-12:00
+    **When**: Tuesday - 11:30-12:00
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Coronal Models of Quiescent Active Regions </summary>
@@ -643,7 +643,7 @@ Atmosphere </summary>
 
 * <p id="Tarr">**Author**: Lucas Tarr <a class="headerlink" href="#Tarr" title="Permanent link">¶</a>
 
-    **When**: Tuesday - 11:10-11:20
+    **When**: Tuesday - 11:10-11:30
 
     **Coauthors**: Lucas Tarr (NSO), James Leake (GSFC), Dylan Kee (GSFC), Mark Linton (NRL), Pete Schuck (GSFC)
     <details> <summary> <b>Title</b>: Data driven simulations of emerging and eruptive active regions: validating on a ground truth flux emergence simulation. </summary>

@@ -115,7 +115,7 @@
 <tr>
     <td class="tg-0pky">11:25-11:55</td>
     <td class="tg-seven"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Reeves">Reeves</a></td>
-    <td class="tg-0pky">11:10-11:20</td>
+    <td class="tg-0pky">11:10-11:30</td>
     <td class="tg-three"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Tarr">Tarr</a></td>
     <td class="tg-0pky">11:10-11:30</td>
     <td class="tg-two"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Bradshaw">Bradshaw</a></td>
@@ -127,7 +127,7 @@
 <tr>
     <td class="tg-0pky">11:55-12:15</td>
     <td class="tg-three"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Fan">Fan</a></td>
-    <td class="tg-0pky">11:20-12:00</td>
+    <td class="tg-0pky">11:30-12:00</td>
     <td class="tg-seven"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Klimchuk">Klimchuk</a></td>
     <td class="tg-0pky">11:30-11:50</td>
     <td class="tg-two"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Srivastava">Kumar Srivastava</a></td>
@@ -293,7 +293,6 @@
 
     </tbody>
 </table>
-<br>
 <table class="tg">
     <thead>
         <tr>
