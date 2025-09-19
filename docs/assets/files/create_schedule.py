@@ -22,7 +22,6 @@ BREAK_EVENTS = {
     "Close out",
 }
 NAME_REPLACEMENTS = {
-    "Jose Diaz Baso": "Diaz Baso",
     "Kumar Srivastava": "Srivastava",
     "Franco Rappazzo": "Rappazzo",
 }
@@ -126,7 +125,8 @@ def find_when(df, surname):
         mask |= df.iloc[:, col].str.contains(surname, case=True, na=False)
     match = df[mask]
     if match.empty:
-        raise ValueError(f"Surname '{surname}' not found in schedule.")
+        print(f"Warning: Surname '{surname}' not found in schedule.")
+        return ""
     # Find which column matched
     col = next(c for c in COL_OFFSETS if match.iloc[0, c] == surname)
     day = DAYS[col // 3]
