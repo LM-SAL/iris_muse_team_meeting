@@ -29,7 +29,7 @@ Accepted Abstracts.
 
 * <p id="Bose">**Author**: Souvik Bose <a class="headerlink" href="#Bose" title="Permanent link">¶</a>
 
-    **When**: Thursday -
+    **When**: Wednesday - 10:10-10:30
 
     **Coauthors**: Bart De Pontieu, Viggo Hansteen and Alberto Sainz-Dalda
     <details> <summary> <b>Title</b>: Active region heating in the chromosphere and the corona: insights from high resolution observations and simulations </summary>
@@ -46,18 +46,6 @@ Accepted Abstracts.
     <details> <summary> <b>Title</b>: Application of a multi-species NLTE modeling framework to a solar flare and interpreting emission spectra. </summary>
       <b>Abstract</b>
       Conventional approaches to constructing numerical models of the solar atmosphere assume a fully equilibrated plasma, wherein all species are in collisional thermal equilibrium amongst themselves and each other. This yields single fluid formulations of the governing evolution equations, such as ideal MHD, or, at best, a treatment that accommodates different electron and ionized hydrogen and helium temperatures. In reality, a comparison between the timescales of observed solar activity and inter-species collisional timescales demonstrates that the former can be significantly shorter than the latter. There are important consequences for the model predicted spectra that are frequently used to deduce the presence of physical processes from observed spectral signatures. For example, the true thermal width of an emission line can be very different to the width predicted by setting the ion temperature equal to the electron temperature (or to the formation temperature of the ion in equilibrium), leading to very misleading interpretations concerning the preferential energization of particular species and the presence of excess broadening due to (e.g.) turbulence. We will present a new multi-species modeling framework to accommodate the NLTE coupling between arbitrary species, including the strongly charged ion populations of relevance to the solar atmosphere, and some recent results from its application to solar flares.
-    </details>
-
-
-* <p id="Brooks">**Author**: David Brooks <a class="headerlink" href="#Brooks" title="Permanent link">¶</a>
-
-    **When**: FILL IN
-
-    **Coauthors**: None
-    <details> <summary> <b>Title</b>: Connecting the solar wind to its source regions on the Sun using elemental abundances </summary>
-      <b>Abstract</b>
-      Elemental abundances in the solar wind show variations resulting from the first ionization potential (FIP) effect. This effect is thought to operate in the chromosphere, so modifications to plasma composition occur and are fixed low in the atmosphere in the source regions. This fact enables us to use elemental abundances measured spectroscopically and in-situ in the solar wind as an effective tracer of plasma escaping into the heliosphere. Significant progress in solar-wind connection science has been made in the last 10-15 years through coronal spectroscopy from Hinode/EIS, and chromospheric observations from IRIS. Recently, Solar Orbiter/SPICE has begun to provide plasma composition measurements in the upper transition region and low corona. Here we give an overview of some of our most recent results, focusing on the following developments: 1) evidence for the S-web source of the slow solar wind from Hinode and Solar Orbiter, 2) identification and empirical testing of a multi-instrument (EIS+SPICE) elemental abundance diagnostic, and 3) determination
-      of the drivers of solar wind variability by Solar Orbiter.
     </details>
 
 
@@ -109,7 +97,7 @@ Accepted Abstracts.
 
 * <p id="Cozzo">**Author**: Gabriele Cozzo <a class="headerlink" href="#Cozzo" title="Permanent link">¶</a>
 
-    **When**: Wednesday -
+    **When**: Tuesday - 2:00-2:20
 
     **Coauthors**: G. Cozzo, P. Testa, J. Martinez-Sykora, F. Reale, P. Pagano, F. Rappazzo, V. Hansteen, and B. De Pontieu
     <details> <summary> <b>Title</b>: Pinpointing nanoflare‑scale coronal heating through reconnection-outflows spectroscopy </summary>
@@ -260,7 +248,7 @@ Accepted Abstracts.
 
 * <p id="Hansteen">**Author**: Viggo Hansteen <a class="headerlink" href="#Hansteen" title="Permanent link">¶</a>
 
-    **When**: Tuesday -
+    **When**: Monday - 9:45-10:05
 
     **Coauthors**: TBD
     <details> <summary> <b>Title</b>: Overview of your recent efforts on validation of numerical models of flares, quiet Sun, and active regions through comparison with observations </summary>
@@ -308,7 +296,7 @@ Accepted Abstracts.
 
 * <p id="Jin">**Author**: Meng Jin <a class="headerlink" href="#Jin" title="Permanent link">¶</a>
 
-    **When**: Thursday -
+    **When**: Thursday - 1:30-1:50
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Recent Advances and Ongoing Challenges in Global MHD Modeling of Coronal Mass Ejections and Their Space Weather Impacts </summary>
@@ -441,7 +429,7 @@ Atmosphere </summary>
 
 * <p id="Martínez-Sykora">**Author**: Juan Martínez-Sykora <a class="headerlink" href="#Mart%C3%ADnez-Sykora" title="Permanent link">¶</a>
 
-    **When**: Monday - Chair
+    **When**: Wednesday - 2:20-2:40
 
     **Coauthors**: Sam Evans, Meers Oppenheimer, Yakov Dimant, Bart De Pontieu, Mats Carlsson
     <details> <summary> <b>Title</b>: Probing the Thermal Farley–Buneman Instability in the Chromosphere: New Insights, Limits on Single Fluid Assumptions, Constraints, and Broader Implications. </summary>
@@ -632,7 +620,7 @@ Atmosphere </summary>
 
 * <p id="Stangalini">**Author**: Marco Stangalini <a class="headerlink" href="#Stangalini" title="Permanent link">¶</a>
 
-    **When**: Wednesday -
+    **When**: Wednesday - 3:50-4:10
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Observational aspects of MHD waves linked to FIP </summary>
@@ -654,7 +642,7 @@ Atmosphere </summary>
 
 * <p id="Testa">**Author**: Paola Testa <a class="headerlink" href="#Testa" title="Permanent link">¶</a>
 
-    **When**: Monday - Chair
+    **When**: Wednesday - 10:50-11:10
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Heating of active region cores: observational constraints on nanoflare heating models </summary>

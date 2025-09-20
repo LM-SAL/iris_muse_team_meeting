@@ -165,11 +165,13 @@ output_path.write_text(html_table, encoding="utf-8")
 # Now to modify the abstract markdown file with the times
 abstract_md = ABSTRACT_FILE.read_text(encoding="utf-8")
 new_abstract_md = ""
+# Need to drop the chair rows or they will match twice
+df_no_chairs = df[~df.iloc[:, 0].str.contains("Chair", na=False)]
 for entry in abstract_md.split("* "):
     if "**Author**: " in entry:
         name = entry.split("**Author**:")[1].split("<a")[0].strip()
         surname = " ".join(name.split(" ")[1:])
-        when = find_when(df, surname) or "FILL IN"
+        when = find_when(df_no_chairs, surname) or "FILL IN"
         entry = entry.replace("FILL IN", f"{when}")
         new_abstract_md += "* " + entry
     else:
