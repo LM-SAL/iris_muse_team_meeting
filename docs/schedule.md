@@ -25,6 +25,7 @@
             <th class="tg-mcqj" colspan="2" style="color:white;background-color:#882255">Tuesday</th>
             <th class="tg-mcqj" colspan="2" style="color:white;background-color:#AA4499">Wednesday</th>
             <th class="tg-mcqj" colspan="2" style="color:white;background-color:#EE3377">Thursday</th>
+            <th class="tg-mcqj">Session Type</th>
         </tr>
     </thead>
     <tbody>
@@ -38,6 +39,19 @@
     <td class="tg-zero">Cozzo</td>
     <td class="tg-0pky"></td>
     <td class="tg-zero">Bose</td>
+    <td class="tg-0pky" rowspan="28" style="vertical-align:top">
+<table class="tg">
+    <tbody>
+        <tr><td class="tg-one">Chromosphere</td></tr>
+        <tr><td class="tg-two">Corona</td></tr>
+        <tr><td class="tg-three">Flares &amp; Eruptions</td></tr>
+        <tr><td class="tg-four">Global Connections</td></tr>
+        <tr><td class="tg-five">MUSE</td></tr>
+        <tr><td class="tg-six">Future Capabilities</td></tr>
+        <tr><td class="tg-seven">Scene Setting</td></tr>
+    </tbody>
+</table>
+</td>
 </tr>
 
 
@@ -50,6 +64,7 @@
     <td class="tg-zero"></td>
     <td class="tg-0pky"></td>
     <td class="tg-zero"></td>
+
 </tr>
 
 
@@ -62,6 +77,7 @@
     <td class="tg-seven"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Rempel">Rempel</a></td>
     <td class="tg-0pky">9:00-9:30</td>
     <td class="tg-seven"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Carlsson">Carlsson</a></td>
+
 </tr>
 
 
@@ -74,6 +90,7 @@
     <td class="tg-two"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Reale">Reale</a></td>
     <td class="tg-0pky">9:30-9:50</td>
     <td class="tg-one"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Leenaarts">Leenaarts</a></td>
+
 </tr>
 
 
@@ -86,6 +103,7 @@
     <td class="tg-two"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#N%C3%B3brega-Siverio">Nóbrega-Siverio</a></td>
     <td class="tg-0pky">9:50-10:10</td>
     <td class="tg-one"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Gosic">Gosic</a></td>
+
 </tr>
 
 
@@ -98,6 +116,7 @@
     <td class="tg-two"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Bose">Bose</a></td>
     <td class="tg-0pky">10:10-10:30</td>
     <td class="tg-one"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Joshi">Joshi</a></td>
+
 </tr>
 
 
@@ -110,6 +129,7 @@
     <td class="tg-eight">Coffee break</td>
     <td class="tg-0pky">10:30-11:00</td>
     <td class="tg-eight">Coffee break</td>
+
 </tr>
 
 
@@ -122,6 +142,7 @@
     <td class="tg-zero">Cheung</td>
     <td class="tg-0pky"></td>
     <td class="tg-zero">Jin</td>
+
 </tr>
 
 
@@ -134,6 +155,7 @@
     <td class="tg-two"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Testa">Testa</a></td>
     <td class="tg-0pky">11:00-11:20</td>
     <td class="tg-one"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Guglielmino">Guglielmino</a></td>
+
 </tr>
 
 
@@ -146,6 +168,7 @@
     <td class="tg-two"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Bradshaw">Bradshaw</a></td>
     <td class="tg-0pky">11:20-11:50</td>
     <td class="tg-seven"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Downs">Downs</a></td>
+
 </tr>
 
 
@@ -158,6 +181,7 @@
     <td class="tg-two"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Srivastava">Srivastava</a></td>
     <td class="tg-0pky">11:50-12:10</td>
     <td class="tg-four"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Nordlund">Nordlund</a></td>
+
 </tr>
 
 
@@ -170,6 +194,7 @@
     <td class="tg-seven"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#de%20la%20Cruz%20Rodriguez">de la Cruz Rodriguez</a></td>
     <td class="tg-0pky">12:10-12:30</td>
     <td class="tg-four"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Upendran">Upendran</a></td>
+
 </tr>
 
 
@@ -182,6 +207,7 @@
     <td class="tg-eight">Lunch break</td>
     <td class="tg-0pky">12:30-1:30</td>
     <td class="tg-eight">Lunch break</td>
+
 </tr>
 
 
@@ -194,6 +220,7 @@
     <td class="tg-zero">Stangalini</td>
     <td class="tg-0pky"></td>
     <td class="tg-zero">Upendran</td>
+
 </tr>
 
 
@@ -206,6 +233,7 @@
     <td class="tg-one"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Rouppe%20van%20der%20Voort">Rouppe van der Voort</a></td>
     <td class="tg-0pky">1:30-1:50</td>
     <td class="tg-four"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Jin">Jin</a></td>
+
 </tr>
 
 
@@ -218,6 +246,7 @@
     <td class="tg-one"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Okamoto">Okamoto</a></td>
     <td class="tg-0pky">1:50-2:10</td>
     <td class="tg-four"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Shi">Shi</a></td>
+
 </tr>
 
 
@@ -230,6 +259,7 @@
     <td class="tg-one"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Khomenko">Khomenko</a></td>
     <td class="tg-0pky">2:10-2:30</td>
     <td class="tg-six"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Glesener">Glesener</a></td>
+
 </tr>
 
 
@@ -242,6 +272,7 @@
     <td class="tg-one"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Mart%C3%ADnez-Sykora">Martínez-Sykora</a></td>
     <td class="tg-0pky">2:30-2:50</td>
     <td class="tg-six"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Jaeggli">Jaeggli</a></td>
+
 </tr>
 
 
@@ -254,6 +285,7 @@
     <td class="tg-one"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Sainz%20Dalda">Sainz Dalda</a></td>
     <td class="tg-0pky"></td>
     <td class="tg-zero"></td>
+
 </tr>
 
 
@@ -266,6 +298,7 @@
     <td class="tg-eight">Coffee break</td>
     <td class="tg-0pky">2:50-3:10</td>
     <td class="tg-eight">Coffee break</td>
+
 </tr>
 
 
@@ -278,6 +311,7 @@
     <td class="tg-zero">De Pontieu</td>
     <td class="tg-0pky"></td>
     <td class="tg-zero">Cheung</td>
+
 </tr>
 
 
@@ -290,6 +324,7 @@
     <td class="tg-one"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Przybylski">Przybylski</a></td>
     <td class="tg-0pky">3:10-3:30</td>
     <td class="tg-six"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Kankelborg">Kankelborg</a></td>
+
 </tr>
 
 
@@ -302,6 +337,7 @@
     <td class="tg-one"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Stangalini">Stangalini</a></td>
     <td class="tg-0pky">3:30-3:50</td>
     <td class="tg-six"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Diaz%20Baso">Diaz Baso</a></td>
+
 </tr>
 
 
@@ -314,6 +350,7 @@
     <td class="tg-zero">Discussion</td>
     <td class="tg-0pky">3:50-5:00</td>
     <td class="tg-zero">Close out</td>
+
 </tr>
 
 
@@ -326,6 +363,7 @@
     <td class="tg-zero"></td>
     <td class="tg-0pky"></td>
     <td class="tg-zero"></td>
+
 </tr>
 
 
@@ -338,6 +376,7 @@
     <td class="tg-zero"></td>
     <td class="tg-0pky"></td>
     <td class="tg-zero"></td>
+
 </tr>
 
 
@@ -350,6 +389,7 @@
     <td class="tg-zero"></td>
     <td class="tg-0pky"></td>
     <td class="tg-zero"></td>
+
 </tr>
 
 
@@ -362,37 +402,8 @@
     <td class="tg-eight">Social Dinner</td>
     <td class="tg-0pky"></td>
     <td class="tg-zero"></td>
+
 </tr>
 
-    </tbody>
-</table>
-<table class="tg">
-    <thead>
-        <tr>
-            <th class="tg-mcqj">Session Type</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td class="tg-one">Chromosphere</td>
-        </tr>
-        <tr>
-            <td class="tg-two">Corona</td>
-        </tr>
-        <tr>
-            <td class="tg-three">Flares &amp; Eruptions</td>
-        </tr>
-        <tr>
-            <td class="tg-four">Global Connections</td>
-        </tr>
-        <tr>
-            <td class="tg-five">MUSE</td>
-        </tr>
-        <tr>
-            <td class="tg-six">Future Capabilities</td>
-        </tr>
-        <tr>
-            <td class="tg-seven">Scene Setting</td>
-        </tr>
     </tbody>
 </table>

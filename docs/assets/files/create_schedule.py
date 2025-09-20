@@ -59,43 +59,29 @@ HTML_TABLE_TEMPLATE = """
             <th class="tg-mcqj" colspan="2" style="color:white;background-color:#882255">Tuesday</th>
             <th class="tg-mcqj" colspan="2" style="color:white;background-color:#AA4499">Wednesday</th>
             <th class="tg-mcqj" colspan="2" style="color:white;background-color:#EE3377">Thursday</th>
+            <th class="tg-mcqj">Session Type</th>
         </tr>
     </thead>
     <tbody>
         {BODY}
     </tbody>
 </table>
+"""
+
+LEGEND_HTML = """
 <table class="tg">
-    <thead>
-        <tr>
-            <th class="tg-mcqj">Session Type</th>
-        </tr>
-    </thead>
     <tbody>
-        <tr>
-            <td class="tg-one">Chromosphere</td>
-        </tr>
-        <tr>
-            <td class="tg-two">Corona</td>
-        </tr>
-        <tr>
-            <td class="tg-three">Flares &amp; Eruptions</td>
-        </tr>
-        <tr>
-            <td class="tg-four">Global Connections</td>
-        </tr>
-        <tr>
-            <td class="tg-five">MUSE</td>
-        </tr>
-        <tr>
-            <td class="tg-six">Future Capabilities</td>
-        </tr>
-        <tr>
-            <td class="tg-seven">Scene Setting</td>
-        </tr>
+        <tr><td class="tg-one">Chromosphere</td></tr>
+        <tr><td class="tg-two">Corona</td></tr>
+        <tr><td class="tg-three">Flares &amp; Eruptions</td></tr>
+        <tr><td class="tg-four">Global Connections</td></tr>
+        <tr><td class="tg-five">MUSE</td></tr>
+        <tr><td class="tg-six">Future Capabilities</td></tr>
+        <tr><td class="tg-seven">Scene Setting</td></tr>
     </tbody>
 </table>
 """
+
 HTML_TABLE_ROW_TEMPLATE = """
 <tr>
     <td class="tg-0pky">{MONDAY_1}</td>
@@ -106,6 +92,7 @@ HTML_TABLE_ROW_TEMPLATE = """
     <td class="tg-{SESSION_WEDNESDAY}">{WEDNESDAY_URL}</td>
     <td class="tg-0pky">{THURSDAY_1}</td>
     <td class="tg-{SESSION_THURSDAY}">{THURSDAY_URL}</td>
+    {LEGEND_CELL}
 </tr>
 """
 
@@ -139,7 +126,11 @@ def find_when(df, surname):
 df = pd.read_excel(Path(FILE_PATH).expanduser().resolve())
 df = df.fillna("")
 html_rows = []
-for _, row in df.iloc[1:].iterrows():
+
+rows = df.iloc[1:]
+row_span = len(rows)
+
+for i, (_, row) in enumerate(rows.iterrows()):
     cells = {}
     for day, base, css in DAY_CONFIG:
         cells[f"{day}_1"] = row.iloc[base]
@@ -157,6 +148,14 @@ for _, row in df.iloc[1:].iterrows():
             cells[f"{day}_URL"] = (
                 f'<a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#{anchor}">{title}</a>'
             )
+    # Only add the legend cell to the first row; rowspan covers the rest
+    if i == 0:
+        cells["LEGEND_CELL"] = (
+            f'<td class="tg-0pky" rowspan="{row_span}" style="vertical-align:top">{LEGEND_HTML}</td>'
+        )
+    else:
+        cells["LEGEND_CELL"] = ""
+
     html_rows.append(HTML_TABLE_ROW_TEMPLATE.format(**cells))
 
 html_table = HTML_TABLE_TEMPLATE.replace("{BODY}", "\n".join(html_rows))
