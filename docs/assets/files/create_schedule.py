@@ -20,6 +20,7 @@ BREAK_EVENTS = {
     "Social Dinner",
     "Reception",
     "Close out",
+    "Chair",
 }
 NAME_REPLACEMENTS = {
     "Kumar Srivastava": "Srivastava",
@@ -37,26 +38,27 @@ HTML_TABLE_TEMPLATE = """
     .tg td{border-color:black;border-style:none;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
     overflow:hidden;padding:10px 5px;word-break:normal;text-align:center;}
     .tg th{border-color:black;border-style:none;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-    .tg .tg-one{background-color:#e49edd;border-color:inherit;text-align:center;vertical-align:top}
-    .tg .tg-two{background-color:#60cbf3;border-color:inherit;text-align:center;vertical-align:top}
-    .tg .tg-three{background-color:#ffc000;border-color:inherit;text-align:center;vertical-align:top}
-    .tg .tg-four{background-color:#fefe00;border-color:inherit;text-align:center;vertical-align:top}
-    .tg .tg-five{background-color:#caedfb;border-color:inherit;text-align:center;vertical-align:top}
-    .tg .tg-six{background-color:#7ffe00;border-color:inherit;text-align:center;vertical-align:top}
-    .tg .tg-seven{background-color:#fae2d5;border-color:inherit;text-align:center;vertical-align:top}
-    .tg .tg-eight{background-color:#9ee2a3;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-one{background-color:#332288;color:white;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-two{background-color:#0077BB;color:white;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-three{background-color:#88CCEE;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-four{background-color:#44AA99;color:white;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-five{background-color:#117733;color:white;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-six{background-color:#999933;color:white;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-seven{background-color:#DDCC77;color:white;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-eight{background-color:#EE7733;color:white;border-color:inherit;text-align:center;vertical-align:top}
     .tg .tg-mcqj{border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
     .tg .tg-73oq{border-color:#000000;text-align:center;vertical-align:top}
     .tg .tg-0lax{text-align:center;vertical-align:top}
     .tg .tg-0pky{border-color:inherit;text-align:center;vertical-align:top}
+    .md-typeset a{color: white}
 </style>
 <table class="tg">
     <thead>
         <tr>
-            <th class="tg-mcqj" colspan="2" style="background-color:red">Monday</th>
-            <th class="tg-mcqj" colspan="2" style="background-color:orange">Tuesday</th>
-            <th class="tg-mcqj" colspan="2" style="background-color:yellow">Wednesday</th>
-            <th class="tg-mcqj" colspan="2" style="background-color:green">Thursday</th>
+            <th class="tg-mcqj" colspan="2" style="color:white;background-color:#CC3311">Monday</th>
+            <th class="tg-mcqj" colspan="2" style="color:white;background-color:#882255">Tuesday</th>
+            <th class="tg-mcqj" colspan="2" style="color:white;background-color:#AA4499">Wednesday</th>
+            <th class="tg-mcqj" colspan="2" style="color:white;background-color:#EE3377">Thursday</th>
         </tr>
     </thead>
     <tbody>
@@ -97,13 +99,13 @@ HTML_TABLE_TEMPLATE = """
 HTML_TABLE_ROW_TEMPLATE = """
 <tr>
     <td class="tg-0pky">{MONDAY_1}</td>
-    <td class="tg-{SESSION_MONDAY}"><a href="{MONDAY_URL}">{MONDAY_2}</a></td>
+    <td class="tg-{SESSION_MONDAY}">{MONDAY_URL}</td>
     <td class="tg-0pky">{TUESDAY_1}</td>
-    <td class="tg-{SESSION_TUESDAY}"><a href="{TUESDAY_URL}">{TUESDAY_2}</a></td>
+    <td class="tg-{SESSION_TUESDAY}">{TUESDAY_URL}</td>
     <td class="tg-0pky">{WEDNESDAY_1}</td>
-    <td class="tg-{SESSION_WEDNESDAY}"><a href="{WEDNESDAY_URL}">{WEDNESDAY_2}</a></td>
+    <td class="tg-{SESSION_WEDNESDAY}">{WEDNESDAY_URL}</td>
     <td class="tg-0pky">{THURSDAY_1}</td>
-    <td class="tg-{SESSION_THURSDAY}"><a href="{THURSDAY_URL}">{THURSDAY_2}</a></td>
+    <td class="tg-{SESSION_THURSDAY}">{THURSDAY_URL}</td>
 </tr>
 """
 
@@ -142,18 +144,18 @@ for _, row in df.iloc[1:].iterrows():
     for day, base, css in DAY_CONFIG:
         cells[f"{day}_1"] = row.iloc[base]
         cells[f"{day}_2"] = row.iloc[base + 1]
-        cells[f"SESSION_{day}"] = parse_session(row, base + 2)
+        session = parse_session(row, base + 2)
+        cells[f"SESSION_{day}"] = session
         title = str(row.iloc[base + 1])
-        if title in BREAK_EVENTS:
-            cells[f"{day}_URL"] = ""
+        if title in BREAK_EVENTS or session == "zero":
+            cells[f"{day}_URL"] = title
         else:
             # apply any name fixes
             for old, new in NAME_REPLACEMENTS.items():
                 title = title.replace(old, new)
-
             anchor = quote(title)
             cells[f"{day}_URL"] = (
-                f"https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#{anchor}"
+                f'<a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#{anchor}">{title}</a>'
             )
     html_rows.append(HTML_TABLE_ROW_TEMPLATE.format(**cells))
 

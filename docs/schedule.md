@@ -4,51 +4,52 @@
     .tg td{border-color:black;border-style:none;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
     overflow:hidden;padding:10px 5px;word-break:normal;text-align:center;}
     .tg th{border-color:black;border-style:none;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-    .tg .tg-one{background-color:#e49edd;border-color:inherit;text-align:center;vertical-align:top}
-    .tg .tg-two{background-color:#60cbf3;border-color:inherit;text-align:center;vertical-align:top}
-    .tg .tg-three{background-color:#ffc000;border-color:inherit;text-align:center;vertical-align:top}
-    .tg .tg-four{background-color:#fefe00;border-color:inherit;text-align:center;vertical-align:top}
-    .tg .tg-five{background-color:#caedfb;border-color:inherit;text-align:center;vertical-align:top}
-    .tg .tg-six{background-color:#7ffe00;border-color:inherit;text-align:center;vertical-align:top}
-    .tg .tg-seven{background-color:#fae2d5;border-color:inherit;text-align:center;vertical-align:top}
-    .tg .tg-eight{background-color:#9ee2a3;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-one{background-color:#332288;color:white;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-two{background-color:#0077BB;color:white;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-three{background-color:#88CCEE;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-four{background-color:#44AA99;color:white;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-five{background-color:#117733;color:white;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-six{background-color:#999933;color:white;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-seven{background-color:#DDCC77;color:white;border-color:inherit;text-align:center;vertical-align:top}
+    .tg .tg-eight{background-color:#EE7733;color:white;border-color:inherit;text-align:center;vertical-align:top}
     .tg .tg-mcqj{border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
     .tg .tg-73oq{border-color:#000000;text-align:center;vertical-align:top}
     .tg .tg-0lax{text-align:center;vertical-align:top}
     .tg .tg-0pky{border-color:inherit;text-align:center;vertical-align:top}
+    .md-typeset a{color: white}
 </style>
 <table class="tg">
     <thead>
         <tr>
-            <th class="tg-mcqj" colspan="2" style="background-color:red">Monday</th>
-            <th class="tg-mcqj" colspan="2" style="background-color:orange">Tuesday</th>
-            <th class="tg-mcqj" colspan="2" style="background-color:yellow">Wednesday</th>
-            <th class="tg-mcqj" colspan="2" style="background-color:green">Thursday</th>
+            <th class="tg-mcqj" colspan="2" style="color:white;background-color:#CC3311">Monday</th>
+            <th class="tg-mcqj" colspan="2" style="color:white;background-color:#882255">Tuesday</th>
+            <th class="tg-mcqj" colspan="2" style="color:white;background-color:#AA4499">Wednesday</th>
+            <th class="tg-mcqj" colspan="2" style="color:white;background-color:#EE3377">Thursday</th>
         </tr>
     </thead>
     <tbody>
 
 <tr>
     <td class="tg-0pky">Chair</td>
-    <td class="tg-zero"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Mart%C3%ADnez-Sykora">Martínez-Sykora</a></td>
+    <td class="tg-zero">Martínez-Sykora</td>
     <td class="tg-0pky"></td>
-    <td class="tg-zero"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Hansteen">Hansteen</a></td>
+    <td class="tg-zero">Hansteen</td>
     <td class="tg-0pky"></td>
-    <td class="tg-zero"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Cozzo">Cozzo</a></td>
+    <td class="tg-zero">Cozzo</td>
     <td class="tg-0pky"></td>
-    <td class="tg-zero"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Bose">Bose</a></td>
+    <td class="tg-zero">Bose</td>
 </tr>
 
 
 <tr>
     <td class="tg-0pky">9:00-9:10</td>
-    <td class="tg-zero"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Bill%20Diamond">Bill Diamond</a></td>
+    <td class="tg-zero">Bill Diamond</td>
     <td class="tg-0pky"></td>
-    <td class="tg-zero"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#"></a></td>
+    <td class="tg-zero"></td>
     <td class="tg-0pky"></td>
-    <td class="tg-zero"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#"></a></td>
+    <td class="tg-zero"></td>
     <td class="tg-0pky"></td>
-    <td class="tg-zero"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#"></a></td>
+    <td class="tg-zero"></td>
 </tr>
 
 
@@ -102,25 +103,25 @@
 
 <tr>
     <td class="tg-0pky">10:25-10:55</td>
-    <td class="tg-eight"><a href="">Coffee break</a></td>
+    <td class="tg-eight">Coffee break</td>
     <td class="tg-0pky">10:20-10:50</td>
-    <td class="tg-eight"><a href="">Coffee break</a></td>
+    <td class="tg-eight">Coffee break</td>
     <td class="tg-0pky">10:30-11:00</td>
-    <td class="tg-eight"><a href="">Coffee break</a></td>
+    <td class="tg-eight">Coffee break</td>
     <td class="tg-0pky">10:30-11:00</td>
-    <td class="tg-eight"><a href="">Coffee break</a></td>
+    <td class="tg-eight">Coffee break</td>
 </tr>
 
 
 <tr>
     <td class="tg-0pky">Chair</td>
-    <td class="tg-zero"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Testa">Testa</a></td>
+    <td class="tg-zero">Testa</td>
     <td class="tg-0pky"></td>
-    <td class="tg-zero"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Reale">Reale</a></td>
+    <td class="tg-zero">Reale</td>
     <td class="tg-0pky"></td>
-    <td class="tg-zero"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Cheung">Cheung</a></td>
+    <td class="tg-zero">Cheung</td>
     <td class="tg-0pky"></td>
-    <td class="tg-zero"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Jin">Jin</a></td>
+    <td class="tg-zero">Jin</td>
 </tr>
 
 
@@ -154,7 +155,7 @@
     <td class="tg-0pky">11:30-11:50</td>
     <td class="tg-seven"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Chintzoglou">Chintzoglou</a></td>
     <td class="tg-0pky">11:30-11:50</td>
-    <td class="tg-two"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Srivastava">Kumar Srivastava</a></td>
+    <td class="tg-two"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Srivastava">Srivastava</a></td>
     <td class="tg-0pky">11:50-12:10</td>
     <td class="tg-four"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Nordlund">Nordlund</a></td>
 </tr>
@@ -174,25 +175,25 @@
 
 <tr>
     <td class="tg-0pky">12:25-1:25</td>
-    <td class="tg-eight"><a href="">Lunch break</a></td>
+    <td class="tg-eight">Lunch break</td>
     <td class="tg-0pky">12:20-1:20</td>
-    <td class="tg-eight"><a href="">Lunch break</a></td>
+    <td class="tg-eight">Lunch break</td>
     <td class="tg-0pky">12:20-1:20</td>
-    <td class="tg-eight"><a href="">Lunch break</a></td>
+    <td class="tg-eight">Lunch break</td>
     <td class="tg-0pky">12:30-1:30</td>
-    <td class="tg-eight"><a href="">Lunch break</a></td>
+    <td class="tg-eight">Lunch break</td>
 </tr>
 
 
 <tr>
     <td class="tg-0pky">Chair</td>
-    <td class="tg-zero"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Lorincik">Lorincik</a></td>
+    <td class="tg-zero">Lorincik</td>
     <td class="tg-0pky"></td>
-    <td class="tg-zero"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Cho">Cho</a></td>
+    <td class="tg-zero">Cho</td>
     <td class="tg-0pky"></td>
-    <td class="tg-zero"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Stangalini">Stangalini</a></td>
+    <td class="tg-zero">Stangalini</td>
     <td class="tg-0pky"></td>
-    <td class="tg-zero"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Upendran">Upendran</a></td>
+    <td class="tg-zero">Upendran</td>
 </tr>
 
 
@@ -246,37 +247,37 @@
 
 <tr>
     <td class="tg-0pky"></td>
-    <td class="tg-zero"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#"></a></td>
+    <td class="tg-zero"></td>
     <td class="tg-0pky">2:20-2:40</td>
     <td class="tg-two"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#De%20Moortel">De Moortel</a></td>
     <td class="tg-0pky">2:40-3:00</td>
     <td class="tg-one"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Sainz%20Dalda">Sainz Dalda</a></td>
     <td class="tg-0pky"></td>
-    <td class="tg-zero"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#"></a></td>
+    <td class="tg-zero"></td>
 </tr>
 
 
 <tr>
     <td class="tg-0pky">2:55-3:25</td>
-    <td class="tg-eight"><a href="">Coffee break</a></td>
+    <td class="tg-eight">Coffee break</td>
     <td class="tg-0pky">3:00-3:10</td>
-    <td class="tg-eight"><a href="">Coffee break</a></td>
+    <td class="tg-eight">Coffee break</td>
     <td class="tg-0pky">3:00-3:30</td>
-    <td class="tg-eight"><a href="">Coffee break</a></td>
+    <td class="tg-eight">Coffee break</td>
     <td class="tg-0pky">2:50-3:10</td>
-    <td class="tg-eight"><a href="">Coffee break</a></td>
+    <td class="tg-eight">Coffee break</td>
 </tr>
 
 
 <tr>
     <td class="tg-0pky">Chair</td>
-    <td class="tg-zero"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Amy">Amy</a></td>
+    <td class="tg-zero">Amy</td>
     <td class="tg-0pky"></td>
-    <td class="tg-zero"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Klimchuk">Klimchuk</a></td>
+    <td class="tg-zero">Klimchuk</td>
     <td class="tg-0pky"></td>
-    <td class="tg-zero"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#De%20Pontieu">De Pontieu</a></td>
+    <td class="tg-zero">De Pontieu</td>
     <td class="tg-0pky"></td>
-    <td class="tg-zero"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Cheung">Cheung</a></td>
+    <td class="tg-zero">Cheung</td>
 </tr>
 
 
@@ -310,57 +311,57 @@
     <td class="tg-0pky">4:10-4:40</td>
     <td class="tg-two"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Tripathi">Tripathi</a></td>
     <td class="tg-0pky">4:10-5:00</td>
-    <td class="tg-zero"><a href="">Discussion</a></td>
+    <td class="tg-zero">Discussion</td>
     <td class="tg-0pky">3:50-5:00</td>
-    <td class="tg-zero"><a href="">Close out</a></td>
+    <td class="tg-zero">Close out</td>
 </tr>
 
 
 <tr>
     <td class="tg-0pky">4:25-5:00</td>
-    <td class="tg-zero"><a href="">Discussion</a></td>
+    <td class="tg-zero">Discussion</td>
     <td class="tg-0pky">4:40-5:00</td>
-    <td class="tg-two"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Rappazzo">Franco Rappazzo</a></td>
+    <td class="tg-two"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Rappazzo">Rappazzo</a></td>
     <td class="tg-0pky"></td>
-    <td class="tg-zero"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#"></a></td>
+    <td class="tg-zero"></td>
     <td class="tg-0pky"></td>
-    <td class="tg-zero"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#"></a></td>
+    <td class="tg-zero"></td>
 </tr>
 
 
 <tr>
     <td class="tg-0pky"></td>
-    <td class="tg-zero"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#"></a></td>
+    <td class="tg-zero"></td>
     <td class="tg-0pky">5:00-5:30</td>
-    <td class="tg-zero"><a href="">Discussion</a></td>
+    <td class="tg-zero">Discussion</td>
     <td class="tg-0pky"></td>
-    <td class="tg-zero"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#"></a></td>
+    <td class="tg-zero"></td>
     <td class="tg-0pky"></td>
-    <td class="tg-zero"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#"></a></td>
+    <td class="tg-zero"></td>
 </tr>
 
 
 <tr>
     <td class="tg-0pky"></td>
-    <td class="tg-zero"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#"></a></td>
+    <td class="tg-zero"></td>
     <td class="tg-0pky"></td>
-    <td class="tg-zero"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#"></a></td>
+    <td class="tg-zero"></td>
     <td class="tg-0pky"></td>
-    <td class="tg-zero"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#"></a></td>
+    <td class="tg-zero"></td>
     <td class="tg-0pky"></td>
-    <td class="tg-zero"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#"></a></td>
+    <td class="tg-zero"></td>
 </tr>
 
 
 <tr>
     <td class="tg-0pky">TBD</td>
-    <td class="tg-eight"><a href="">Reception</a></td>
+    <td class="tg-eight">Reception</td>
     <td class="tg-0pky"></td>
-    <td class="tg-zero"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#"></a></td>
+    <td class="tg-zero"></td>
     <td class="tg-0pky">6:30-9:30</td>
-    <td class="tg-eight"><a href="">Social Dinner</a></td>
+    <td class="tg-eight">Social Dinner</td>
     <td class="tg-0pky"></td>
-    <td class="tg-zero"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#"></a></td>
+    <td class="tg-zero"></td>
 </tr>
 
     </tbody>
