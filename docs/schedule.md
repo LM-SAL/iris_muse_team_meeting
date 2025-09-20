@@ -304,7 +304,7 @@
 
 <tr>
     <td class="tg-0pky">Chair</td>
-    <td class="tg-zero">Amy</td>
+    <td class="tg-zero">Winebarger</td>
     <td class="tg-0pky"></td>
     <td class="tg-zero">Klimchuk</td>
     <td class="tg-0pky"></td>
