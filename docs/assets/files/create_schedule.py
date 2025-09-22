@@ -157,7 +157,10 @@ for i, (_, row) in enumerate(rows.iterrows()):
             anchor = quote(title)
             # Scene setting special cases
             if any(name in title for name in SCENE_SETTING_NAMES):
-                title = f"<b>{title}</b>"
+                if title == "Rempel" and row.iloc[base] == "3:25-3:45":
+                    title = "Rempel"
+                else:
+                    title = f"<b>{title}</b>"
             # Create the URL anchor
             cells[f"{day}_URL"] = (
                 f'<a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#{anchor}">{title}</a>'

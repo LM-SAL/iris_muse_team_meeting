@@ -163,7 +163,7 @@ Accepted Abstracts.
 
 * <p id="Diaz Baso">**Author**: Carlos Diaz Baso <a class="headerlink" href="#Diaz%20Baso" title="Permanent link">¶</a>
 
-    **When**: Thursday - 3:50-4:10
+    **When**: Thursday - 4:00-4:20
 
     **Coauthors**: TBD
     <details> <summary> <b>Title</b>: How machine learning and inversion techniques can advance our understanding of the low solar atmosphere? </summary>
@@ -270,7 +270,7 @@ Accepted Abstracts.
 
 * <p id="Imada">**Author**: Shinsuke Imada <a class="headerlink" href="#Imada" title="Permanent link">¶</a>
 
-    **When**: Tuesday - 3:10-3:50
+    **When**: Tuesday - 3:30-3:50
 
     **Coauthors**: SOLAR-C International Team
     <details> <summary> <b>Title</b>: Overview of coronal modeling in support of the EUVST project </summary>
@@ -521,7 +521,7 @@ Atmosphere </summary>
 
 * <p id="Rappazzo">**Author**: A. Franco Rappazzo <a class="headerlink" href="#Rappazzo" title="Permanent link">¶</a>
 
-    **When**: Tuesday - 4:40-5:00
+    **When**: Tuesday - 4:30-4:50
 
     **Coauthors**: Pagano, P., Reale, F., and Cozzo, G.
     <details> <summary> <b>Title</b>: Fast Magnetic Reconnection and the Heating of Coronal Loops </summary>
@@ -675,7 +675,7 @@ Atmosphere </summary>
 
 * <p id="Tripathi">**Author**: Durgesh Tripathi <a class="headerlink" href="#Tripathi" title="Permanent link">¶</a>
 
-    **When**: Tuesday - 4:10-4:40
+    **When**: Tuesday - 4:10-4:30
 
     **Coauthors**: A. N. Ramaprakash, Sreejith, P. and SUIT Team
     <details> <summary> <b>Title</b>: Bridging Layers of the Sun: Coordinated Observations with SUIT and MUSE </summary>
