@@ -13,6 +13,8 @@ abstracts = abstracts.rename(
     }
 )
 abstracts = abstracts.drop(columns=["Timestamp", "Email Address"])
+# Remove any empty rows
+abstracts = abstracts.dropna(how="all")
 
 
 # Reformat the abstract text to avoid markdown issues
