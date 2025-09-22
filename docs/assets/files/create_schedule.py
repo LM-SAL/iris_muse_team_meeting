@@ -34,32 +34,34 @@ DAY_CONFIG = [
 ]
 HTML_TABLE_TEMPLATE = """
 <style type="text/css">
-    .tg  {border-collapse:collapse;border-spacing:0;}
-    .tg td{border-color:black;border-style:none;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-    overflow:hidden;padding:10px 5px;word-break:normal;text-align:center;}
-    .tg th{border-color:black;border-style:none;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-    .tg .tg-one{background-color:#332288;color:white;border-color:inherit;text-align:center;vertical-align:top}
-    .tg .tg-two{background-color:#0077BB;color:white;border-color:inherit;text-align:center;vertical-align:top}
-    .tg .tg-three{background-color:#88CCEE;border-color:inherit;text-align:center;vertical-align:top}
-    .tg .tg-four{background-color:#44AA99;color:white;border-color:inherit;text-align:center;vertical-align:top}
-    .tg .tg-five{background-color:#117733;color:white;border-color:inherit;text-align:center;vertical-align:top}
-    .tg .tg-six{background-color:#999933;color:white;border-color:inherit;text-align:center;vertical-align:top}
-    .tg .tg-seven{background-color:#DDCC77;color:white;border-color:inherit;text-align:center;vertical-align:top}
-    .tg .tg-eight{background-color:#EE7733;color:white;border-color:inherit;text-align:center;vertical-align:top}
-    .tg .tg-mcqj{border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
-    .tg .tg-73oq{border-color:#000000;text-align:center;vertical-align:top}
-    .tg .tg-0lax{text-align:center;vertical-align:top}
-    .tg .tg-0pky{border-color:inherit;text-align:center;vertical-align:top}
+    .tg td{border-style:none;padding:5px 5px;text-align:center;vertical-align:middle}
+    .tg .tg-one{background-color:#332288;text-align:center;vertical-align:middle}
+    .tg .tg-two{background-color:#0077BB;text-align:center;vertical-align:middle}
+    .tg .tg-three{background-color:#88CCEE;text-align:center;vertical-align:middle}
+    .tg .tg-four{background-color:#44AA99;text-align:center;vertical-align:middle}
+    .tg .tg-five{background-color:#117733;text-align:center;vertical-align:middle}
+    .tg .tg-six{background-color:#999933;text-align:center;vertical-align:middle}
+    .tg .tg-seven{background-color:#DDCC77;text-align:center;vertical-align:middle}
+    .tg .tg-eight{background-color:#EE7733;text-align:center;vertical-align:middle}
+    .tg .tg-extra{border-color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
     .md-typeset a{color: white}
+    a {
+    color: white;
+    text-shadow:
+        -1px -1px 0 black,
+        1px -1px 0 black,
+        -1px 1px 0 black,
+        1px 1px 0 black;
+    }
 </style>
 <table class="tg">
     <thead>
         <tr>
-            <th class="tg-mcqj" colspan="2" style="color:white;background-color:#CC3311">Monday</th>
-            <th class="tg-mcqj" colspan="2" style="color:white;background-color:#882255">Tuesday</th>
-            <th class="tg-mcqj" colspan="2" style="color:white;background-color:#AA4499">Wednesday</th>
-            <th class="tg-mcqj" colspan="2" style="color:white;background-color:#EE3377">Thursday</th>
-            <th class="tg-mcqj">Session Type</th>
+            <th class="tg-extra" colspan="2" style="color:white;background-color:#CC3311">Monday</th>
+            <th class="tg-extra" colspan="2" style="color:white;background-color:#882255">Tuesday</th>
+            <th class="tg-extra" colspan="2" style="color:white;background-color:#AA4499">Wednesday</th>
+            <th class="tg-extra" colspan="2" style="color:white;background-color:#EE3377">Thursday</th>
+            <th class="tg-extra">Session Type</th>
         </tr>
     </thead>
     <tbody>
@@ -67,34 +69,42 @@ HTML_TABLE_TEMPLATE = """
     </tbody>
 </table>
 """
-
 LEGEND_HTML = """
 <table class="tg">
     <tbody>
-        <tr><td class="tg-one">Chromosphere</td></tr>
-        <tr><td class="tg-two">Corona</td></tr>
-        <tr><td class="tg-three">Flares &amp; Eruptions</td></tr>
-        <tr><td class="tg-four">Global Connections</td></tr>
-        <tr><td class="tg-five">MUSE</td></tr>
-        <tr><td class="tg-six">Future Capabilities</td></tr>
-        <tr><td class="tg-seven">Scene Setting</td></tr>
+        <tr><td class="tg-one" style="color:white;">Chromosphere</td></tr>
+        <tr><td class="tg-two" style="color:white;">Corona</td></tr>
+        <tr><td class="tg-three" style="color:white;">Flares &amp; Eruptions</td></tr>
+        <tr><td class="tg-four" style="color:white;">Global Connections</td></tr>
+        <tr><td class="tg-five" style="color:white;">MUSE</td></tr>
+        <tr><td class="tg-six" style="color:white;">Future Capabilities</td></tr>
     </tbody>
 </table>
 """
 
 HTML_TABLE_ROW_TEMPLATE = """
 <tr>
-    <td class="tg-0pky">{MONDAY_1}</td>
+    <td class="tg">{MONDAY_1}</td>
     <td class="tg-{SESSION_MONDAY}">{MONDAY_URL}</td>
-    <td class="tg-0pky">{TUESDAY_1}</td>
+    <td class="tg">{TUESDAY_1}</td>
     <td class="tg-{SESSION_TUESDAY}">{TUESDAY_URL}</td>
-    <td class="tg-0pky">{WEDNESDAY_1}</td>
+    <td class="tg">{WEDNESDAY_1}</td>
     <td class="tg-{SESSION_WEDNESDAY}">{WEDNESDAY_URL}</td>
-    <td class="tg-0pky">{THURSDAY_1}</td>
+    <td class="tg">{THURSDAY_1}</td>
     <td class="tg-{SESSION_THURSDAY}">{THURSDAY_URL}</td>
     {LEGEND_CELL}
 </tr>
 """
+
+SCENE_SETTING_NAMES = [
+    "Reeves",
+    "Longcope",
+    "Klimchuk",
+    "Rempel",
+    "de la Cruz Rodriguez",
+    "Carlsson",
+    "Downs",
+]
 
 
 def parse_session(row, idx):
@@ -141,17 +151,21 @@ for i, (_, row) in enumerate(rows.iterrows()):
         if title in BREAK_EVENTS or session == "zero":
             cells[f"{day}_URL"] = title
         else:
-            # apply any name fixes
-            for old, new in NAME_REPLACEMENTS.items():
-                title = title.replace(old, new)
+            # Apply any name fixes
+            if title in NAME_REPLACEMENTS:
+                title = NAME_REPLACEMENTS[title]
             anchor = quote(title)
+            # Scene setting special cases
+            if any(name in title for name in SCENE_SETTING_NAMES):
+                title = f"<b>{title}</b>"
+            # Create the URL anchor
             cells[f"{day}_URL"] = (
                 f'<a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#{anchor}">{title}</a>'
             )
     # Only add the legend cell to the first row; rowspan covers the rest
     if i == 0:
         cells["LEGEND_CELL"] = (
-            f'<td class="tg-0pky" rowspan="{row_span}" style="vertical-align:top">{LEGEND_HTML}</td>'
+            f'<td class="tg" rowspan="{row_span}" style="vertical-align:top">{LEGEND_HTML}</td>'
         )
     else:
         cells["LEGEND_CELL"] = ""

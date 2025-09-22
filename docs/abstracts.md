@@ -18,7 +18,7 @@ Accepted Abstracts.
 
 * <p id="Antolin">**Author**: Patrick Antolin <a class="headerlink" href="#Antolin" title="Permanent link">¶</a>
 
-    **When**: Tuesday - 1:20-1:40
+    **When**: Tuesday - 1:40-2:00
 
     **Coauthors**: Samuel Hor, Jamal Wachira
     <details> <summary> <b>Title</b>: Coronal rain as a proxy for coronal heating </summary>
@@ -46,6 +46,17 @@ Accepted Abstracts.
     <details> <summary> <b>Title</b>: Application of a multi-species NLTE modeling framework to a solar flare and interpreting emission spectra. </summary>
       <b>Abstract</b>
       Conventional approaches to constructing numerical models of the solar atmosphere assume a fully equilibrated plasma, wherein all species are in collisional thermal equilibrium amongst themselves and each other. This yields single fluid formulations of the governing evolution equations, such as ideal MHD, or, at best, a treatment that accommodates different electron and ionized hydrogen and helium temperatures. In reality, a comparison between the timescales of observed solar activity and inter-species collisional timescales demonstrates that the former can be significantly shorter than the latter. There are important consequences for the model predicted spectra that are frequently used to deduce the presence of physical processes from observed spectral signatures. For example, the true thermal width of an emission line can be very different to the width predicted by setting the ion temperature equal to the electron temperature (or to the formation temperature of the ion in equilibrium), leading to very misleading interpretations concerning the preferential energization of particular species and the presence of excess broadening due to (e.g.) turbulence. We will present a new multi-species modeling framework to accommodate the NLTE coupling between arbitrary species, including the strongly charged ion populations of relevance to the solar atmosphere, and some recent results from its application to solar flares.
+    </details>
+
+
+* <p id="Brooks">**Author**: David Brooks <a class="headerlink" href="#Brooks" title="Permanent link">¶</a>
+
+    **When**: Thursday - 2:10-2:30
+
+    **Coauthors**: None
+    <details> <summary> <b>Title</b>: Connecting the solar wind to its source regions on the Sun using elemental abundances </summary>
+      <b>Abstract</b>
+      Elemental abundances in the solar wind show variations resulting from the first ionization potential (FIP) effect. This effect is thought to operate in the chromosphere, so modifications to plasma composition occur and are fixed low in the atmosphere in the source regions. This fact enables us to use elemental abundances measured spectroscopically and in-situ in the solar wind as an effective tracer of plasma escaping into the heliosphere. Significant progress in solar-wind connection science has been made in the last 10-15 years through coronal spectroscopy from Hinode/EIS, and chromospheric observations from IRIS. Recently, Solar Orbiter/SPICE has begun to provide plasma composition measurements in the upper transition region and low corona. Here we give an overview of some of our most recent results, focusing on the following developments: 1) evidence for the S-web source of the slow solar wind from Hinode and Solar Orbiter, 2) identification and empirical testing of a multi-instrument (EIS+SPICE) elemental abundance diagnostic, and 3) determination of the drivers of solar wind variability by Solar Orbiter.
     </details>
 
 
@@ -97,7 +108,7 @@ Accepted Abstracts.
 
 * <p id="Cozzo">**Author**: Gabriele Cozzo <a class="headerlink" href="#Cozzo" title="Permanent link">¶</a>
 
-    **When**: Tuesday - 2:00-2:20
+    **When**: Tuesday - 2:20-2:40
 
     **Coauthors**: G. Cozzo, P. Testa, J. Martinez-Sykora, F. Reale, P. Pagano, F. Rappazzo, V. Hansteen, and B. De Pontieu
     <details> <summary> <b>Title</b>: Pinpointing nanoflare‑scale coronal heating through reconnection-outflows spectroscopy </summary>
@@ -108,9 +119,9 @@ Accepted Abstracts.
 
 * <p id="Daldorff">**Author**: Lars Daldorff <a class="headerlink" href="#Daldorff" title="Permanent link">¶</a>
 
-    **When**: Tuesday - 12:00-12:20
+    **When**: Tuesday - 1:20-1:40
 
-    **Coauthors**: Lars K. S. Daldorff (CUA/NASA), Craig D. Johnston (GMU/NASA), James A. Klimcuk (NASA), Shanwlee Sow Modal (CUA/NASA), Will T. Barnes (AU/NASA), James A. Leake (NASA), Jack Reid (St. Andrews/UK), Jacob D. Parker (NASA)
+    **Coauthors**: Craig D. Johnston (GMU/NASA), James A. Klimcuk (NASA), Shanwlee Sow Mondal (CUA/NASA), Will T. Barnes (AU/NASA), James A. Leake (NASA), Jack Reid (St. Andrews/UK), Jacob D. Parker (NASA)
     <details> <summary> <b>Title</b>: Nanoflares and Coronal Heating: The Role of Fine-Scale Magnetic Reconnection </summary>
       <b>Abstract</b>
       Understanding the evolution of active regions requires quantifying their temporal variability, with coronal heating playing an important role in governing the energetics and dynamics of the solar atmosphere. We present ongoing efforts at NASA GSFC to model self-consistent coronal heating mechanisms. Through LaRe3D MHD simulations of Parker-type coronal loop configurations, we reproduce multi-thermal loop systems that offer insight into key observables - such as quasi-circular cross-sections and “apparent” motions in the corona - and allows us to link these features back to the underlying heating processes. While the primary objective of the simulations was to investigate the evolution and heating dynamics of the corona, we have also examined the interaction between the chromosphere and transition region to better understand chromospheric events and how their observables both influence and respond to coronal conditions.
@@ -130,7 +141,7 @@ Accepted Abstracts.
 
 * <p id="De Moortel">**Author**: Ineke De Moortel <a class="headerlink" href="#De%20Moortel%20" title="Permanent link">¶</a>
 
-    **When**: Tuesday - 2:20-2:40
+    **When**: Tuesday - 2:40-3:00
 
     **Coauthors**: C.A. Breu, T.A. Howson
     <details> <summary> <b>Title</b>: Observational signatures of elementary heating mechanisms </summary>
@@ -152,7 +163,7 @@ Accepted Abstracts.
 
 * <p id="Diaz Baso">**Author**: Carlos Diaz Baso <a class="headerlink" href="#Diaz%20Baso" title="Permanent link">¶</a>
 
-    **When**: Thursday - 3:30-3:50
+    **When**: Thursday - 3:50-4:10
 
     **Coauthors**: TBD
     <details> <summary> <b>Title</b>: How machine learning and inversion techniques can advance our understanding of the low solar atmosphere? </summary>
@@ -209,7 +220,7 @@ Accepted Abstracts.
 
 * <p id="Glesener">**Author**: Lindsay Glesener <a class="headerlink" href="#Glesener" title="Permanent link">¶</a>
 
-    **When**: Thursday - 2:10-2:30
+    **When**: Thursday - 2:30-2:50
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Complementing IRIS and MUSE with coordinated hard X-ray observations – how to achieve additional constraints on numerical models </summary>
@@ -285,7 +296,7 @@ Accepted Abstracts.
 
 * <p id="Jaeggli">**Author**: Sarah Jaeggli <a class="headerlink" href="#Jaeggli" title="Permanent link">¶</a>
 
-    **When**: Thursday - 2:30-2:50
+    **When**: Thursday - 2:50-3:10
 
     **Coauthors**: Alexandra Tritschler, Friedrich Woeger, David Boboltz, and the DKIST Science Operations Team
     <details> <summary> <b>Title</b>: Current and Future Capabilities of DKIST, and the Potential for DKIST/IRIS/MUSE Observations </summary>
@@ -441,7 +452,7 @@ Atmosphere </summary>
 
 * <p id="Moreno-Insertis">**Author**: Fernando Moreno-Insertis <a class="headerlink" href="#Moreno-Insertis" title="Permanent link">¶</a>
 
-    **When**: Tuesday - 1:40-2:00
+    **When**: Tuesday - 2:00-2:20
 
     **Coauthors**: Viggo H Hansteen, Daniel Nóbrega-Siverio
     <details> <summary> <b>Title</b>: Exploring magnetic flux cancellation from the solar photosphere to the corona </summary>
