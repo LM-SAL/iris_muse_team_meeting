@@ -235,7 +235,7 @@ Accepted Abstracts.
 
 * <p id="Gosic">**Author**: Milan Gosic <a class="headerlink" href="#Gosic" title="Permanent link">¶</a>
 
-    **When**: Thursday - 9:50-10:10
+    **When**: Wednesday - 3:30-3:50
 
     **Coauthors**: Viggo H. Hansteen, Alberto Sainz Dalda, Bart De Pontieu, Luc Rouppe van der Voort
     <details> <summary> <b>Title</b>: Validating Bifrost models using existing photospheric and chromospheric observations </summary>
@@ -510,7 +510,7 @@ Atmosphere </summary>
 
 * <p id="Przybylski">**Author**: Damien Przybylski <a class="headerlink" href="#Przybylski" title="Permanent link">¶</a>
 
-    **When**: Wednesday - 3:30-3:50
+    **When**: Thursday - 9:50-10:10
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Simulations of the chromosphere with the MURaM code </summary>

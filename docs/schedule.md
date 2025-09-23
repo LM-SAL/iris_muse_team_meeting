@@ -103,7 +103,7 @@
     <td class="tg">9:50-10:10</td>
     <td class="tg-two"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#N%C3%B3brega-Siverio">Nóbrega-Siverio</a></td>
     <td class="tg">9:50-10:10</td>
-    <td class="tg-one"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Gosic">Gosic</a></td>
+    <td class="tg-one"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Przybylski">Przybylski</a></td>
 
 </tr>
 
@@ -322,7 +322,7 @@
     <td class="tg">3:30-3:50</td>
     <td class="tg-two"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Imada">Imada</a></td>
     <td class="tg">3:30-3:50</td>
-    <td class="tg-one"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Przybylski">Przybylski</a></td>
+    <td class="tg-one"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Gosic">Gosic</a></td>
     <td class="tg">3:40-4:00</td>
     <td class="tg-six"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Kankelborg">Kankelborg</a></td>
 
