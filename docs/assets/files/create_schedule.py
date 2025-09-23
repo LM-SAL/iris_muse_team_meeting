@@ -34,7 +34,8 @@ DAY_CONFIG = [
 ]
 HTML_TABLE_TEMPLATE = """
 <style type="text/css">
-    .tg td{border-style:none;padding:5px 5px;text-align:center;vertical-align:middle}
+    .tg {font-family:Tahoma, sans-serif;border-collapse:collapse;border-spacing:0;}
+    .tg td{border-style:none;padding:3px 3px;text-align:center;vertical-align:middle}
     .tg .tg-one{background-color:#332288;text-align:center;vertical-align:middle}
     .tg .tg-two{background-color:#0077BB;text-align:center;vertical-align:middle}
     .tg .tg-three{background-color:#88CCEE;text-align:center;vertical-align:middle}
@@ -43,9 +44,10 @@ HTML_TABLE_TEMPLATE = """
     .tg .tg-six{background-color:#999933;text-align:center;vertical-align:middle}
     .tg .tg-seven{background-color:#DDCC77;text-align:center;vertical-align:middle}
     .tg .tg-eight{background-color:#EE7733;text-align:center;vertical-align:middle}
+    .tg .tg-nine{border-style: double; border-width: thick;border-color: dimgrey;}
     .tg .tg-extra{border-color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
     .md-typeset a{color: white}
-    a {
+    .tg a {
     color: white;
     text-shadow:
         -1px -1px 0 black,
@@ -73,11 +75,17 @@ LEGEND_HTML = """
 <table class="tg">
     <tbody>
         <tr><td class="tg-one" style="color:white;">Chromosphere</td></tr>
+        <tr><td class="tg-one" style="color:white;">Wednesday 12:05 <br> Thursday 11:20</td></tr>
         <tr><td class="tg-two" style="color:white;">Corona</td></tr>
+        <tr><td class="tg-two" style="color:white;">Tuesday 11:50 <br> Wednesday 12:05</td></tr>
         <tr><td class="tg-three" style="color:white;">Flares &amp; Eruptions</td></tr>
+        <tr><td class="tg-three" style="color:white;">Monday 11:45 <br> Tuesday 11:50</td></tr>
         <tr><td class="tg-four" style="color:white;">Global Connections</td></tr>
+        <tr><td class="tg-four" style="color:white;">Thursday 11:20 <br> Thursday 14:30</td></tr>
         <tr><td class="tg-five" style="color:white;">MUSE</td></tr>
+        <tr><td class="tg-five" style="color:white;">Monday 9:15 <br> Monday 11:45</td></tr>
         <tr><td class="tg-six" style="color:white;">Future Capabilities</td></tr>
+        <tr><td class="tg-six" style="color:white;">Thursday 14:30 <br> Thursday 16:20</td></tr>
     </tbody>
 </table>
 """
@@ -137,17 +145,31 @@ df = pd.read_excel(Path(FILE_PATH).expanduser().resolve())
 df = df.fillna("")
 html_rows = []
 
-rows = df.iloc[1:]
+rows = df.iloc[0:]
 row_span = len(rows)
-
 for i, (_, row) in enumerate(rows.iterrows()):
     cells = {}
     for day, base, css in DAY_CONFIG:
-        cells[f"{day}_1"] = row.iloc[base]
+        cells[f"{day}_1"] = (
+            row.iloc[base].strftime("%H:%M")
+            if row.iloc[base] not in ("", "Chair")
+            else row.iloc[base]
+        )
         cells[f"{day}_2"] = row.iloc[base + 1]
-        session = parse_session(row, base + 2)
-        cells[f"SESSION_{day}"] = session
         title = str(row.iloc[base + 1])
+        session = parse_session(row, base + 2)
+        session_mod = None
+        # Scene setting special cases
+        if any(name in title for name in SCENE_SETTING_NAMES):
+            if title == "Rempel" and row.iloc[base].strftime("%H:%M") == "15:25":
+                pass
+            elif title == "Reeves" and row.iloc[base] == "":
+                pass
+            else:
+                session_mod = "nine"
+        if session_mod:
+            session = session + f" tg-{session_mod}"
+        cells[f"SESSION_{day}"] = session
         if title in BREAK_EVENTS or session == "zero":
             cells[f"{day}_URL"] = title
         else:
@@ -155,12 +177,6 @@ for i, (_, row) in enumerate(rows.iterrows()):
             if title in NAME_REPLACEMENTS:
                 title = NAME_REPLACEMENTS[title]
             anchor = quote(title)
-            # Scene setting special cases
-            if any(name in title for name in SCENE_SETTING_NAMES):
-                if title == "Rempel" and row.iloc[base] == "3:25-3:45":
-                    title = "Rempel"
-                else:
-                    title = f"<b>{title}</b>"
             # Create the URL anchor
             cells[f"{day}_URL"] = (
                 f'<a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#{anchor}">{title}</a>'
@@ -172,7 +188,6 @@ for i, (_, row) in enumerate(rows.iterrows()):
         )
     else:
         cells["LEGEND_CELL"] = ""
-
     html_rows.append(HTML_TABLE_ROW_TEMPLATE.format(**cells))
 
 html_table = HTML_TABLE_TEMPLATE.replace("{BODY}", "\n".join(html_rows))
