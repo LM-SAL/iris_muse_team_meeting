@@ -43,7 +43,7 @@
     <td class="tg-zero">Cozzo</td>
     <td class="tg"></td>
     <td class="tg-zero">Stangalini</td>
-    <td class="tg" rowspan="29" style="vertical-align:top">
+    <td class="tg" rowspan="30" style="vertical-align:top">
 <table class="tg">
     <tbody>
         <tr><td class="tg-five" style="color:white;">MUSE</td></tr>
@@ -416,12 +416,25 @@
 
 
 <tr>
-    <td class="tg">18:00</td>
+    <td class="tg">17:00</td>
     <td class="tg-eight">Reception</td>
     <td class="tg"></td>
     <td class="tg-zero"></td>
     <td class="tg">18:30</td>
     <td class="tg-eight">Social Dinner</td>
+    <td class="tg"></td>
+    <td class="tg-zero"></td>
+
+</tr>
+
+
+<tr>
+    <td class="tg">19:00</td>
+    <td class="tg-eight">End</td>
+    <td class="tg"></td>
+    <td class="tg-zero"></td>
+    <td class="tg">21:30</td>
+    <td class="tg-eight">End</td>
     <td class="tg"></td>
     <td class="tg-zero"></td>
 

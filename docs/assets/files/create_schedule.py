@@ -21,6 +21,7 @@ BREAK_EVENTS = {
     "Reception",
     "Close out",
     "Chair",
+    "End",
 }
 NAME_REPLACEMENTS = {
     "Kumar Srivastava": "Srivastava",
