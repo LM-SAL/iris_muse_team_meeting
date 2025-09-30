@@ -519,17 +519,6 @@ Atmosphere </summary>
     </details>
 
 
-* <p id="Rappazzo">**Author**: A. Franco Rappazzo <a class="headerlink" href="#Rappazzo" title="Permanent link">¶</a>
-
-    **When**: Tuesday - 16:30:00
-
-    **Coauthors**: Pagano, P., Reale, F., and Cozzo, G.
-    <details> <summary> <b>Title</b>: Fast Magnetic Reconnection and the Heating of Coronal Loops </summary>
-      <b>Abstract</b>
-      Magnetic reconnection is a fundamental physical process that dissipates magnetic energy converting it into heat, kinetic and nonthermal particle energy, and plays a crucial role in solar and heliospheric plasma heating, including the heating of the magnetically confined corona. Previous simulations of Parker model for coronal heating have shown the formation of current sheets in a turbulent fashion, with their thickness thinning at least exponentially in time. Current sheets thinning is a common phenomenon in MHD turbulence, and it occurs also whenever turbulence is excited, e.g., in the nonlinear stage of an instability. In recent years theory and simulations have shown that magnetic reconnection developing at high Lundquist number in exponentially thinning current sheets strongly departs from the Sweet-Parker model, with the plasmoid instability giving rise to the hierarchical formation of secondary islands and a fast reconnection rate, independent from the Lundquist number. We have carried out numerical simulations to assess current sheets thinning rate in configurations of interest to coronal loops, and the related development of magnetic reconnection. Heating rates derived from these simulations will subsequently be used to determine the loop radiative emission of interest for spectroscopic observations, e.g., Hinode/EIS and MUSE.
-    </details>
-
-
 * <p id="Reale">**Author**: Fabio Reale <a class="headerlink" href="#Reale" title="Permanent link">¶</a>
 
     **When**: Wednesday - 09:30:00
@@ -543,7 +532,7 @@ Atmosphere </summary>
 
 * <p id="Reeves">**Author**: Kathy Reeves <a class="headerlink" href="#Reeves" title="Permanent link">¶</a>
 
-    **When**: Monday - 11:45:00
+    **When**: Monday - 11:35:00
 
     **Coauthors**: Xiaocan Li, Chengcai Shen, Xiaoyan Xie
     <details> <summary> <b>Title</b>: How can MUSE and IRIS observations of solar flares be used to constrain models? </summary>

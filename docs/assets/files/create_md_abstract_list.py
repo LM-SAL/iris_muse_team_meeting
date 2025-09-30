@@ -2,7 +2,7 @@ import pandas as pd
 from pathlib import Path
 from urllib.parse import quote
 
-FILE_PATH = "~/Downloads/Abstract submission form (Responses) - Form Responses 1.csv"
+FILE_PATH = "~/Dropbox/Abstract submission form (Responses) - Form Responses 1.csv"
 abstracts = pd.read_csv(Path(FILE_PATH).expanduser().resolve())
 abstracts = abstracts.rename(
     columns={

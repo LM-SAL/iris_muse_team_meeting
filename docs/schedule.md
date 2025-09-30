@@ -195,7 +195,7 @@
 
 
 <tr>
-    <td class="tg">11:45</td>
+    <td class="tg">11:35</td>
     <td class="tg-three tg-nine"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Reeves">Reeves</a></td>
     <td class="tg">11:30</td>
     <td class="tg-three"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Chintzoglou">Chintzoglou</a></td>
@@ -380,7 +380,7 @@
     <td class="tg">16:25</td>
     <td class="tg-zero">Discussion</td>
     <td class="tg">16:30</td>
-    <td class="tg-two"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Rappazzo">Rappazzo</a></td>
+    <td class="tg-zero">Discussion</td>
     <td class="tg"></td>
     <td class="tg-zero"></td>
     <td class="tg"></td>
@@ -392,8 +392,8 @@
 <tr>
     <td class="tg"></td>
     <td class="tg-zero"></td>
-    <td class="tg">16:50</td>
-    <td class="tg-zero">Discussion</td>
+    <td class="tg"></td>
+    <td class="tg-zero"></td>
     <td class="tg"></td>
     <td class="tg-zero"></td>
     <td class="tg"></td>

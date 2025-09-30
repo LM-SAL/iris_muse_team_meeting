@@ -8,7 +8,7 @@ p = inflect.engine()
 
 # WARNING is all hardcoded to the sheet given to me.
 # If that layout changes, this code will break
-FILE_PATH = "~/Downloads/draft_MUSE_IRIS_meeting_Oct2025.xlsx"
+FILE_PATH = "~/Dropbox/draft_MUSE_IRIS_meeting_Oct2025.xlsx"
 OUTPUT_FILE = Path(__file__).parent.parent.parent / "schedule.md"
 ABSTRACT_FILE = Path(__file__).parent.parent.parent / "abstracts.md"
 COL_OFFSETS = [1, 4, 7, 10]
