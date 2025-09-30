@@ -352,7 +352,7 @@
 
 <tr>
     <td class="tg">15:45</td>
-    <td class="tg-three tg-nine"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Rempel">Rempel</a></td>
+    <td class="tg-three"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Rempel">Rempel</a></td>
     <td class="tg">15:50</td>
     <td class="tg-two"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Imada">Imada</a></td>
     <td class="tg">16:00</td>

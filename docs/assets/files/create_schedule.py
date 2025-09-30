@@ -162,7 +162,7 @@ for i, (_, row) in enumerate(rows.iterrows()):
         session_mod = None
         # Scene setting special cases
         if any(name in title for name in SCENE_SETTING_NAMES):
-            if title == "Rempel" and row.iloc[base].strftime("%H:%M") == "15:25":
+            if title == "Rempel" and row.iloc[base].strftime("%H:%M") == "15:45":
                 pass
             elif title == "Reeves" and row.iloc[base] == "":
                 pass
