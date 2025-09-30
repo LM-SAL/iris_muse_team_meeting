@@ -532,7 +532,7 @@ Atmosphere </summary>
 
 * <p id="Reeves">**Author**: Kathy Reeves <a class="headerlink" href="#Reeves" title="Permanent link">¶</a>
 
-    **When**: Monday - 11:35:00
+    **When**: Monday - 11:55:00
 
     **Coauthors**: Xiaocan Li, Chengcai Shen, Xiaoyan Xie
     <details> <summary> <b>Title</b>: How can MUSE and IRIS observations of solar flares be used to constrain models? </summary>
