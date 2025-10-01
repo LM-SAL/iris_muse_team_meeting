@@ -163,7 +163,7 @@ Accepted Abstracts.
 
 * <p id="Diaz Baso">**Author**: Carlos Diaz Baso <a class="headerlink" href="#Diaz%20Baso" title="Permanent link">¶</a>
 
-    **When**: Thursday - 16:20:00
+    **When**: Thursday - 15:50:00
 
     **Coauthors**: TBD
     <details> <summary> <b>Title</b>: How machine learning and inversion techniques can advance our understanding of the low solar atmosphere? </summary>
@@ -296,7 +296,7 @@ Accepted Abstracts.
 
 * <p id="Jaeggli">**Author**: Sarah Jaeggli <a class="headerlink" href="#Jaeggli" title="Permanent link">¶</a>
 
-    **When**: Thursday - 16:00:00
+    **When**: Thursday - 15:30:00
 
     **Coauthors**: Alexandra Tritschler, Friedrich Woeger, David Boboltz, and the DKIST Science Operations Team
     <details> <summary> <b>Title</b>: Current and Future Capabilities of DKIST, and the Potential for DKIST/IRIS/MUSE Observations </summary>
