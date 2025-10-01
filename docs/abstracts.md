@@ -49,17 +49,6 @@ Accepted Abstracts.
     </details>
 
 
-* <p id="Brooks">**Author**: David Brooks <a class="headerlink" href="#Brooks" title="Permanent link">¶</a>
-
-    **When**: Thursday - 14:20:00
-
-    **Coauthors**: None
-    <details> <summary> <b>Title</b>: Connecting the solar wind to its source regions on the Sun using elemental abundances </summary>
-      <b>Abstract</b>
-      Elemental abundances in the solar wind show variations resulting from the first ionization potential (FIP) effect. This effect is thought to operate in the chromosphere, so modifications to plasma composition occur and are fixed low in the atmosphere in the source regions. This fact enables us to use elemental abundances measured spectroscopically and in-situ in the solar wind as an effective tracer of plasma escaping into the heliosphere. Significant progress in solar-wind connection science has been made in the last 10-15 years through coronal spectroscopy from Hinode/EIS, and chromospheric observations from IRIS. Recently, Solar Orbiter/SPICE has begun to provide plasma composition measurements in the upper transition region and low corona. Here we give an overview of some of our most recent results, focusing on the following developments: 1) evidence for the S-web source of the slow solar wind from Hinode and Solar Orbiter, 2) identification and empirical testing of a multi-instrument (EIS+SPICE) elemental abundance diagnostic, and 3) determination of the drivers of solar wind variability by Solar Orbiter.
-    </details>
-
-
 * <p id="Carlsson">**Author**: Mats Carlsson <a class="headerlink" href="#Carlsson" title="Permanent link">¶</a>
 
     **When**: Thursday - 09:00:00
@@ -163,7 +152,7 @@ Accepted Abstracts.
 
 * <p id="Diaz Baso">**Author**: Carlos Diaz Baso <a class="headerlink" href="#Diaz%20Baso" title="Permanent link">¶</a>
 
-    **When**: Thursday - 15:50:00
+    **When**: Thursday - 15:20:00
 
     **Coauthors**: TBD
     <details> <summary> <b>Title</b>: How machine learning and inversion techniques can advance our understanding of the low solar atmosphere? </summary>
@@ -220,7 +209,7 @@ Accepted Abstracts.
 
 * <p id="Glesener">**Author**: Lindsay Glesener <a class="headerlink" href="#Glesener" title="Permanent link">¶</a>
 
-    **When**: Thursday - 14:40:00
+    **When**: Thursday - 14:20:00
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Complementing IRIS and MUSE with coordinated hard X-ray observations – how to achieve additional constraints on numerical models </summary>
@@ -296,7 +285,7 @@ Accepted Abstracts.
 
 * <p id="Jaeggli">**Author**: Sarah Jaeggli <a class="headerlink" href="#Jaeggli" title="Permanent link">¶</a>
 
-    **When**: Thursday - 15:30:00
+    **When**: Thursday - 15:00:00
 
     **Coauthors**: Alexandra Tritschler, Friedrich Woeger, David Boboltz, and the DKIST Science Operations Team
     <details> <summary> <b>Title</b>: Current and Future Capabilities of DKIST, and the Potential for DKIST/IRIS/MUSE Observations </summary>
