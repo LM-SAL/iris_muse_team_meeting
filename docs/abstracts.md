@@ -51,7 +51,7 @@ Accepted Abstracts.
 
 * <p id="Brooks">**Author**: David Brooks <a class="headerlink" href="#Brooks" title="Permanent link">¶</a>
 
-    **When**: Thursday - 14:10:00
+    **When**: Thursday - 14:50:00
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Connecting the solar wind to its source regions on the Sun using elemental abundances </summary>
@@ -108,7 +108,7 @@ Accepted Abstracts.
 
 * <p id="Cozzo">**Author**: Gabriele Cozzo <a class="headerlink" href="#Cozzo" title="Permanent link">¶</a>
 
-    **When**: Tuesday - 14:40:00
+    **When**: Tuesday - 15:30:00
 
     **Coauthors**: G. Cozzo, P. Testa, J. Martinez-Sykora, F. Reale, P. Pagano, F. Rappazzo, V. Hansteen, and B. De Pontieu
     <details> <summary> <b>Title</b>: Pinpointing nanoflare‑scale coronal heating through reconnection-outflows spectroscopy </summary>
@@ -141,7 +141,7 @@ Accepted Abstracts.
 
 * <p id="De Moortel">**Author**: Ineke De Moortel <a class="headerlink" href="#De%20Moortel%20" title="Permanent link">¶</a>
 
-    **When**: Tuesday - 15:30:00
+    **When**: Tuesday - 14:40:00
 
     **Coauthors**: C.A. Breu, T.A. Howson
     <details> <summary> <b>Title</b>: Observational signatures of elementary heating mechanisms </summary>
@@ -163,7 +163,7 @@ Accepted Abstracts.
 
 * <p id="Diaz Baso">**Author**: Carlos Diaz Baso <a class="headerlink" href="#Diaz%20Baso" title="Permanent link">¶</a>
 
-    **When**: Thursday - 15:30:00
+    **When**: Thursday - 16:10:00
 
     **Coauthors**: TBD
     <details> <summary> <b>Title</b>: How machine learning and inversion techniques can advance our understanding of the low solar atmosphere? </summary>
@@ -174,7 +174,7 @@ Accepted Abstracts.
 
 * <p id="Downs">**Author**: Cooper Downs <a class="headerlink" href="#Downs" title="Permanent link">¶</a>
 
-    **When**: Thursday - 11:20:00
+    **When**: Thursday - 11:50:00
 
     **Coauthors**: Tibor Török, Viacheslav S. Titov, Jon A. Linker
     <details> <summary> <b>Title</b>: Studying Solar Eruptions Through the Lens of Global Coronal Modeling and Observations </summary>
@@ -220,7 +220,7 @@ Accepted Abstracts.
 
 * <p id="Glesener">**Author**: Lindsay Glesener <a class="headerlink" href="#Glesener" title="Permanent link">¶</a>
 
-    **When**: Thursday - 14:30:00
+    **When**: Thursday - 15:10:00
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Complementing IRIS and MUSE with coordinated hard X-ray observations – how to achieve additional constraints on numerical models </summary>
@@ -235,7 +235,7 @@ Accepted Abstracts.
 
 * <p id="Gosic">**Author**: Milan Gosic <a class="headerlink" href="#Gosic" title="Permanent link">¶</a>
 
-    **When**: Wednesday - 16:00:00
+    **When**: Thursday - 10:10:00
 
     **Coauthors**: Viggo H. Hansteen, Alberto Sainz Dalda, Bart De Pontieu, Luc Rouppe van der Voort
     <details> <summary> <b>Title</b>: Validating Bifrost models using existing photospheric and chromospheric observations </summary>
@@ -246,7 +246,7 @@ Accepted Abstracts.
 
 * <p id="Guglielmino">**Author**: Salvo Guglielmino <a class="headerlink" href="#Guglielmino" title="Permanent link">¶</a>
 
-    **When**: Thursday - 11:00:00
+    **When**: Thursday - 11:20:00
 
     **Coauthors**: Fabiana Ferrente, Daniele Spadaro, Paolo Romano
     <details> <summary> <b>Title</b>: Multi-wavelength Observational Constraints of Energy Release from the Photosphere to the Corona </summary>
@@ -296,7 +296,7 @@ Accepted Abstracts.
 
 * <p id="Jaeggli">**Author**: Sarah Jaeggli <a class="headerlink" href="#Jaeggli" title="Permanent link">¶</a>
 
-    **When**: Thursday - 14:50:00
+    **When**: Thursday - 15:50:00
 
     **Coauthors**: Alexandra Tritschler, Friedrich Woeger, David Boboltz, and the DKIST Science Operations Team
     <details> <summary> <b>Title</b>: Current and Future Capabilities of DKIST, and the Potential for DKIST/IRIS/MUSE Observations </summary>
@@ -307,7 +307,7 @@ Accepted Abstracts.
 
 * <p id="Jin">**Author**: Meng Jin <a class="headerlink" href="#Jin" title="Permanent link">¶</a>
 
-    **When**: Thursday - 13:30:00
+    **When**: Thursday - 14:00:00
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Recent Advances and Ongoing Challenges in Global MHD Modeling of Coronal Mass Ejections and Their Space Weather Impacts </summary>
@@ -329,7 +329,7 @@ Accepted Abstracts.
 
 * <p id="Joshi">**Author**: Jayant Joshi <a class="headerlink" href="#Joshi" title="Permanent link">¶</a>
 
-    **When**: Thursday - 10:10:00
+    **When**: Thursday - 11:00:00
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Quiet-Sun Ellerman Bombs and Their Impact on the Upper Solar
@@ -464,7 +464,7 @@ Atmosphere </summary>
 
 * <p id="Nordlund">**Author**: Åke Nordlund <a class="headerlink" href="#Nordlund" title="Permanent link">¶</a>
 
-    **When**: Thursday - 11:50:00
+    **When**: Thursday - 12:20:00
 
     **Coauthors**: Andrius Popovas, Mikolaj Szydlarski
     <details> <summary> <b>Title</b>: Overview of Whole-Sun modeling project, including DISPATCH </summary>
@@ -598,7 +598,7 @@ Atmosphere </summary>
 
 * <p id="Shi">**Author**: Tong Shi <a class="headerlink" href="#Shi" title="Permanent link">¶</a>
 
-    **When**: Thursday - 13:50:00
+    **When**: Thursday - 14:20:00
 
     **Coauthors**: Meng Jin, Juan Martinez Sykora
     <details> <summary> <b>Title</b>: MUSE synthesis with AWSoM global CME simulations </summary>
@@ -609,7 +609,7 @@ Atmosphere </summary>
 
 * <p id="Srivastava">**Author**: Abhishekh Kumar Srivastava <a class="headerlink" href="#Srivastava" title="Permanent link">¶</a>
 
-    **When**: Wednesday - 11:50:00
+    **When**: Wednesday - 11:40:00
 
     **Coauthors**: Eric R. Priest, Sripan Mondal, David I. Pontin
     <details> <summary> <b>Title</b>: Overview of the Symbiosis of Waves and Reconnection as a Source for Coronal Heating </summary>
@@ -620,7 +620,7 @@ Atmosphere </summary>
 
 * <p id="Stangalini">**Author**: Marco Stangalini <a class="headerlink" href="#Stangalini" title="Permanent link">¶</a>
 
-    **When**: Wednesday - 16:20:00
+    **When**: Wednesday - 16:00:00
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Observational aspects of MHD waves linked to FIP </summary>
@@ -664,7 +664,7 @@ Atmosphere </summary>
 
 * <p id="Tripathi">**Author**: Durgesh Tripathi <a class="headerlink" href="#Tripathi" title="Permanent link">¶</a>
 
-    **When**: Wednesday - 12:10:00
+    **When**: Wednesday - 12:00:00
 
     **Coauthors**: A. N. Ramaprakash, Sreejith, P. and SUIT Team
     <details> <summary> <b>Title</b>: Bridging Layers of the Sun: Coordinated Observations with SUIT and MUSE </summary>
@@ -675,7 +675,7 @@ Atmosphere </summary>
 
 * <p id="Upendran">**Author**: Vishal Upendran <a class="headerlink" href="#Upendran" title="Permanent link">¶</a>
 
-    **When**: Thursday - 12:10:00
+    **When**: Thursday - 13:40:00
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Constraining solar wind sources with AI </summary>
@@ -686,7 +686,7 @@ Atmosphere </summary>
 
 * <p id="de la Cruz Rodriguez">**Author**: Jaime de la Cruz Rodriguez <a class="headerlink" href="#de%20la%20Cruz%20Rodriguez" title="Permanent link">¶</a>
 
-    **When**: Wednesday - 13:30:00
+    **When**: Wednesday - 13:20:00
 
     **Coauthors**: J. Leenaarts, A. Pastor Yabar, A. Sukhorukov
     <details> <summary> <b>Title</b>: Setting constraints on Chromospheric heating through NLTE inversions of observations </summary>
