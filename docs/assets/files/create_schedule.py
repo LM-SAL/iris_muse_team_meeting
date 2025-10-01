@@ -76,17 +76,18 @@ LEGEND_HTML = """
 <table class="tg">
     <tbody>
         <tr><td class="tg-five" style="color:white;">MUSE</td></tr>
-        <tr><td class="tg-five" style="color:white;">Monday 9:10 </td></tr>
+        <tr><td class="tg-five" style="color:white;">Monday 9:10</td></tr>
         <tr><td class="tg-three" style="color:white;">Flares &amp; Eruptions</td></tr>
-        <tr><td class="tg-three" style="color:white;">Monday 11:45 <br> Tuesday 09:00</td></tr>
+        <tr><td class="tg-three" style="color:white;">Monday 11:45</td></tr>
         <tr><td class="tg-two" style="color:white;">Corona</td></tr>
-        <tr><td class="tg-two" style="color:white;">Tuesday 11:50 <br> Wednesday 09:00</td></tr>
+        <tr><td class="tg-two" style="color:white;">Tuesday 11:50</td></tr>
         <tr><td class="tg-one" style="color:white;">Chromosphere</td></tr>
-        <tr><td class="tg-one" style="color:white;">Wednesday 11:50 <br> Thursday 09:00</td></tr>
+        <tr><td class="tg-one" style="color:white;">Wednesday 11:50</td></tr>
         <tr><td class="tg-four" style="color:white;">Global Connections</td></tr>
         <tr><td class="tg-four" style="color:white;">Thursday 11:20</td></tr>
         <tr><td class="tg-six" style="color:white;">Future Capabilities</td></tr>
         <tr><td class="tg-six" style="color:white;">Thursday 14:30</td></tr>
+        <tr><td class="tg-nine" style="color:Black;">Scene Setting Talks</td></tr>
     </tbody>
 </table>
 """

@@ -51,7 +51,7 @@ Accepted Abstracts.
 
 * <p id="Brooks">**Author**: David Brooks <a class="headerlink" href="#Brooks" title="Permanent link">¶</a>
 
-    **When**: Thursday - 14:50:00
+    **When**: Thursday - 14:20:00
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Connecting the solar wind to its source regions on the Sun using elemental abundances </summary>
@@ -163,7 +163,7 @@ Accepted Abstracts.
 
 * <p id="Diaz Baso">**Author**: Carlos Diaz Baso <a class="headerlink" href="#Diaz%20Baso" title="Permanent link">¶</a>
 
-    **When**: Thursday - 16:10:00
+    **When**: Thursday - 16:20:00
 
     **Coauthors**: TBD
     <details> <summary> <b>Title</b>: How machine learning and inversion techniques can advance our understanding of the low solar atmosphere? </summary>
@@ -174,7 +174,7 @@ Accepted Abstracts.
 
 * <p id="Downs">**Author**: Cooper Downs <a class="headerlink" href="#Downs" title="Permanent link">¶</a>
 
-    **When**: Thursday - 11:50:00
+    **When**: Thursday - 11:40:00
 
     **Coauthors**: Tibor Török, Viacheslav S. Titov, Jon A. Linker
     <details> <summary> <b>Title</b>: Studying Solar Eruptions Through the Lens of Global Coronal Modeling and Observations </summary>
@@ -220,7 +220,7 @@ Accepted Abstracts.
 
 * <p id="Glesener">**Author**: Lindsay Glesener <a class="headerlink" href="#Glesener" title="Permanent link">¶</a>
 
-    **When**: Thursday - 15:10:00
+    **When**: Thursday - 14:40:00
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Complementing IRIS and MUSE with coordinated hard X-ray observations – how to achieve additional constraints on numerical models </summary>
@@ -296,7 +296,7 @@ Accepted Abstracts.
 
 * <p id="Jaeggli">**Author**: Sarah Jaeggli <a class="headerlink" href="#Jaeggli" title="Permanent link">¶</a>
 
-    **When**: Thursday - 15:50:00
+    **When**: Thursday - 16:00:00
 
     **Coauthors**: Alexandra Tritschler, Friedrich Woeger, David Boboltz, and the DKIST Science Operations Team
     <details> <summary> <b>Title</b>: Current and Future Capabilities of DKIST, and the Potential for DKIST/IRIS/MUSE Observations </summary>
@@ -307,7 +307,7 @@ Accepted Abstracts.
 
 * <p id="Jin">**Author**: Meng Jin <a class="headerlink" href="#Jin" title="Permanent link">¶</a>
 
-    **When**: Thursday - 14:00:00
+    **When**: Thursday - 13:40:00
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Recent Advances and Ongoing Challenges in Global MHD Modeling of Coronal Mass Ejections and Their Space Weather Impacts </summary>
@@ -464,7 +464,7 @@ Atmosphere </summary>
 
 * <p id="Nordlund">**Author**: Åke Nordlund <a class="headerlink" href="#Nordlund" title="Permanent link">¶</a>
 
-    **When**: Thursday - 12:20:00
+    **When**: Thursday - 12:00:00
 
     **Coauthors**: Andrius Popovas, Mikolaj Szydlarski
     <details> <summary> <b>Title</b>: Overview of Whole-Sun modeling project, including DISPATCH </summary>
@@ -598,7 +598,7 @@ Atmosphere </summary>
 
 * <p id="Shi">**Author**: Tong Shi <a class="headerlink" href="#Shi" title="Permanent link">¶</a>
 
-    **When**: Thursday - 14:20:00
+    **When**: Thursday - 14:00:00
 
     **Coauthors**: Meng Jin, Juan Martinez Sykora
     <details> <summary> <b>Title</b>: MUSE synthesis with AWSoM global CME simulations </summary>
@@ -675,7 +675,7 @@ Atmosphere </summary>
 
 * <p id="Upendran">**Author**: Vishal Upendran <a class="headerlink" href="#Upendran" title="Permanent link">¶</a>
 
-    **When**: Thursday - 13:40:00
+    **When**: Thursday - 13:20:00
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Constraining solar wind sources with AI </summary>
