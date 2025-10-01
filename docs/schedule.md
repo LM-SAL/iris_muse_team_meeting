@@ -372,7 +372,7 @@
     <td class="tg">16:20</td>
     <td class="tg-zero">Discussion</td>
     <td class="tg">16:10</td>
-    <td class="tg-zero">Close out</td>
+    <td class="tg-zero">Discussion</td>
 
 </tr>
 
