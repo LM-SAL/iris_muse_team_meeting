@@ -172,6 +172,17 @@ Accepted Abstracts.
     </details>
 
 
+* <p id="Entzel">**Author**: Christopher Entzel <a class="headerlink" href="#Entzel" title="Permanent link">¶</a>
+
+    **When**: Monday - 11:35:00
+
+    **Coauthors**: Charles Kankelborg
+    <details> <summary> <b>Title</b>: The Active Sun Irradiance Observer (ASIO) </summary>
+      <b>Abstract</b>
+      Solar flares are the most energetic events in the solar system, and while they are well-studied, the behavior of flaring plasmas on shorter time scales remains poorly understood. Limitations in current instrument cadences prevent experimentalists from observing the more dynamic properties of solar flares. ASIO, the Active Sun Irradiance Observer, will sample at an unprecedented cadence of 100 Hz, offering unique observational opportunities. ASIO is a radiometer measuring short-wavelength irradiance in its three spectral passbands of 0.5-4 Å, 1-8 Å, and 2-16 Å. It also uses a quadrant photodiode configuration to give ASIO direction sensitivity with a modeled precision greater than 40″ for each 0.01s measurement, or greater than 4″ for second averages. This instrument will investigate the existence of short-wavelength, sub-second quasi-periodic pulsations (QPPs) and attempt to observe associated rapid oscillations in SXR bright points. The engineering model has been tested, and the flight model is in production. ASIO is scheduled for delivery to the Lockheed Martin Solar and Astrophysics Laboratory (LMSAL) in Spring 2026 and will be launched as a part of the Multi-slit Solar Explorer (MUSE) mission in 2027.
+    </details>
+
+
 * <p id="Fan">**Author**: Yuhong Fan <a class="headerlink" href="#Fan" title="Permanent link">¶</a>
 
     **When**: Monday - 13:25:00
@@ -534,10 +545,10 @@ Atmosphere </summary>
 
     **When**: Wednesday - 09:00:00
 
-    **Coauthors**: None
-    <details> <summary> <b>Title</b>: 3D radiation MHD models of quiescent active regions </summary>
+    **Coauthors**: J. Martinez-Sykora, A. Winebarger, M.C.M. Cheung, P. Testa, B. De Pontieu, V. Hansteen, C. Johnston, V. Polito, C. Cozzo & V. Upendran
+    <details> <summary> <b>Title</b>: 3D simulations of solar flares with improved treatment of the transition region </summary>
       <b>Abstract</b>
-      In this talk I provide an overview of 3D radiation MHD models of quiescent active regions. These models span in vertical extent from upper convection zone into the lower corona. Resolved magneto-convection in the photosphere self-consistently creates the Poynting flux that transports energy into the corona, however, the heating itself is entirely due to numerical dissipation (either explicit or implicit). While various types of waves are present in these models, heating appears to be dominated by braiding. Currently these models come in two flavors: simulations of entire active regions with moderate resolution and “straightened loop” models that focus on a small non-expanding loop with much higher resolution. Interestingly both types of setups do maintain a corona, suggesting that both macro (scales large than granulation) and micro (scale of granulation and smaller) braiding can provide a sufficient energy flux, ultimately models that combine the full range of scale are needed to address how the energy input into the corona is distributed over the full range of scales. Models of entire active regions do systematically underestimate non-thermal line widths, likely due to lack of sufficient resolution. There are moderate trends that show an increase in the non-thermal linewidth with resolution or reduced viscosity, suggesting that grid spacings of less than 10km would be required. This is supported by loop models that show with 12km grid spacing non-thermal line widths almost compatible with observational constraints. Full active region models with a sufficient resolution (<10km) and a range of scales (sub granular to super granular) to capture the energy transport and associated velocity dynamics should be achievable (although still expensive) within the coming decade.
+      We compared existing MURaM M and X-flare simulations to large database of flares observed with AIA. It was found that the flare simulations systematically overestimate AIA counts for the cooler channels (171) forming in the transition region by 2-3 orders of magnitude, while the hotter emission (94) was less affected. The root cause for this discrepancy was an overestimation of the transition region width due to insufficient resolution, therefore leading to a larger emitting volume and too high synthetic counts for transition region emission. We implemented an adaption of the TRAC method (Johnston et al. 2021) to rescale the optically thin radiative loss and the emission measure in the transition region to compensate for the numerical broadening. The resulting corrected emission counts generally fall within the observed range, although they remain near the upper end of the observed range. The use of the TRAC method does increase chromospheric evaporation during flares, which results in increased GOES X-ray emission. Specifically for stronger flares (M-X) this requires accounting for non-thermal plasma to avoid unrealistically high GOES emission. I discuss recent attempts to address this issue.
     </details>
 
 
@@ -545,10 +556,10 @@ Atmosphere </summary>
 
     **When**: Wednesday - 09:00:00
 
-    **Coauthors**: J. Martinez-Sykora, A. Winebarger, M.C.M. Cheung, P. Testa, B. De Pontieu, V. Hansteen, C. Johnston, V. Polito, C. Cozzo & V. Upendran
-    <details> <summary> <b>Title</b>: 3D simulations of solar flares with improved treatment of the transition region </summary>
+    **Coauthors**: None
+    <details> <summary> <b>Title</b>: 3D radiation MHD models of quiescent active regions </summary>
       <b>Abstract</b>
-      We compared existing MURaM M and X-flare simulations to large database of flares observed with AIA. It was found that the flare simulations systematically overestimate AIA counts for the cooler channels (171) forming in the transition region by 2-3 orders of magnitude, while the hotter emission (94) was less affected. The root cause for this discrepancy was an overestimation of the transition region width due to insufficient resolution, therefore leading to a larger emitting volume and too high synthetic counts for transition region emission. We implemented an adaption of the TRAC method (Johnston et al. 2021) to rescale the optically thin radiative loss and the emission measure in the transition region to compensate for the numerical broadening. The resulting corrected emission counts generally fall within the observed range, although they remain near the upper end of the observed range. The use of the TRAC method does increase chromospheric evaporation during flares, which results in increased GOES X-ray emission. Specifically for stronger flares (M-X) this requires accounting for non-thermal plasma to avoid unrealistically high GOES emission. I discuss recent attempts to address this issue.
+      In this talk I provide an overview of 3D radiation MHD models of quiescent active regions. These models span in vertical extent from upper convection zone into the lower corona. Resolved magneto-convection in the photosphere self-consistently creates the Poynting flux that transports energy into the corona, however, the heating itself is entirely due to numerical dissipation (either explicit or implicit). While various types of waves are present in these models, heating appears to be dominated by braiding. Currently these models come in two flavors: simulations of entire active regions with moderate resolution and “straightened loop” models that focus on a small non-expanding loop with much higher resolution. Interestingly both types of setups do maintain a corona, suggesting that both macro (scales large than granulation) and micro (scale of granulation and smaller) braiding can provide a sufficient energy flux, ultimately models that combine the full range of scale are needed to address how the energy input into the corona is distributed over the full range of scales. Models of entire active regions do systematically underestimate non-thermal line widths, likely due to lack of sufficient resolution. There are moderate trends that show an increase in the non-thermal linewidth with resolution or reduced viscosity, suggesting that grid spacings of less than 10km would be required. This is supported by loop models that show with 12km grid spacing non-thermal line widths almost compatible with observational constraints. Full active region models with a sufficient resolution (<10km) and a range of scales (sub granular to super granular) to capture the energy transport and associated velocity dynamics should be achievable (although still expensive) within the coming decade.
     </details>
 
 
