@@ -7,8 +7,8 @@ theme:
   name: material
   custom_dir: overrides
   locale: en
-  logo: assets/images/cover_rect.jpg
-  favicon: assets/images/cover_rect.jpg
+  logo: assets/images/small_rect.jpeg
+  favicon: assets/images/small_rect.jpeg
   features:
     - announce.dismiss
     - navigation.tabs
