@@ -140,6 +140,7 @@ def find_when(df, surname):
     col = next(c for c in COL_OFFSETS if match.iloc[0, c] == surname)
     day = DAYS[col // 3]
     time = match.iloc[0, col - 1]
+    time = time.strftime("%H:%M") if time != "" else "FILL IN"
     return f"{day} - {time}"
 
 
