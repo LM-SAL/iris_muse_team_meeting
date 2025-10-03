@@ -6,8 +6,7 @@ title: Instructions for Presenters
 
 ## Talks
 
-Presenters can use their own laptop, ideally via HDMI.
-More information will come.
+Presenters will use their own laptop and will need to connect to the Meeting Zoom so they can share the presentation.
 
 ## No Posters
 
