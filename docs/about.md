@@ -4,24 +4,24 @@ title: About the Joint MUSE/IRIS science team meeting
 
 ## LOC
 
-* Juan Martinez Sykora **[chair]**
-* Rebecca Robinson **[co-chair]**
-* Vishal Upendran **[co-chair]**
-* Gabriele Cozzo
-* Juraj Lorincik
-* Kyuhyoun Cho
-* Nabil Freij
+* Juan Martinez Sykora **(Chair)**
+* Rebecca Robinson **(Co-chair)**
+* Vishal Upendran **(Co-chair)**
 * Souvik Bose
+* Kyuhyoun Cho
+* Gabriele Cozzo
+* Nabil Freij
+* Juraj Lorincik
 
 ## SOC
 
-* Amy Winebarger
-* Bart De Pontieu
-* Fabio Reale
-* Juan Martinez-Sykora
-* Marco Stangalini
 * Mark Cheung
+* Bart De Pontieu
+* Juan Martinez-Sykora
+* Fabio Reale
+* Marco Stangalini
 * Paola Testa
+* Amy Winebarger
 
 ## Contact Us
 
