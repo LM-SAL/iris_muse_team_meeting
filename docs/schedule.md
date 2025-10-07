@@ -42,7 +42,7 @@
     <td class="tg"></td>
     <td class="tg-zero">Cozzo</td>
     <td class="tg"></td>
-    <td class="tg-zero">Stangalini</td>
+    <td class="tg-zero">Upendran</td>
     <td class="tg" rowspan="29" style="vertical-align:top">
 <table class="tg">
     <tbody>
@@ -186,7 +186,7 @@
     <td class="tg">11:15</td>
     <td class="tg-five"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Robinson">Robinson</a></td>
     <td class="tg">11:10</td>
-    <td class="tg-three"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Tarr">Tarr</a></td>
+    <td class="tg-three"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#TBD">TBD</a></td>
     <td class="tg">11:20</td>
     <td class="tg-two"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Bradshaw">Bradshaw</a></td>
     <td class="tg">11:20</td>
@@ -242,7 +242,7 @@
     <td class="tg"></td>
     <td class="tg-zero">Bose</td>
     <td class="tg"></td>
-    <td class="tg-zero">Upendran</td>
+    <td class="tg-zero">Viggo</td>
 
 </tr>
 

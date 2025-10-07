@@ -629,17 +629,6 @@ Atmosphere </summary>
     </details>
 
 
-* <p id="Tarr">**Author**: Lucas Tarr <a class="headerlink" href="#Tarr" title="Permanent link">¶</a>
-
-    **When**: Tuesday - 11:10
-
-    **Coauthors**: Lucas Tarr (NSO), James Leake (GSFC), Dylan Kee (GSFC), Mark Linton (NRL), Pete Schuck (GSFC)
-    <details> <summary> <b>Title</b>: Data driven simulations of emerging and eruptive active regions: validating on a ground truth flux emergence simulation. </summary>
-      <b>Abstract</b>
-      Recent theoretical and computational advances have made data driven models of emerging active regions possible.  Here we discuss the validation of our new method, based on the MHD characteristics, using synthetic observations generated from a ground truth flux emergence simulation.  Our simulations include gravity and a stratified atmosphere, and the driven simulation starts at the ground truth simulation's photosphere and extends into the corona.  Our method solves a minimization problem at each numerical cell and at each timestep in the driven boundary to determine the allowed update, under the magnetohydrodynamic equations, of the cell's state vector that most closely matches an update estimated by other means, i.e., by temporal interpolation between two known boundary states. We find that the driven simulation accurately reproduces the emergence of a twisted flux tube through the photosphere, the formation of key topological features in the corona, and a coronal mass ejection, according to numerous metrics, e.g., the temporal evolution of mass flux, magnetic flux, and Poynting flux at various heights.  This allows fruitful comparison to a variety of multi-wavelength observational diagnostics at a large range of heights above the driven lower boundary.
-    </details>
-
-
 * <p id="Testa">**Author**: Paola Testa <a class="headerlink" href="#Testa" title="Permanent link">¶</a>
 
     **When**: Wednesday - 11:00
