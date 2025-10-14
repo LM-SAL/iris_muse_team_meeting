@@ -3,4 +3,5 @@ extend-ignore-identifiers-re = [
     "Instituto",
     "ake",
     "EIS",
+    "Soler",
 ]
