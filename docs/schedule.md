@@ -357,7 +357,7 @@
     <td class="tg">15:50</td>
     <td class="tg-two"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Imada">Imada</a></td>
     <td class="tg">16:00</td>
-    <td class="tg-one"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Stangalini">Stangalini</a></td>
+    <td class="tg-one"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#TBD">TBD</a></td>
     <td class="tg">15:30</td>
     <td class="tg-six"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Diaz%20Baso">Diaz Baso</a></td>
 
