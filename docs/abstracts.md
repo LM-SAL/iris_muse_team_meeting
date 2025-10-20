@@ -439,6 +439,17 @@ Atmosphere </summary>
     </details>
 
 
+* <p id="Mondal">**Author**: Biswajit Mondal <a class="headerlink" href="#Mondal" title="Permanent link">¶</a>
+
+    **When**: Tuesday - 11:50
+
+    **Coauthors**: Amy R. Winebarger
+    <details> <summary> <b>Title</b>: Does the Flaring Mechanism Drive Elemental Abundance Redistribution? </summary>
+      <b>Abstract</b>
+      X-ray and EUV spectroscopy have revealed a long-standing puzzle in solar physics: the First Ionization Potential (FIP) effect, in which the abundances of certain elements in the corona differ from their photospheric values. These differences are not uniform across coronal structures and exhibit significant fluctuations during flares, yet their connection to the flaring process remains unclear. Here, we discuss a recent study that demonstrates a clear correlation between temperature-sensitive flaring plasma emission and element-specific abundance changes during a solar flare. These findings suggest that energy deposition in the chromosphere drives plasma evaporation from different chromospheric heights, thereby modulating elemental abundances. We also discuss how existing IRIS observations and the upcoming MUSE mission could provide important clues for understanding how flaring mechanisms may be responsible for abundance redistribution.
+    </details>
+
+
 * <p id="Moreno-Insertis">**Author**: Fernando Moreno-Insertis <a class="headerlink" href="#Moreno-Insertis" title="Permanent link">¶</a>
 
     **When**: Tuesday - 14:20
