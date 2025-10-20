@@ -1,3 +1,5 @@
+Last updated on 2025-10-20 14:42 and subject to change.
+
 
 <style type="text/css">
     .tg {font-family:Tahoma, sans-serif;border-collapse:collapse;border-spacing:0;}
@@ -357,7 +359,7 @@
     <td class="tg">15:50</td>
     <td class="tg-two"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Imada">Imada</a></td>
     <td class="tg">15:40</td>
-    <td class="tg-zero">Martínez-Sykora</td>
+    <td class="tg-one"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Mart%C3%ADnez-Sykora">Martínez-Sykora</a></td>
     <td class="tg">15:30</td>
     <td class="tg-six"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Diaz%20Baso">Diaz Baso</a></td>
 
@@ -368,7 +370,7 @@
     <td class="tg">16:05</td>
     <td class="tg-three"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Kazachenko">Kazachenko</a></td>
     <td class="tg">16:10</td>
-    <td class="tg-two">Discussion</td>
+    <td class="tg-zero">Discussion</td>
     <td class="tg">16:00</td>
     <td class="tg-zero">Discussion</td>
     <td class="tg">15:50</td>
