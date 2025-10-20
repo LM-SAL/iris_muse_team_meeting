@@ -144,7 +144,7 @@ def find_when(df, surname):
     return f"{day} - {time}"
 
 
-df = pd.read_excel(Path(FILE_PATH).expanduser().resolve())
+df = pd.read_excel(Path(FILE_PATH).expanduser().resolve(), sheet_name=1)
 df = df.fillna("")
 html_rows = []
 

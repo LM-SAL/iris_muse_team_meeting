@@ -73,7 +73,7 @@ Accepted Abstracts.
 
 * <p id="Chintzoglou">**Author**: Georgios Chintzoglou <a class="headerlink" href="#Chintzoglou" title="Permanent link">¶</a>
 
-    **When**: Tuesday - 11:30
+    **When**: Tuesday - 11:10
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: MUSE Observations as Discriminants of Solar Eruption Models in δ-spot ARs </summary>
@@ -196,7 +196,7 @@ Accepted Abstracts.
 
 * <p id="Ferrente">**Author**: Fabiana Ferrente <a class="headerlink" href="#Ferrente" title="Permanent link">¶</a>
 
-    **When**: Tuesday - 11:50
+    **When**: Tuesday - 11:30
 
     **Coauthors**: Salvatore Luigi Gugliemino, Daniele Spadaro, Paolo Romano
     <details> <summary> <b>Title</b>: Spectropolarimetric Diagnostics of Solar Flares: Observations and Constraints for Numerical Modeling </summary>
@@ -316,17 +316,6 @@ Accepted Abstracts.
     </details>
 
 
-* <p id="Johnston">**Author**: Craig Johnston <a class="headerlink" href="#Johnston" title="Permanent link">¶</a>
-
-    **When**: Tuesday - 16:10
-
-    **Coauthors**: Lars Daldorff, Jim Klimchuk, Peter Schuck, Mark Linton, James Leake, Will Barnes, Jake Parker
-    <details> <summary> <b>Title</b>: Modeling the Transition Region in MHD Simulations and Validation through Comparison with Observations </summary>
-      <b>Abstract</b>
-      We present recent advances on modeling the solar transition region in magnetohydrodynamic (MHD) simulations using the Transition Region Adaptive Conduction (TRAC) method. Validation is achieved through comparisons between synthetic observables from simulations of nanoflare heating, flux emergence and filament formation, and corresponding solar observations.
-    </details>
-
-
 * <p id="Joshi">**Author**: Jayant Joshi <a class="headerlink" href="#Joshi" title="Permanent link">¶</a>
 
     **When**: Thursday - 11:00
@@ -440,7 +429,7 @@ Atmosphere </summary>
 
 * <p id="Martínez-Sykora">**Author**: Juan Martínez-Sykora <a class="headerlink" href="#Mart%C3%ADnez-Sykora" title="Permanent link">¶</a>
 
-    **When**: Wednesday - 14:50
+    **When**: Wednesday - 15:40
 
     **Coauthors**: Sam Evans, Meers Oppenheimer, Yakov Dimant, Bart De Pontieu, Mats Carlsson
     <details> <summary> <b>Title</b>: Probing the Thermal Farley–Buneman Instability in the Chromosphere: New Insights, Limits on Single Fluid Assumptions, Constraints, and Broader Implications. </summary>
@@ -510,7 +499,7 @@ Atmosphere </summary>
 
 * <p id="Przybylski">**Author**: Damien Przybylski <a class="headerlink" href="#Przybylski" title="Permanent link">¶</a>
 
-    **When**: Thursday - 09:50
+    **When**: Wednesday - 13:50
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Simulations of the chromosphere with the MURaM code </summary>
@@ -576,7 +565,7 @@ Atmosphere </summary>
 
 * <p id="Rouppe van der Voort">**Author**: Luc Rouppe van der Voort <a class="headerlink" href="#Rouppe%20van%20der%20Voort" title="Permanent link">¶</a>
 
-    **When**: Wednesday - 13:50
+    **When**: Thursday - 09:50
 
     **Coauthors**: None
     <details> <summary> <b>Title</b>: Recent insights from chromospheric observations </summary>
@@ -587,7 +576,7 @@ Atmosphere </summary>
 
 * <p id="Sainz Dalda">**Author**: Alberto Sainz Dalda <a class="headerlink" href="#Sainz%20Dalda" title="Permanent link">¶</a>
 
-    **When**: Wednesday - 15:40
+    **When**: Wednesday - 15:20
 
     **Coauthors**: Jaime de la Cruz Rodríguez, Viggo Hansteen, Bart De Pontieu, and Milan Gosic
     <details> <summary> <b>Title</b>: The thermodynamics and radiative losses derived from IRIS observation inversions. </summary>
