@@ -6,10 +6,7 @@ title: Instructions for Presenters
 
 ## Talks
 
-Normal talks which are 20 minutes long are 15 minutes for the talk and 5 minutes for questions.
-If you go over the 15 minutes, you will get less time for questions.
-If you go over 20 minutes, your microphone will be cut, with no questions.
-
+Normal talks are 20 minutes long, ideally with 15 minutes for the talk and 5 minutes for questions.
 Scene-setting talks are 30 minutes long and follow the same pattern as normal talks.
 
 Presenters will use their own laptop and will need to connect to the Meeting Zoom so they can share the presentation.
