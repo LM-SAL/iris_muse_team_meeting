@@ -144,7 +144,7 @@ def find_when(df, surname):
     return f"{day} - {time}"
 
 
-df = pd.read_excel(Path(FILE_PATH).expanduser().resolve(), sheet_name=1)
+df = pd.read_excel(Path(FILE_PATH).expanduser().resolve(), sheet_name=2)
 df = df.fillna("")
 html_rows = []
 
@@ -164,7 +164,7 @@ for i, (_, row) in enumerate(rows.iterrows()):
         session_mod = None
         # Scene setting special cases
         if any(name in title for name in SCENE_SETTING_NAMES):
-            if title == "Rempel" and row.iloc[base].strftime("%H:%M") == "15:45":
+            if title == "Rempel" and row.iloc[base].strftime("%H:%M") == "15:35":
                 pass
             elif title == "Reeves" and row.iloc[base] == "":
                 pass
@@ -193,7 +193,7 @@ for i, (_, row) in enumerate(rows.iterrows()):
         cells["LEGEND_CELL"] = ""
     html_rows.append(HTML_TABLE_ROW_TEMPLATE.format(**cells))
 
-schedule_preamble = f"Last updated on {pd.Timestamp.now().strftime('%Y-%m-%d %H:%M')} and subject to change.\n\n"
+schedule_preamble = f"Last updated on {pd.Timestamp.now().strftime('%Y-%m-%d %H:%M')} and subject to change.\n This is subject to revision if the US government shutdown ends before the meeting. \n\n"
 html_table = HTML_TABLE_TEMPLATE.replace("{BODY}", "\n".join(html_rows))
 html_table = schedule_preamble + html_table
 output_path = Path(OUTPUT_FILE)
