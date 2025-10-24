@@ -6,8 +6,8 @@ title: Instructions for Presenters
 
 ## Talks
 
-Normal talks are 20 minutes long, ideally with 15 minutes for the talk and 5 minutes for questions.
-Scene-setting talks are 30 minutes long and follow the same pattern as normal talks.
+Invited talks are 20 minutes long, ideally with 15 minutes for the talk and 5 minutes for questions.
+Scene-setting invited talks are 30 minutes long and follow the same pattern as invited talks.
 
 Presenters will use their own laptop and will need to connect to the Meeting Zoom so they can share the presentation.
 On-site presenters will connect to two screens via HDMI or USB-C.
