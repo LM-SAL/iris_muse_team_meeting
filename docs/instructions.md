@@ -17,19 +17,7 @@ They will be muted, "leave computer audio", and turn off the volume.
 
 Remote presenters will present via Zoom, sharing their screens, which will be displayed in the SETI conference room on two screens.
 
-Please find below the Zoom link for the workshop:
-
-Topic: Joint MUSE/IRIS Science Team Meeting
-Join Zoom Meeting
-
-[https://us02web.zoom.us/j/88982885436?pwd=S71A8mH7ObXDobJHhQmagL0nuIq4gV.1](https://us02web.zoom.us/j/88982885436?pwd=S71A8mH7ObXDobJHhQmagL0nuIq4gV.1)
-
-View meeting insights with Zoom AI Companion
-[https://us02web.zoom.us/launch/edl?muid=7765a5e4-75ae-4f9d-b3d9-d37631bdcaf5](https://us02web.zoom.us/launch/edl?muid=7765a5e4-75ae-4f9d-b3d9-d37631bdcaf5)
-
-Meeting ID: 889 8288 5436
-
-Passcode: 096407
+Zoom information is found in the invited Slack channel, if you do not have access please contact the LOC for an invite.
 
 ## No Posters
 
