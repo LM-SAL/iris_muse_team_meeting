@@ -2,7 +2,7 @@
 title: Instructions for Presenters
 ---
 
-# For presenters
+# Instructions for Presenters
 
 ## Talks
 
