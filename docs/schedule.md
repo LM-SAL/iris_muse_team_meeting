@@ -1,5 +1,4 @@
-Last updated on 2025-10-23 19:51 and subject to change.
- This is subject to revision if the US government shutdown ends before the meeting.
+Last updated on 2025-10-23 20:02 and subject to revision if the US government shutdown ends before the meeting.
 
 
 <style type="text/css">

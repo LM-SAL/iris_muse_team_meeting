@@ -193,7 +193,7 @@ for i, (_, row) in enumerate(rows.iterrows()):
         cells["LEGEND_CELL"] = ""
     html_rows.append(HTML_TABLE_ROW_TEMPLATE.format(**cells))
 
-schedule_preamble = f"Last updated on {pd.Timestamp.now().strftime('%Y-%m-%d %H:%M')} and subject to change.\n This is subject to revision if the US government shutdown ends before the meeting. \n\n"
+schedule_preamble = f"Last updated on {pd.Timestamp.now().strftime('%Y-%m-%d %H:%M')} and subject to revision if the US government shutdown ends before the meeting.\n\n"
 html_table = HTML_TABLE_TEMPLATE.replace("{BODY}", "\n".join(html_rows))
 html_table = schedule_preamble + html_table
 output_path = Path(OUTPUT_FILE)
