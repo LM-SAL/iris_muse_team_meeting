@@ -532,7 +532,7 @@ Atmosphere </summary>
 
 * <p id="Rempel">**Author**: Matthias Rempel <a class="headerlink" href="#Rempel2" title="Permanent link">¶</a>
 
-    **When**: Wednesday - 09:00
+    **When**: Monday - 15:35
 
     **Coauthors**: J. Martinez-Sykora, A. Winebarger, M.C.M. Cheung, P. Testa, B. De Pontieu, V. Hansteen, C. Johnston, V. Polito, C. Cozzo & V. Upendran
     <details> <summary> <b>Title</b>: 3D simulations of solar flares with improved treatment of the transition region </summary>
