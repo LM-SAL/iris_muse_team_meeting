@@ -1,4 +1,4 @@
-Last updated on 2025-10-23 20:02 and subject to revision if the US government shutdown ends before the meeting.
+Last updated on 2025-10-25 15:01 and subject to revision if the US government shutdown ends before the meeting.
 
 
 <style type="text/css">
@@ -347,7 +347,7 @@ Last updated on 2025-10-23 20:02 and subject to revision if the US government sh
     <td class="tg-two"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Imada">Imada</a></td>
     <td class="tg">15:40</td>
     <td class="tg-one"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Mart%C3%ADnez-Sykora">Martínez-Sykora</a></td>
-    <td class="tg">15:50</td>
+    <td class="tg">15:40</td>
     <td class="tg-six"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Diaz%20Baso">Diaz Baso</a></td>
 
 </tr>

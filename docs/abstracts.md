@@ -141,7 +141,7 @@ Accepted Abstracts.
 
 * <p id="Diaz Baso">**Author**: Carlos Diaz Baso <a class="headerlink" href="#Diaz%20Baso" title="Permanent link">¶</a>
 
-    **When**: Thursday - 15:50
+    **When**: Thursday - 15:40
 
     **Coauthors**: TBD
     <details> <summary> <b>Title</b>: How machine learning and inversion techniques can advance our understanding of the low solar atmosphere? </summary>
