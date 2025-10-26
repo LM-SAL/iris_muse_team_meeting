@@ -59,7 +59,7 @@ We encourage the conference attendees to rent a car and/or coordinate with other
 The attendees are free to park at the SETI carpark.
 Both Uber and Lyft operate in the area and are convenient.
 
-## Reception 
+## Reception
 
 The reception is on Monday right after the conference meeting hosted at the SETI institute.
 
