@@ -58,3 +58,12 @@ Routes can be planned via Google Maps, attendees are encouraged to check the [sc
 We encourage the conference attendees to rent a car and/or coordinate with others who will do so.
 The attendees are free to park at the SETI carpark.
 Both Uber and Lyft operate in the area and are convenient.
+
+## Reception
+
+The reception is on Monday right after the conference meeting hosted at the SETI institute. 
+
+## Social dinner
+
+The social dinner is on Wednesday at 6:30 PM in [Ludwigs Biergarten](https://www.google.com/maps/place/Ludwigs+Biergarten/@37.3911531,-122.0806584,268m/data=!3m1!1e3!4m6!3m5!1s0x808fb799a02a60af:0x1494447ce3ccc914!8m2!3d37.3913986!4d-122.0800827!16s%2Fg%2F11k5txb_jg?entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D). 
+
