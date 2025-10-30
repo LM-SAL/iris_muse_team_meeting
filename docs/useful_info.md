@@ -4,6 +4,13 @@ title: Useful Information
 
 # Useful Information
 
+## Group Photo
+
+<div style="text-align: center;">
+     <!-- The subpages need to use a relative path to the image -->
+    <img src="../assets/images/DSC00344.jpg"/>
+</div>
+
 ## Venue
 
 The Joint MUSE/IRIS science team meeting is being held at the [SETI Institute's main office](https://www.seti.org/) in Mountain View, California, USA:
