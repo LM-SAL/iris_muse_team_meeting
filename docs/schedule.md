@@ -244,7 +244,7 @@ Last updated on 2025-10-25 15:01 and subject to revision if the US government sh
     <td class="tg">13:20</td>
     <td class="tg-one tg-nine"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#de%20la%20Cruz%20Rodriguez">de la Cruz Rodriguez</a></td>
     <td class="tg">13:30</td>
-    <td class="tg-four"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Upendran">Upendran</a></td>
+    <td class="tg-six"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Glesener">Glesener</a></td>
 
 </tr>
 
@@ -283,7 +283,7 @@ Last updated on 2025-10-25 15:01 and subject to revision if the US government sh
     <td class="tg">14:30</td>
     <td class="tg-one"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Okamoto">Okamoto</a></td>
     <td class="tg">14:30</td>
-    <td class="tg-six"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Glesener">Glesener</a></td>
+    <td class="tg-four"><a href="https://lm-sal.github.io/iris_muse_team_meeting/abstracts/#Upendran">Upendran</a></td>
 
 </tr>
 
